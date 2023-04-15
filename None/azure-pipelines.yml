@@ -1,0 +1,28 @@
+name: 'Build'
+
+trigger:
+- main
+
+variables:
+  DOTNET_SKIP_FIRST_TIME_EXPERIENCE: true
+  DOTNET_SYSTEM_GLOBALIZATION_INVARIANT: 1
+
+jobs:
+- job: BuildWindows
+  displayName: 'Windows Server 2022'
+  pool:
+    vmImage: 'windows-latest'
+
+  steps:
+  - task: UseDotNet@2
+    displayName: 'Install .NET 7'
+    inputs:
+      packageType: sdk
+      version: 7.0.202
+  - task: NuGetAuthenticate@1
+  - script: ./publish.cmd Release
+    displayName: 'Build'
+  - script: git diff --exit-code ./**/Migrations/*.v*.json
+    displayName: Migration Changes
+  - script: dotnet test --no-restore
+    displayName: 'Test'
