@@ -1,0 +1,213 @@
+# 4/9/2023 10:09:15 PM
+System.ArgumentNullException: Value cannot be null. (Parameter 'collection')
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at Server.SkillPickGump..ctor(SkillBook book, Int32 selectionsMade, List`1 selectedSkills) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Custom\SkillBallPlus.cs:line 50
+   at Server.SkillBook.OnDoubleClick(Mobile m) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Custom\SkillBallPlus.cs:line 449
+   at Server.Mobile.Use(Item item) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Mobiles\Mobile.cs:line 4940
+   at Server.Network.IncomingEntityPackets.UseReq(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingEntityPackets.cs:line 90
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 826
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 705
+
+
+# 4/9/2023 10:58:08 PM
+System.ArgumentNullException: Value cannot be null. (Parameter 'collection')
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at Server.SkillPickGump..ctor(SkillBook book, Int32 selectionsMade, List`1 selectedSkills) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Custom\SkillBallPlus.cs:line 50
+   at Server.SkillBook.OnDoubleClick(Mobile m) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Custom\SkillBallPlus.cs:line 469
+   at Server.Mobile.Use(Item item) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Mobiles\Mobile.cs:line 4940
+   at Server.Network.IncomingEntityPackets.UseReq(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingEntityPackets.cs:line 90
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 826
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 705
+
+
+# 4/9/2023 11:33:00 PM
+System.ArgumentNullException: Value cannot be null. (Parameter 'collection')
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at Server.SkillPickGump..ctor(SkillBook book, Int32 selectionsMade, List`1 selectedSkills) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Custom\SkillBallPlus.cs:line 50
+   at Server.SkillBook.OnDoubleClick(Mobile m) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Custom\SkillBallPlus.cs:line 469
+   at Server.Mobile.Use(Item item) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Mobiles\Mobile.cs:line 4940
+   at Server.Network.IncomingEntityPackets.UseReq(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingEntityPackets.cs:line 90
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 736
+
+
+# 4/10/2023 1:39:09 AM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Commands.DecorationList.Construct() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 973
+   at Server.Commands.DecorationList.Generate(Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 1175
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 59
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 34
+   at Server.CommandSystem.Handle(Mobile from, String text, MessageType type) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Commands.cs:line 226
+   at Server.Gumps.AdminGump.InvokeCommand(String c) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 4140
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 2157
+   at Server.Network.IncomingPlayerPackets.DisplayGumpResponse(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingPlayerPackets.cs:line 449
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 736
+
+
+# 4/10/2023 1:51:00 AM
+System.ArgumentOutOfRangeException: Length cannot be less than zero. (Parameter 'length')
+   at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at Server.Commands.DecorationList.Read(StreamReader ip)
+   at Server.Commands.DecorationList.ReadAll(String path) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 1244
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 55
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 34
+   at Server.CommandSystem.Handle(Mobile from, String text, MessageType type) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Commands.cs:line 207
+   at Server.Gumps.AdminGump.InvokeCommand(String c) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 4140
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 2157
+   at Server.Network.IncomingPlayerPackets.DisplayGumpResponse(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingPlayerPackets.cs:line 449
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 736
+
+
+# 4/10/2023 1:54:28 AM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Commands.DecorationList.Construct() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 444
+   at Server.Commands.DecorationList.Generate(Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 1235
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 59
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 34
+   at Server.CommandSystem.Handle(Mobile from, String text, MessageType type) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Commands.cs:line 207
+   at Server.Gumps.AdminGump.InvokeCommand(String c) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 4140
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 2157
+   at Server.Network.IncomingPlayerPackets.DisplayGumpResponse(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingPlayerPackets.cs:line 480
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 736
+
+
+# 4/10/2023 1:58:16 AM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Commands.DecorationList.Construct() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 973
+   at Server.Commands.DecorationList.Generate(Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 1175
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 59
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 34
+   at Server.CommandSystem.Handle(Mobile from, String text, MessageType type) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Commands.cs:line 226
+   at Server.Gumps.AdminGump.InvokeCommand(String c) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 4140
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 2157
+   at Server.Network.IncomingPlayerPackets.DisplayGumpResponse(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingPlayerPackets.cs:line 449
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 597
+
+
+# 4/11/2023 5:12:10 AM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Menus.ItemLists.BlacksmithMenuGump..ctor(Mobile mobile, BaseTool tool, Int32 initialPage) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Custom\Pre T2A Crafting Menu\BlacksmithMenu.cs:line 33
+   at Server.Gumps.MenuChoiceSmith.OnResponse(NetState sender, RelayInfo info) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Custom\Pre T2A Crafting Menu\MenuChoice Gumps\MenuChoiceSmithGump.cs:line 71
+   at Server.Network.IncomingPlayerPackets.DisplayGumpResponse(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingPlayerPackets.cs:line 449
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 826
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 597
+
+
+# 4/15/2023 1:18:36 AM
+System.ArgumentOutOfRangeException: Length cannot be less than zero. (Parameter 'length')
+   at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Server.Commands.DecorationList.Read(StreamReader ip) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 1276
+   at Server.Commands.DecorationList.ReadAll(String path) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 1245
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 56
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 34
+   at Server.CommandSystem.Handle(Mobile from, String text, MessageType type) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Commands.cs:line 226
+   at Server.Gumps.AdminGump.InvokeCommand(String c) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 4144
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 2161
+   at Server.Network.IncomingPlayerPackets.DisplayGumpResponse(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingPlayerPackets.cs:line 480
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 736
+
+
+# 4/15/2023 1:20:09 AM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Commands.DecorationList.Construct() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 974
+   at Server.Commands.DecorationList.Generate(Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 1176
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 60
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 34
+   at Server.CommandSystem.Handle(Mobile from, String text, MessageType type) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Commands.cs:line 226
+   at Server.Gumps.AdminGump.InvokeCommand(String c) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 4144
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 2161
+   at Server.Network.IncomingPlayerPackets.DisplayGumpResponse(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingPlayerPackets.cs:line 480
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 736
+
+
+# 4/15/2023 1:20:38 AM
+System.ArgumentException: Type not found for header: 'Portcullis 0x6F5'
+   at Server.Commands.DecorationList.Read(StreamReader ip)
+   at Server.Commands.DecorationList.ReadAll(String path) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 1245
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 56
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 34
+   at Server.CommandSystem.Handle(Mobile from, String text, MessageType type) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Commands.cs:line 226
+   at Server.Gumps.AdminGump.InvokeCommand(String c) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 4144
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 2161
+   at Server.Network.IncomingPlayerPackets.DisplayGumpResponse(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingPlayerPackets.cs:line 480
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 736
+
+
+# 4/15/2023 1:21:09 AM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Commands.DecorationList.Construct() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 974
+   at Server.Commands.DecorationList.Generate(Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 1176
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 60
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 34
+   at Server.CommandSystem.Handle(Mobile from, String text, MessageType type) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Commands.cs:line 226
+   at Server.Gumps.AdminGump.InvokeCommand(String c) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 4144
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 2161
+   at Server.Network.IncomingPlayerPackets.DisplayGumpResponse(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingPlayerPackets.cs:line 480
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 736
+
+
+# 4/15/2023 1:22:22 AM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Commands.DecorationList.Construct() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 445
+   at Server.Commands.DecorationList.Generate(Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 1236
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 60
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 34
+   at Server.CommandSystem.Handle(Mobile from, String text, MessageType type) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Commands.cs:line 207
+   at Server.Gumps.AdminGump.InvokeCommand(String c) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 4144
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 2161
+   at Server.Network.IncomingPlayerPackets.DisplayGumpResponse(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingPlayerPackets.cs:line 480
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 736
+
+
+# 4/15/2023 1:23:08 AM
+System.ArgumentException: Type not found for header: 'portullisNS 0x6F5'
+   at Server.Commands.DecorationList.Read(StreamReader ip)
+   at Server.Commands.DecorationList.ReadAll(String path) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 1245
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 56
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 34
+   at Server.CommandSystem.Handle(Mobile from, String text, MessageType type) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Commands.cs:line 207
+   at Server.Gumps.AdminGump.InvokeCommand(String c) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 4144
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 2161
+   at Server.Network.IncomingPlayerPackets.DisplayGumpResponse(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingPlayerPackets.cs:line 480
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 736
+
+
+# 4/15/2023 1:26:15 AM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Commands.DecorationList.Construct() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 445
+   at Server.Commands.DecorationList.Generate(Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 1236
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 60
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 34
+   at Server.CommandSystem.Handle(Mobile from, String text, MessageType type) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Commands.cs:line 207
+   at Server.Gumps.AdminGump.InvokeCommand(String c) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 4144
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 4108
+   at Server.Network.IncomingPlayerPackets.DisplayGumpResponse(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingPlayerPackets.cs:line 480
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 736
+
+
+# 4/15/2023 1:33:30 AM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Commands.DecorationList.Construct() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 445
+   at Server.Commands.DecorationList.Generate(Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 1236
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 60
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Commands\Object Creation\Decorate.cs:line 34
+   at Server.CommandSystem.Handle(Mobile from, String text, MessageType type) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Commands.cs:line 207
+   at Server.Gumps.AdminGump.InvokeCommand(String c) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 4144
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Gumps\AdminGump.cs:line 4108
+   at Server.Network.IncomingPlayerPackets.DisplayGumpResponse(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\Network\Packets\IncomingPlayerPackets.cs:line 480
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 736
+
+

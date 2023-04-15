@@ -1,0 +1,155 @@
+##############################
+Log started on 4/15/2023 12:29:41 AM
+
+##############################
+Log started on 4/15/2023 12:35:07 AM
+
+##############################
+Log started on 4/15/2023 12:36:55 AM
+
+##############################
+Log started on 4/15/2023 12:53:00 AM
+
+##############################
+Log started on 4/15/2023 1:00:25 AM
+
+4/15/2023 1:01:48 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'save '
+4/15/2023 1:01:51 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'admin '
+4/15/2023 1:01:55 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'where '
+4/15/2023 1:01:58 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'decorate '
+4/15/2023 1:01:59 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'telgen '
+4/15/2023 1:01:59 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'GenerateSpawners Data/Spawns/uoml/trammel/*.json'
+4/15/2023 1:01:59 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'GenerateSpawners Data/Spawns/uoml/felucca/*.json'
+4/15/2023 1:02:05 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'save '
+##############################
+Log started on 4/15/2023 1:02:36 AM
+
+4/15/2023 1:02:45 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'gmbody '
+4/15/2023 1:02:46 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') is assuming a GM body
+4/15/2023 1:02:48 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'save '
+##############################
+Log started on 4/15/2023 1:03:07 AM
+
+4/15/2023 1:09:41 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/15/2023 1:09:45 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/15/2023 1:09:49 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/15/2023 1:11:22 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'ItemID' of 0x40006727 (Static) to '2598'
+4/15/2023 1:11:30 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'admin '
+4/15/2023 1:11:34 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'clearall '
+4/15/2023 1:11:36 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'decorate '
+4/15/2023 1:11:39 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/15/2023 1:11:44 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/15/2023 1:11:54 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'ItemID' of 0x40017E5F (Static) to '2842'
+4/15/2023 1:12:29 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'admin '
+4/15/2023 1:12:33 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'clearall '
+4/15/2023 1:12:42 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'save '
+4/15/2023 1:17:20 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add PortCull'
+4/15/2023 1:18:00 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'where '
+4/15/2023 1:18:22 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'admin '
+4/15/2023 1:18:31 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'clearall '
+4/15/2023 1:19:11 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add portc'
+4/15/2023 1:19:26 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (1384, 1464, 10) in Felucca: "PortcullisNS"
+4/15/2023 1:19:26 AM: 127.0.0.1: Serials: 0x40018A2C; 
+4/15/2023 1:19:29 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/15/2023 1:19:54 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'admin '
+4/15/2023 1:19:57 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Remove'
+4/15/2023 1:19:59 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x40018A2C (PortcullisNS)
+4/15/2023 1:20:07 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'clearall '
+4/15/2023 1:20:34 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'admin '
+4/15/2023 1:21:05 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'admin '
+4/15/2023 1:21:28 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'admin '
+4/15/2023 1:21:32 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'decorate '
+4/15/2023 1:21:39 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/15/2023 1:21:42 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/15/2023 1:21:45 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/15/2023 1:22:09 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'move '
+4/15/2023 1:22:11 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') moving 0x40018A2D (Static) to (1380, 1465, 10)
+4/15/2023 1:23:04 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'admin '
+4/15/2023 1:26:11 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'admin '
+4/15/2023 1:28:15 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/15/2023 1:28:22 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Remove'
+4/15/2023 1:28:22 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x40018A2D (Static)
+4/15/2023 1:28:29 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add portcullis'
+4/15/2023 1:28:33 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (1380, 1464, 10) in Felucca: "PortcullisNS"
+4/15/2023 1:28:33 AM: 127.0.0.1: Serials: 0x4001FCAB; 
+4/15/2023 1:28:53 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/15/2023 1:33:26 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'admin '
+##############################
+Log started on 4/15/2023 2:04:40 AM
+
+4/15/2023 2:05:03 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'admin '
+4/15/2023 2:05:07 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'decorate '
+4/15/2023 2:06:53 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'clearall '
+4/15/2023 2:06:55 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'decorate '
+4/15/2023 2:07:07 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'GenerateSpawners Data/Spawns/uoml/trammel/*.json'
+4/15/2023 2:07:07 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'GenerateSpawners Data/Spawns/uoml/felucca/*.json'
+4/15/2023 2:07:11 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'telgen '
+4/15/2023 2:07:23 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Tele'
+4/15/2023 2:22:27 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add smithham'
+4/15/2023 2:22:30 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (1426, 1557, 30) in Felucca: "SmithHammer"
+4/15/2023 2:22:30 AM: 127.0.0.1: Serials: 0x400384F0; 
+4/15/2023 2:29:26 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add iriningot 500'
+4/15/2023 2:29:44 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add ironingot 500'
+4/15/2023 2:29:46 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (1426, 1555, 30) in Felucca: "ironingot" "500"
+4/15/2023 2:29:46 AM: 127.0.0.1: Serials: 0x400384F1; 
+4/15/2023 2:30:30 AM: 127.0.0.1: Crafting 0x40038504 (Mace) with craft system DefBlacksmithy
+4/15/2023 2:32:25 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/15/2023 2:43:26 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Tele'
+4/15/2023 2:44:10 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/15/2023 3:25:01 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add fishingpole'
+4/15/2023 3:25:03 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (1433, 1765, -2) in Felucca: "fishingpole"
+4/15/2023 3:25:03 AM: 127.0.0.1: Serials: 0x40039180; 
+4/15/2023 3:25:08 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/15/2023 3:41:17 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add knife'
+4/15/2023 3:41:19 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (1448, 1755, -2) in Felucca: "knife"
+4/15/2023 3:41:19 AM: 127.0.0.1: Serials: 0x40039588; 
+4/15/2023 3:41:54 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add butcherknife'
+4/15/2023 3:41:56 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (1448, 1755, -2) in Felucca: "butcherknife"
+4/15/2023 3:41:56 AM: 127.0.0.1: Serials: 0x40039595; 
+4/15/2023 3:42:19 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Remove'
+4/15/2023 3:42:24 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x40039588 (Knife)
+4/15/2023 3:42:26 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x40039595 (ButcherKnife)
+4/15/2023 3:42:28 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x40038504 (Mace)
+4/15/2023 3:42:29 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x400384F0 (SmithHammer)
+4/15/2023 3:42:43 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Remove'
+4/15/2023 3:42:45 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x400384F1 (IronIngot)
+4/15/2023 3:44:15 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add pan'
+4/15/2023 3:44:29 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add coo'
+4/15/2023 3:44:56 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Tele'
+4/15/2023 3:45:19 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') unhiding 0x00000001 "Zyx" ('admin')
+4/15/2023 3:45:19 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'Self Unhide'
+4/15/2023 3:47:55 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add pan'
+4/15/2023 3:49:12 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add baki'
+4/15/2023 3:49:36 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add skill'
+4/15/2023 3:49:42 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add skille'
+4/15/2023 3:49:45 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (1450, 1615, 20) in Felucca: "Skillet"
+4/15/2023 3:49:45 AM: 127.0.0.1: Serials: 0x40039860; 
+4/15/2023 3:50:01 AM: 127.0.0.1: Crafting 0x40039865 (FishSteak) with craft system DefCooking
+4/15/2023 3:50:18 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') hiding 0x00000001 "Zyx" ('admin')
+4/15/2023 3:50:18 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'Self Hide'
+4/15/2023 3:50:19 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Tele'
+4/15/2023 3:51:18 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'go 375 1191 0'
+4/15/2023 3:51:32 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'admin '
+4/15/2023 3:51:36 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'clearall '
+4/15/2023 3:51:40 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'decorate '
+4/15/2023 3:51:41 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'GenerateSpawners Data/Spawns/uoml/trammel/*.json'
+4/15/2023 3:51:41 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'GenerateSpawners Data/Spawns/uoml/felucca/*.json'
+4/15/2023 3:51:45 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'telgen '
+4/15/2023 3:52:49 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'go 567 1239 0'
+4/15/2023 3:53:25 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'go 567 1239 0'
+4/15/2023 3:58:44 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'clearall '
+4/15/2023 3:58:49 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'GenerateSpawners Data/Spawns/uoml/trammel/*.json'
+4/15/2023 3:58:49 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'GenerateSpawners Data/Spawns/uoml/felucca/*.json'
+4/15/2023 3:59:02 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'decorate '
+4/15/2023 3:59:04 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'telgen '
+4/15/2023 3:59:28 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'go '
+4/15/2023 3:59:35 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Tele'
+4/15/2023 4:01:38 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Tele'
+4/15/2023 4:09:25 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Tele'
+4/15/2023 4:09:58 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'go '
+4/15/2023 4:10:44 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Tele'
+4/15/2023 4:11:04 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') unhiding 0x00000001 "Zyx" ('admin')
+4/15/2023 4:11:04 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'Self Unhide'
+4/15/2023 4:12:17 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Tele'
+4/15/2023 4:12:22 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'go '
+4/15/2023 4:17:46 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'save '

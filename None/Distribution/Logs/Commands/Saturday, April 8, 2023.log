@@ -1,0 +1,393 @@
+##############################
+Log started on 4/8/2023 12:21:20 AM
+
+4/8/2023 12:21:53 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'admin '
+4/8/2023 12:28:13 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'save '
+##############################
+Log started on 4/8/2023 12:28:31 AM
+
+##############################
+Log started on 4/8/2023 3:00:59 AM
+
+4/8/2023 3:01:12 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'admin '
+4/8/2023 3:01:14 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'gmbody '
+4/8/2023 3:01:16 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') is assuming a GM body
+4/8/2023 3:01:59 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'speedboost '
+4/8/2023 3:02:22 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'M Tele'
+4/8/2023 3:02:54 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'gmbody '
+4/8/2023 3:02:56 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') unhiding 0x00000001 "Zyz" ('admin')
+4/8/2023 3:02:56 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'Self Unhide'
+4/8/2023 3:02:58 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') is assuming a GM body
+4/8/2023 3:03:00 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') unhiding 0x00000001 "Zyz" ('admin')
+4/8/2023 3:03:00 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'Self Unhide'
+4/8/2023 3:03:46 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'admin '
+4/8/2023 3:03:53 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'clearall '
+4/8/2023 3:04:02 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'go trammel'
+4/8/2023 3:04:08 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'go felucca'
+4/8/2023 3:04:19 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'recover '
+4/8/2023 3:12:23 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'gmbody '
+4/8/2023 3:12:24 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') is assuming a GM body
+4/8/2023 3:12:31 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') unhiding 0x00000001 "Zyz" ('admin')
+4/8/2023 3:12:31 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'Self Unhide'
+4/8/2023 3:12:33 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') unhiding 0x00000001 "Zyz" ('admin')
+4/8/2023 3:12:33 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'Self Unhide'
+4/8/2023 3:12:34 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') unhiding 0x00000001 "Zyz" ('admin')
+4/8/2023 3:12:34 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'Self Unhide'
+4/8/2023 3:12:35 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') hiding 0x00000001 "Zyz" ('admin')
+4/8/2023 3:12:35 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'Self Hide'
+4/8/2023 3:12:37 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') unhiding 0x00000001 "Zyz" ('admin')
+4/8/2023 3:12:37 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'Self Unhide'
+4/8/2023 3:13:21 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'props '
+4/8/2023 3:13:29 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'gmbody '
+4/8/2023 3:13:31 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') is assuming a GM body
+4/8/2023 3:13:35 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'props '
+4/8/2023 3:13:40 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'props '
+4/8/2023 3:14:02 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') unhiding 0x00000001 "Zyz" ('admin')
+4/8/2023 3:14:02 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'Self Unhide'
+4/8/2023 3:14:07 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'M Remove'
+4/8/2023 3:14:09 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') deleting 0x40028D4C (Backpack)
+4/8/2023 3:14:15 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'add backpack''
+4/8/2023 3:14:21 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') building at (1496, 1629, 10) in Felucca: "Backpack"
+4/8/2023 3:14:21 AM: 127.0.0.1: Serials: 0x40028D53; 
+4/8/2023 3:16:09 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'props '
+4/8/2023 3:16:20 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'Hue' of 0x40028D51 (AdminRobe) to '43'
+4/8/2023 3:16:38 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'set hue 1170'
+4/8/2023 3:16:40 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'hue' of 0x40028D51 (AdminRobe) to '1170'
+4/8/2023 3:16:46 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'set hue 1180'
+4/8/2023 3:16:48 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'hue' of 0x40028D51 (AdminRobe) to '1180'
+4/8/2023 3:16:52 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'set hue 1150'
+4/8/2023 3:16:53 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'hue' of 0x40028D51 (AdminRobe) to '1150'
+4/8/2023 3:17:01 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'set hue 1151'
+4/8/2023 3:17:02 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'hue' of 0x40028D51 (AdminRobe) to '1151'
+4/8/2023 3:17:07 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'set hue 777'
+4/8/2023 3:17:09 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'hue' of 0x40028D51 (AdminRobe) to '777'
+4/8/2023 3:17:17 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'set hue 1155'
+4/8/2023 3:17:21 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'hue' of 0x40028D51 (AdminRobe) to '1155'
+4/8/2023 3:17:26 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'set hue 1150'
+4/8/2023 3:17:28 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'hue' of 0x40028D51 (AdminRobe) to '1150'
+4/8/2023 3:19:02 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'recover '
+4/8/2023 3:20:10 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'adddoor '
+##############################
+Log started on 4/8/2023 3:38:38 AM
+
+4/8/2023 3:38:51 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'gmbody '
+4/8/2023 3:38:53 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') is assuming a GM body
+4/8/2023 3:38:54 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') unhiding 0x00000001 "Zyz" ('admin')
+4/8/2023 3:38:54 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'Self Unhide'
+4/8/2023 3:39:07 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') unhiding 0x00000001 "Zyz" ('admin')
+4/8/2023 3:39:07 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'Self Unhide'
+4/8/2023 3:39:24 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'addstairs '
+4/8/2023 3:39:32 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'adddoor '
+4/8/2023 3:39:42 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'Add BrickStairs South 4'
+4/8/2023 3:39:42 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') building at (1501, 1629, 10) in Felucca: "BrickStairs" "South" "4"
+4/8/2023 3:39:42 AM: 127.0.0.1: Serials: 0x40028D5C; 
+4/8/2023 3:39:45 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'M Remove'
+4/8/2023 3:39:46 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') deleting 0x40028D63 (AddonComponent)
+##############################
+Log started on 4/8/2023 4:28:07 AM
+
+4/8/2023 4:28:20 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'add gmet'
+4/8/2023 4:28:24 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') building at (1500, 1629, 10) in Felucca: "GMEthereal"
+4/8/2023 4:28:24 AM: 127.0.0.1: Serials: 0x40028D5D; 
+4/8/2023 4:28:34 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'props '
+4/8/2023 4:28:41 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'Tiger'
+##############################
+Log started on 4/8/2023 4:29:23 AM
+
+4/8/2023 4:29:36 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'add gmethe'
+4/8/2023 4:29:39 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') building at (1500, 1629, 10) in Felucca: "GMEthereal"
+4/8/2023 4:29:39 AM: 127.0.0.1: Serials: 0x40028D5D; 
+4/8/2023 4:29:44 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'props '
+4/8/2023 4:29:49 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'OstardFrenzied'
+4/8/2023 4:30:03 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'OstardDesert'
+4/8/2023 4:30:10 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'Llama'
+4/8/2023 4:30:14 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'Horse'
+4/8/2023 4:30:18 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'Ridgeback'
+4/8/2023 4:30:24 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'Unicorn'
+4/8/2023 4:30:29 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'Beetle'
+4/8/2023 4:30:36 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'Kirin'
+4/8/2023 4:30:40 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'SwampDragon'
+4/8/2023 4:30:45 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'SkeletalHorse'
+4/8/2023 4:30:51 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'ChargerOfTheFallen'
+4/8/2023 4:30:57 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'Hiryu'
+4/8/2023 4:31:07 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'SeaHorse'
+4/8/2023 4:31:18 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'M Tele'
+4/8/2023 4:31:29 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'SeaHorse'
+4/8/2023 4:31:41 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'PolarBear'
+4/8/2023 4:31:44 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'M Tele'
+4/8/2023 4:32:04 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'props '
+4/8/2023 4:32:08 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'EthyType' of 0x40028D5D (GMEthereal) to 'Horse'
+4/8/2023 4:32:20 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'Hue' of 0x40028D5D (GMEthereal) to '348'
+##############################
+Log started on 4/8/2023 4:43:45 AM
+
+4/8/2023 4:46:13 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'kill '
+4/8/2023 4:46:30 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'add dragon'
+4/8/2023 4:46:32 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') building at (1516, 1624, 10) in Felucca: "dragon"
+4/8/2023 4:46:32 AM: 127.0.0.1: Serials: 0x00000002; 
+4/8/2023 4:46:44 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'set hits 0'
+4/8/2023 4:46:46 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'hits' of 0x00000001 "Zyz" ('admin') to '0'
+4/8/2023 4:47:18 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'set str 1'
+4/8/2023 4:47:20 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') set property 'str' of 0x00000001 "Zyz" ('admin') to '1'
+4/8/2023 4:47:24 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'add dragon'
+4/8/2023 4:47:26 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') building at (1515, 1622, 10) in Felucca: "dragon"
+4/8/2023 4:47:26 AM: 127.0.0.1: Serials: 0x00000003; 
+4/8/2023 4:47:49 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'recover '
+4/8/2023 4:47:52 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'gmbody '
+4/8/2023 4:47:52 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') is assuming a GM body
+4/8/2023 4:48:03 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'M Remove'
+4/8/2023 4:48:06 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') deleting 0x40028D79 (Corpse)
+4/8/2023 4:48:07 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') deleting 0x40028D75 (Corpse)
+4/8/2023 4:48:07 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') deleting 0x00000003 "a dragon" (no account)
+4/8/2023 4:48:11 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') unhiding 0x00000001 "Zyz" ('admin')
+4/8/2023 4:48:11 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'Self Unhide'
+##############################
+Log started on 4/8/2023 4:52:22 AM
+
+##############################
+Log started on 4/8/2023 4:56:58 AM
+
+4/8/2023 4:57:29 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'add stafforb'
+4/8/2023 4:57:31 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') building at (1510, 1629, 10) in Felucca: "stafforb"
+4/8/2023 4:57:31 AM: 127.0.0.1: Serials: 0x40028D85; 
+##############################
+Log started on 4/8/2023 5:10:54 AM
+
+##############################
+Log started on 4/8/2023 5:12:35 AM
+
+4/8/2023 5:13:06 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'gmbody '
+4/8/2023 5:13:08 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') is assuming a GM body
+##############################
+Log started on 4/8/2023 5:14:45 AM
+
+4/8/2023 5:15:33 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'save '
+4/8/2023 5:15:36 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'gmbody '
+4/8/2023 5:15:37 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') is assuming a GM body
+##############################
+Log started on 4/8/2023 5:23:02 AM
+
+4/8/2023 5:24:47 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') unhiding 0x00000001 "Zyx" ('admin')
+4/8/2023 5:24:47 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'Self Unhide'
+4/8/2023 5:25:56 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') unhiding 0x00000001 "Zyx" ('admin')
+4/8/2023 5:25:56 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'Self Unhide'
+4/8/2023 5:25:59 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') hiding 0x00000001 "Zyx" ('admin')
+4/8/2023 5:25:59 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'Self Hide'
+4/8/2023 5:26:10 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') unhiding 0x00000001 "Zyx" ('admin')
+4/8/2023 5:26:10 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'Self Unhide'
+4/8/2023 5:26:18 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'admin '
+4/8/2023 5:26:24 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'signgen '
+4/8/2023 5:26:24 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'decorate '
+4/8/2023 5:26:25 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'moongen '
+4/8/2023 5:26:27 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'doorgen '
+4/8/2023 5:26:29 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'GenerateSpawners Data/Spawns/uoml/trammel/*.json'
+4/8/2023 5:26:29 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'GenerateSpawners Data/Spawns/uoml/felucca/*.json'
+4/8/2023 5:26:38 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'telgen '
+4/8/2023 5:28:38 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'go '
+4/8/2023 5:30:57 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'go '
+4/8/2023 5:31:16 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'go '
+4/8/2023 5:31:36 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'where '
+##############################
+Log started on 4/8/2023 3:17:37 PM
+
+4/8/2023 3:17:49 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add sparrin'
+4/8/2023 3:17:54 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5483, 1871, 0) in Trammel: "SparringBuddy"
+4/8/2023 3:17:54 PM: 127.0.0.1: Serials: 0x00007427; 
+##############################
+Log started on 4/8/2023 3:28:12 PM
+
+4/8/2023 3:28:42 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add spar'
+4/8/2023 3:28:47 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5477, 1876, 0) in Trammel: "SparringBuddy"
+4/8/2023 3:28:47 PM: 127.0.0.1: Serials: 0x00007427; 
+##############################
+Log started on 4/8/2023 3:39:28 PM
+
+##############################
+Log started on 4/8/2023 3:39:52 PM
+
+4/8/2023 3:40:12 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add spar'
+4/8/2023 3:40:16 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5481, 1872, 0) in Trammel: "SparringBuddy"
+4/8/2023 3:40:16 PM: 127.0.0.1: Serials: 0x00007427; 
+##############################
+Log started on 4/8/2023 5:57:05 PM
+
+4/8/2023 5:57:48 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'addongen '
+4/8/2023 5:58:17 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'addongen '
+4/8/2023 5:59:00 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add test'
+##############################
+Log started on 4/8/2023 6:06:45 PM
+
+4/8/2023 6:06:53 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'addongen '
+##############################
+Log started on 4/8/2023 6:09:32 PM
+
+4/8/2023 6:09:46 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'go '
+4/8/2023 6:09:57 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add test'
+4/8/2023 6:10:00 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5446, 1148, 0) in Trammel: "TestAddon"
+4/8/2023 6:10:00 PM: 127.0.0.1: Serials: 0x40027FBD; 
+##############################
+Log started on 4/8/2023 6:12:06 PM
+
+4/8/2023 6:12:18 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'addongen '
+4/8/2023 6:15:05 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add gmeth'
+4/8/2023 6:15:08 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5435, 1148, 0) in Trammel: "GMEthereal"
+4/8/2023 6:15:08 PM: 127.0.0.1: Serials: 0x40028126; 
+4/8/2023 6:15:13 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/8/2023 6:16:34 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'addstairs '
+4/8/2023 6:17:02 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'addstairs '
+4/8/2023 6:20:41 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/8/2023 6:20:57 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'HomeMap' of 0x40000017 (StaffOrb) to 'Felucca'
+4/8/2023 6:21:17 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Remove'
+4/8/2023 6:21:18 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x40000015 (Spellbook)
+4/8/2023 6:21:19 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x40028126 (GMEthereal)
+##############################
+Log started on 4/8/2023 7:30:47 PM
+
+4/8/2023 7:30:58 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'setallskills 0'
+4/8/2023 7:31:00 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'EverySkill.Base' of 0x00000001 "Zyx" ('admin') to '0'
+4/8/2023 7:31:07 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add skill'
+4/8/2023 7:31:11 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add skillb'
+4/8/2023 7:31:15 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5432, 1151, 0) in Trammel: "SkillBook"
+4/8/2023 7:31:15 PM: 127.0.0.1: Serials: 0x40028926; 
+4/8/2023 7:31:25 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'set movable true'
+4/8/2023 7:31:27 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'movable' of 0x40028926 (SkillBook) to 'True'
+4/8/2023 7:32:13 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add skillb'
+4/8/2023 7:32:15 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5432, 1151, 0) in Trammel: "SkillBook"
+4/8/2023 7:32:15 PM: 127.0.0.1: Serials: 0x400289DD; 
+4/8/2023 7:32:16 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5432, 1150, 0) in Trammel: "SkillBook"
+4/8/2023 7:32:16 PM: 127.0.0.1: Serials: 0x400289DE; 
+4/8/2023 7:32:17 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5432, 1149, 0) in Trammel: "SkillBook"
+4/8/2023 7:32:17 PM: 127.0.0.1: Serials: 0x400289DF; 
+4/8/2023 7:32:18 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5432, 1148, 0) in Trammel: "SkillBook"
+4/8/2023 7:32:18 PM: 127.0.0.1: Serials: 0x400289E5; 
+4/8/2023 7:32:19 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5432, 1147, 0) in Trammel: "SkillBook"
+4/8/2023 7:32:19 PM: 127.0.0.1: Serials: 0x400289E6; 
+4/8/2023 7:32:20 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5433, 1151, 0) in Trammel: "SkillBook"
+4/8/2023 7:32:20 PM: 127.0.0.1: Serials: 0x400289F2; 
+4/8/2023 7:32:21 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5433, 1150, 0) in Trammel: "SkillBook"
+4/8/2023 7:32:21 PM: 127.0.0.1: Serials: 0x400289F3; 
+4/8/2023 7:32:22 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5433, 1149, 0) in Trammel: "SkillBook"
+4/8/2023 7:32:22 PM: 127.0.0.1: Serials: 0x400289F4; 
+4/8/2023 7:32:23 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5433, 1148, 0) in Trammel: "SkillBook"
+4/8/2023 7:32:23 PM: 127.0.0.1: Serials: 0x400289FA; 
+4/8/2023 7:32:24 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5433, 1147, 0) in Trammel: "SkillBook"
+4/8/2023 7:32:24 PM: 127.0.0.1: Serials: 0x400289FB; 
+4/8/2023 7:32:26 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5434, 1151, 0) in Trammel: "SkillBook"
+4/8/2023 7:32:26 PM: 127.0.0.1: Serials: 0x40028A01; 
+4/8/2023 7:32:27 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5434, 1150, 0) in Trammel: "SkillBook"
+4/8/2023 7:32:27 PM: 127.0.0.1: Serials: 0x40028A02; 
+4/8/2023 7:32:27 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5434, 1149, 0) in Trammel: "SkillBook"
+4/8/2023 7:32:27 PM: 127.0.0.1: Serials: 0x40028A12; 
+4/8/2023 7:32:28 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5434, 1148, 0) in Trammel: "SkillBook"
+4/8/2023 7:32:28 PM: 127.0.0.1: Serials: 0x40028A13; 
+4/8/2023 7:32:29 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5434, 1147, 0) in Trammel: "SkillBook"
+4/8/2023 7:32:29 PM: 127.0.0.1: Serials: 0x40028A20; 
+4/8/2023 7:32:40 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'wipe '
+4/8/2023 7:32:43 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') wiping from (5431, 1146, 0) to (5435, 1152, 0) in Items, Mobiles (Trammel)
+4/8/2023 7:32:57 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'm add skillbook set movable true'
+4/8/2023 7:32:59 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5432, 1151, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:32:59 PM: 127.0.0.1: Serials: 0x40028A7B; 
+4/8/2023 7:33:00 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5433, 1151, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:00 PM: 127.0.0.1: Serials: 0x40028A7C; 
+4/8/2023 7:33:01 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5434, 1151, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:01 PM: 127.0.0.1: Serials: 0x40028A7D; 
+4/8/2023 7:33:02 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5432, 1150, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:02 PM: 127.0.0.1: Serials: 0x40028A7E; 
+4/8/2023 7:33:03 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5432, 1149, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:03 PM: 127.0.0.1: Serials: 0x40028A86; 
+4/8/2023 7:33:04 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5432, 1148, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:04 PM: 127.0.0.1: Serials: 0x40028A91; 
+4/8/2023 7:33:05 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5432, 1147, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:05 PM: 127.0.0.1: Serials: 0x40028A97; 
+4/8/2023 7:33:06 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5432, 1146, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:06 PM: 127.0.0.1: Serials: 0x40028A98; 
+4/8/2023 7:33:07 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5433, 1150, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:07 PM: 127.0.0.1: Serials: 0x40028A99; 
+4/8/2023 7:33:07 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5433, 1149, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:07 PM: 127.0.0.1: Serials: 0x40028AA2; 
+4/8/2023 7:33:08 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5433, 1148, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:08 PM: 127.0.0.1: Serials: 0x40028AA3; 
+4/8/2023 7:33:09 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5433, 1147, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:09 PM: 127.0.0.1: Serials: 0x40028AA4; 
+4/8/2023 7:33:10 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5433, 1146, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:10 PM: 127.0.0.1: Serials: 0x40028AA5; 
+4/8/2023 7:33:11 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5434, 1150, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:11 PM: 127.0.0.1: Serials: 0x40028AA6; 
+4/8/2023 7:33:12 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5434, 1149, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:12 PM: 127.0.0.1: Serials: 0x40028AAB; 
+4/8/2023 7:33:13 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5434, 1148, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:13 PM: 127.0.0.1: Serials: 0x40028AAC; 
+4/8/2023 7:33:13 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5434, 1147, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:13 PM: 127.0.0.1: Serials: 0x40028AB4; 
+4/8/2023 7:33:14 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5434, 1146, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 7:33:14 PM: 127.0.0.1: Serials: 0x40028AB5; 
+4/8/2023 7:33:31 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'setallskills 0'
+4/8/2023 7:33:34 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'EverySkill.Base' of 0x00000001 "Zyx" ('admin') to '0'
+4/8/2023 7:33:35 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'save '
+##############################
+Log started on 4/8/2023 8:01:45 PM
+
+4/8/2023 8:02:08 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'setallskills 0'
+4/8/2023 8:02:10 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'EverySkill.Base' of 0x00000001 "Zyx" ('admin') to '0'
+4/8/2023 8:18:12 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+##############################
+Log started on 4/8/2023 9:27:04 PM
+
+4/8/2023 9:27:36 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'setallskills 100'
+4/8/2023 9:27:38 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'EverySkill.Base' of 0x00000001 "Zyx" ('admin') to '100'
+4/8/2023 9:29:10 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'setallskills 0'
+4/8/2023 9:29:13 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'EverySkill.Base' of 0x00000001 "Zyx" ('admin') to '0'
+##############################
+Log started on 4/8/2023 9:53:10 PM
+
+##############################
+Log started on 4/8/2023 10:19:20 PM
+
+##############################
+Log started on 4/8/2023 10:23:59 PM
+
+##############################
+Log started on 4/8/2023 10:31:49 PM
+
+##############################
+Log started on 4/8/2023 10:34:01 PM
+
+##############################
+Log started on 4/8/2023 10:34:33 PM
+
+4/8/2023 10:48:48 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'wipe '
+4/8/2023 10:48:52 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') wiping from (5432, 1141, 0) to (5455, 1156, 0) in Items, Mobiles (Trammel)
+##############################
+Log started on 4/8/2023 11:22:53 PM
+
+4/8/2023 11:23:04 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'setallskills 100'
+4/8/2023 11:23:07 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'EverySkill.Base' of 0x00000001 "Zyx" ('admin') to '100'
+4/8/2023 11:23:17 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add slillbook'
+4/8/2023 11:23:35 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add skillbook set movable true'
+4/8/2023 11:23:37 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5438, 1151, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 11:23:37 PM: 127.0.0.1: Serials: 0x40031D2A; 
+4/8/2023 11:24:50 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'setallskills 0'
+4/8/2023 11:24:53 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'EverySkill.Base' of 0x00000001 "Zyx" ('admin') to '0'
+4/8/2023 11:25:35 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add skillbook set movable true'
+4/8/2023 11:25:35 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5439, 1152, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 11:25:35 PM: 127.0.0.1: Serials: 0x40031EA0; 
+4/8/2023 11:25:37 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add skillbook set movable true'
+4/8/2023 11:25:38 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5440, 1151, 0) in Trammel: "skillbook" "set" "movable" "true"
+4/8/2023 11:25:38 PM: 127.0.0.1: Serials: 0x40031EB5; 
+4/8/2023 11:26:33 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'skills '
+4/8/2023 11:26:56 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property '[Alchemy: 50].Base' of 0x00000001 "Zyx" ('admin') to '50'
+##############################
+Log started on 4/8/2023 11:42:27 PM
+
+4/8/2023 11:42:37 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add skillball'
+4/8/2023 11:42:59 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'm add skillballplus set movable true'
+4/8/2023 11:43:01 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5439, 1152, 0) in Trammel: "skillballplus" "set" "movable" "true"
+4/8/2023 11:43:01 PM: 127.0.0.1: Serials: 0x40032333; 
+4/8/2023 11:43:02 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5440, 1151, 0) in Trammel: "skillballplus" "set" "movable" "true"
+4/8/2023 11:43:02 PM: 127.0.0.1: Serials: 0x4003234D; 
+4/8/2023 11:43:03 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5439, 1151, 0) in Trammel: "skillballplus" "set" "movable" "true"
+4/8/2023 11:43:03 PM: 127.0.0.1: Serials: 0x4003234E; 
+4/8/2023 11:43:04 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (5440, 1150, 0) in Trammel: "skillballplus" "set" "movable" "true"
+4/8/2023 11:43:04 PM: 127.0.0.1: Serials: 0x40032354; 
+4/8/2023 11:44:50 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'setallskills 100'
+4/8/2023 11:45:01 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'EverySkill.Base' of 0x00000001 "Zyx" ('admin') to '100'

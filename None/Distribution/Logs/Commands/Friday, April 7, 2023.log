@@ -1,0 +1,32 @@
+##############################
+Log started on 4/7/2023 1:33:11 AM
+
+4/7/2023 1:34:28 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'admin '
+4/7/2023 1:34:36 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'add xml'
+4/7/2023 1:34:51 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'save '
+##############################
+Log started on 4/7/2023 2:23:40 AM
+
+4/7/2023 2:23:55 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'save '
+##############################
+Log started on 4/7/2023 2:29:10 AM
+
+4/7/2023 2:29:26 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'save '
+4/7/2023 2:29:46 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'admin '
+4/7/2023 2:29:51 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'signgen '
+4/7/2023 2:29:51 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'decorate '
+4/7/2023 2:29:53 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'moongen '
+4/7/2023 2:29:54 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'doorgen '
+4/7/2023 2:29:56 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'GenerateSpawners Data/Spawns/uoml/trammel/*.json'
+4/7/2023 2:29:56 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'GenerateSpawners Data/Spawns/uoml/felucca/*.json'
+4/7/2023 2:30:05 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'telgen '
+4/7/2023 2:30:09 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'save '
+##############################
+Log started on 4/7/2023 2:32:12 AM
+
+4/7/2023 2:32:20 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'save '
+4/7/2023 2:32:43 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'save '
+##############################
+Log started on 4/7/2023 2:34:05 AM
+
+4/7/2023 2:34:14 AM: 127.0.0.1: Owner 0x00000001 "Zyz" ('admin') used command 'save '

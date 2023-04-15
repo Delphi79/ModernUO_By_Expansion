@@ -1,0 +1,177 @@
+##############################
+Log started on 4/11/2023 12:37:46 AM
+
+##############################
+Log started on 4/11/2023 12:49:37 AM
+
+4/11/2023 12:50:01 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'toolbar '
+4/11/2023 12:50:05 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add bagof'
+4/11/2023 12:50:11 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (1426, 1555, 30) in Felucca: "BagOfingots"
+4/11/2023 12:50:11 AM: 127.0.0.1: Serials: 0x40012F18; 
+##############################
+Log started on 4/11/2023 12:53:15 AM
+
+4/11/2023 12:54:50 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add bagof'
+4/11/2023 12:54:55 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (1428, 1553, 30) in Felucca: "BagOfingots"
+4/11/2023 12:54:55 AM: 127.0.0.1: Serials: 0x40012F97; 
+4/11/2023 12:55:10 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'save '
+4/11/2023 12:56:28 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'save '
+##############################
+Log started on 4/11/2023 12:57:15 AM
+
+4/11/2023 12:57:38 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'recover '
+##############################
+Log started on 4/11/2023 1:54:07 AM
+
+4/11/2023 1:57:01 AM: 127.0.0.1: Crafting 0x40013342 (Buckler) with craft system DefBlacksmithy
+4/11/2023 1:57:03 AM: 127.0.0.1: Crafting 0x40013343 (BronzeShield) with craft system DefBlacksmithy
+4/11/2023 1:57:06 AM: 127.0.0.1: Crafting 0x4001334B (HeaterShield) with craft system DefBlacksmithy
+4/11/2023 1:57:08 AM: 127.0.0.1: Crafting 0x4001334C (MetalShield) with craft system DefBlacksmithy
+4/11/2023 1:57:10 AM: 127.0.0.1: Crafting 0x4001334D (MetalKiteShield) with craft system DefBlacksmithy
+4/11/2023 1:57:12 AM: 127.0.0.1: Crafting 0x40013356 (WoodenKiteShield) with craft system DefBlacksmithy
+4/11/2023 1:57:33 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/11/2023 1:58:29 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/11/2023 1:59:27 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/11/2023 1:59:52 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/11/2023 2:00:15 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/11/2023 2:01:08 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+##############################
+Log started on 4/11/2023 2:14:47 AM
+
+##############################
+Log started on 4/11/2023 2:37:29 AM
+
+##############################
+Log started on 4/11/2023 2:41:08 AM
+
+##############################
+Log started on 4/11/2023 3:06:00 AM
+
+##############################
+Log started on 4/11/2023 3:21:49 AM
+
+##############################
+Log started on 4/11/2023 3:27:24 AM
+
+##############################
+Log started on 4/11/2023 3:39:15 AM
+
+##############################
+Log started on 4/11/2023 3:42:34 AM
+
+4/11/2023 3:49:44 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Remove'
+4/11/2023 3:49:45 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x4001334D (MetalKiteShield)
+4/11/2023 3:49:46 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x40013342 (Buckler)
+4/11/2023 3:49:46 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x4001334B (HeaterShield)
+4/11/2023 3:49:47 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x4001334C (MetalShield)
+4/11/2023 3:49:48 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x40013343 (BronzeShield)
+4/11/2023 3:49:48 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x40013356 (WoodenKiteShield)
+4/11/2023 3:49:57 AM: 127.0.0.1: Crafting 0x40014467 (Broadsword) with craft system DefBlacksmithy
+4/11/2023 3:50:04 AM: 127.0.0.1: Crafting 0x4001446D (BattleAxe) with craft system DefBlacksmithy
+4/11/2023 3:50:10 AM: 127.0.0.1: Crafting 0x40014474 (Axe) with craft system DefBlacksmithy
+4/11/2023 3:50:15 AM: 127.0.0.1: Crafting 0x40014475 (DoubleAxe) with craft system DefBlacksmithy
+4/11/2023 3:50:29 AM: 127.0.0.1: Crafting 0x400144A0 (ShortSpear) with craft system DefBlacksmithy
+4/11/2023 3:50:46 AM: 127.0.0.1: Crafting 0x400144CA (Mace) with craft system DefBlacksmithy
+4/11/2023 3:51:13 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/11/2023 3:51:38 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/11/2023 3:51:57 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/11/2023 3:52:16 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+##############################
+Log started on 4/11/2023 4:00:28 AM
+
+##############################
+Log started on 4/11/2023 4:12:32 AM
+
+##############################
+Log started on 4/11/2023 4:16:19 AM
+
+##############################
+Log started on 4/11/2023 4:19:25 AM
+
+##############################
+Log started on 4/11/2023 4:33:27 AM
+
+##############################
+Log started on 4/11/2023 4:38:22 AM
+
+##############################
+Log started on 4/11/2023 4:42:46 AM
+
+##############################
+Log started on 4/11/2023 4:47:31 AM
+
+##############################
+Log started on 4/11/2023 5:12:02 AM
+
+##############################
+Log started on 4/11/2023 10:13:15 PM
+
+4/11/2023 10:16:13 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add smithh'
+4/11/2023 10:16:17 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (1426, 1556, 30) in Felucca: "SmithHammer"
+4/11/2023 10:16:17 PM: 127.0.0.1: Serials: 0x40014CA1; 
+4/11/2023 10:17:21 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'save '
+##############################
+Log started on 4/11/2023 10:22:12 PM
+
+##############################
+Log started on 4/11/2023 10:24:48 PM
+
+##############################
+Log started on 4/11/2023 11:20:26 PM
+
+##############################
+Log started on 4/11/2023 11:22:38 PM
+
+4/11/2023 11:58:44 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'M Remove'
+4/11/2023 11:58:45 PM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') deleting 0x40012693 (AdminRobe)
+4/11/2023 11:59:55 PM: 127.0.0.1: Crafting 0x40015AB7 (PlateGloves) with craft system DefBlacksmithy
+4/11/2023 11:59:58 PM: 127.0.0.1: Crafting 0x40015AB9 (PlateGorget) with craft system DefBlacksmithy
+4/12/2023 12:00:07 AM: 127.0.0.1: Crafting 0x40015AC8 (PlateLegs) with craft system DefBlacksmithy
+4/12/2023 12:00:24 AM: 127.0.0.1: Crafting 0x40015ACB (PlateChest) with craft system DefBlacksmithy
+4/12/2023 12:00:37 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'add bag'
+4/12/2023 12:00:39 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') building at (1427, 1557, 30) in Felucca: "bag"
+4/12/2023 12:00:39 AM: 127.0.0.1: Serials: 0x40015B00; 
+4/12/2023 12:01:26 AM: 127.0.0.1: Crafting 0x40015B2C (MetalKiteShield) with craft system DefBlacksmithy
+4/12/2023 12:01:39 AM: 127.0.0.1: Crafting 0x40015B67 (Katana) with craft system DefBlacksmithy
+4/12/2023 12:01:46 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/12/2023 12:02:05 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'Durability' of 0x40015B2C (MetalKiteShield) to 'Indestructible'
+4/12/2023 12:02:23 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'ProtectionLevel' of 0x40015B2C (MetalKiteShield) to 'Invulnerability'
+4/12/2023 12:02:40 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'MaxHitPoints' of 0x40015B2C (MetalKiteShield) to '999999'
+4/12/2023 12:02:50 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'HitPoints' of 0x40015B2C (MetalKiteShield) to '999999'
+4/12/2023 12:03:01 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'LootType' of 0x40015B2C (MetalKiteShield) to 'Blessed'
+4/12/2023 12:03:15 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'm set loottype blessed'
+4/12/2023 12:03:17 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'loottype' of 0x40015B2C (MetalKiteShield) to 'Blessed'
+4/12/2023 12:03:19 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'loottype' of 0x40015B67 (Katana) to 'Blessed'
+4/12/2023 12:03:21 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'loottype' of 0x40015ACB (PlateChest) to 'Blessed'
+4/12/2023 12:03:22 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'loottype' of 0x40015AC8 (PlateLegs) to 'Blessed'
+4/12/2023 12:03:23 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'loottype' of 0x40015AB9 (PlateGorget) to 'Blessed'
+4/12/2023 12:03:24 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'loottype' of 0x40015A2A (PlateArms) to 'Blessed'
+4/12/2023 12:03:26 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'loottype' of 0x40012692 (Boots) to 'Blessed'
+4/12/2023 12:03:28 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'loottype' of 0x40012694 (GMSash) to 'Blessed'
+4/12/2023 12:04:00 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'm set maxhitpoints 999999'
+4/12/2023 12:04:02 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'maxhitpoints' of 0x40015B2C (MetalKiteShield) to '999999'
+4/12/2023 12:04:04 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'maxhitpoints' of 0x40015B67 (Katana) to '999999'
+4/12/2023 12:04:05 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'maxhitpoints' of 0x40015A2A (PlateArms) to '999999'
+4/12/2023 12:04:06 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'maxhitpoints' of 0x40015AB7 (PlateGloves) to '999999'
+4/12/2023 12:04:08 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'maxhitpoints' of 0x40015AB9 (PlateGorget) to '999999'
+4/12/2023 12:04:10 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'maxhitpoints' of 0x40015AC8 (PlateLegs) to '999999'
+4/12/2023 12:04:10 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'maxhitpoints' of 0x40015ACB (PlateChest) to '999999'
+4/12/2023 12:04:24 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'm set hitpoints 999999'
+4/12/2023 12:04:26 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'hitpoints' of 0x40015B2C (MetalKiteShield) to '999999'
+4/12/2023 12:04:29 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'hitpoints' of 0x40015B67 (Katana) to '999999'
+4/12/2023 12:04:31 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'hitpoints' of 0x40015A2A (PlateArms) to '999999'
+4/12/2023 12:04:32 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'hitpoints' of 0x40015AB7 (PlateGloves) to '999999'
+4/12/2023 12:04:39 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'hitpoints' of 0x40015AB9 (PlateGorget) to '999999'
+4/12/2023 12:04:40 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'hitpoints' of 0x40015AC8 (PlateLegs) to '999999'
+4/12/2023 12:04:41 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'hitpoints' of 0x40015ACB (PlateChest) to '999999'
+4/12/2023 12:14:55 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/12/2023 12:23:10 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'm set durability [set hue 1150'
+4/12/2023 12:23:11 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'hue' of 0x40015ACB (PlateChest) to '1150'
+4/12/2023 12:23:14 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'hue' of 0x40015A2A (PlateArms) to '1150'
+4/12/2023 12:23:15 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'hue' of 0x40015AB7 (PlateGloves) to '1150'
+4/12/2023 12:23:16 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'hue' of 0x40015AC8 (PlateLegs) to '1150'
+4/12/2023 12:23:17 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'hue' of 0x40015AB9 (PlateGorget) to '1150'
+4/12/2023 12:23:19 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'hue' of 0x40015B2C (MetalKiteShield) to '1150'
+4/12/2023 12:23:19 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') set property 'hue' of 0x40015B67 (Katana) to '1150'
+4/12/2023 12:28:24 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
+4/12/2023 12:41:28 AM: 127.0.0.1: Owner 0x00000001 "Zyx" ('admin') used command 'props '
