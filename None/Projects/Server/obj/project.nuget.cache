@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FM3L8EOd9aSmyCX95CNV+jRulNNRPC3kDVjlWCewbShuYTAGukhJZHZ8RgCyEpsxup127SECDaT9DAsS4pB4Cg==",
+  "dgSpecHash": "Ov1wFTWmyrdbhik7esGqvEux6BfcWf/0frQB2Sw9Fy4WuNeHjNKJ0nI6jwZ7YFdxcEDOQICG9PZ+tZCjGVkRtg==",
   "success": true,
-  "projectFilePath": "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\Server\\Server.csproj",
+  "projectFilePath": "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.toolkit.highperformance\\7.1.2\\microsoft.toolkit.highperformance.7.1.2.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\modernuo.serialization.annotations\\2.6.0\\modernuo.serialization.annotations.2.6.0.nupkg.sha512",

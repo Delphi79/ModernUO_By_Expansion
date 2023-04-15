@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\UOContent\\UOContent.csproj": {}
+    "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\UOContent\\UOContent.csproj": {}
   },
   "projects": {
-    "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\Server\\Server.csproj": {
+    "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\Server\\Server.csproj": {
       "version": "0.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\Server\\Server.csproj",
+        "projectUniqueName": "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\Server\\Server.csproj",
         "projectName": "ModernUO",
-        "projectPath": "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\Server\\Server.csproj",
+        "projectPath": "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\Server\\obj\\",
+        "outputPath": "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -199,14 +199,14 @@
         }
       }
     },
-    "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\UOContent\\UOContent.csproj": {
+    "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\UOContent\\UOContent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\UOContent\\UOContent.csproj",
+        "projectUniqueName": "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\UOContent\\UOContent.csproj",
         "projectName": "UOContent",
-        "projectPath": "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\UOContent\\UOContent.csproj",
+        "projectPath": "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\UOContent\\UOContent.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\UOContent\\obj\\",
+        "outputPath": "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\UOContent\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -222,8 +222,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\Server\\Server.csproj": {
-                "projectPath": "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\Server\\Server.csproj",
+              "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\Server\\Server.csproj": {
+                "projectPath": "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\Server\\Server.csproj",
                 "includeAssets": "none",
                 "privateAssets": "all"
               }

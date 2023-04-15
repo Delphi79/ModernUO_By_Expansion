@@ -5,11 +5,13 @@ namespace Server.Items
         [Constructible]
         public PortcullisNS() : base(0x6F5, 0x6F5, 0xF0, 0xEF, new Point3D(0, 0, 20))
         {
+			Locked = true;
         }
 		
 		[Constructible]
         public PortcullisNS(DoorFacing facing) : base(0x6F5, 0x6F5, 0xF0, 0xEF, new Point3D(0, 0, 20))
         {
+			Locked = true;
         }
 
         public PortcullisNS(Serial serial) : base(serial)
@@ -38,11 +40,13 @@ namespace Server.Items
         [Constructible]
         public PortcullisEW() : base(0x6F6, 0x6F6, 0xF0, 0xEF, new Point3D(0, 0, 20))
         {
+			Locked = true;
         }
 		
 		[Constructible]
         public PortcullisEW(DoorFacing facing) : base(0x6F6, 0x6F6, 0xF0, 0xEF, new Point3D(0, 0, 20))
         {
+			Locked = true;
         }
 
         public PortcullisEW(Serial serial) : base(serial)

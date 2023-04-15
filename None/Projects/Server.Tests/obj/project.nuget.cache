@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SAwB4rGQPtf2f/lpN26AJmpk4IJQbSlW7n1V0hSW0KjF+a+JSZJONyRs2Hmka1Jk3+QvrltrC8C4OiJAbx70fg==",
+  "dgSpecHash": "LZAULU0rK0WMM9XgexyUIUDy3xGcTITMuQH5yl4iUjDcu/PAtd5LY4+Vcjv5v6rUT9Oa7/V7Pge2+iH0q2QMxQ==",
   "success": true,
-  "projectFilePath": "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\Server.Tests\\Server.Tests.csproj",
+  "projectFilePath": "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\Server.Tests\\Server.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\argon2.bindings\\1.14.4\\argon2.bindings.1.14.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",

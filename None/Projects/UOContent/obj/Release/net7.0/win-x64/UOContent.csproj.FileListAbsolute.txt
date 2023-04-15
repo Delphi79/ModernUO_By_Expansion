@@ -10,3 +10,15 @@ E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Proje
 E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\obj\Release\net7.0\win-x64\refint\UOContent.dll
 E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\obj\Release\net7.0\win-x64\UOContent.pdb
 E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\UOContent\obj\Release\net7.0\win-x64\ref\UOContent.dll
+E:\Github Repositories\ModernUO_By_Expansion\None\Distribution\Assemblies\UOContent.deps.json
+E:\Github Repositories\ModernUO_By_Expansion\None\Distribution\Assemblies\UOContent.dll
+E:\Github Repositories\ModernUO_By_Expansion\None\Distribution\Assemblies\UOContent.pdb
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\obj\Release\net7.0\win-x64\UOContent.csproj.AssemblyReference.cache
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\obj\Release\net7.0\win-x64\UOContent.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\obj\Release\net7.0\win-x64\UOContent.AssemblyInfoInputs.cache
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\obj\Release\net7.0\win-x64\UOContent.AssemblyInfo.cs
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\obj\Release\net7.0\win-x64\UOContent.csproj.CoreCompileInputs.cache
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\obj\Release\net7.0\win-x64\UOContent.dll
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\obj\Release\net7.0\win-x64\refint\UOContent.dll
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\obj\Release\net7.0\win-x64\UOContent.pdb
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\obj\Release\net7.0\win-x64\ref\UOContent.dll

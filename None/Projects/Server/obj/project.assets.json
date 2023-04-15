@@ -1041,11 +1041,11 @@
   "project": {
     "version": "0.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\Server\\Server.csproj",
+      "projectUniqueName": "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\Server\\Server.csproj",
       "projectName": "ModernUO",
-      "projectPath": "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\Server\\Server.csproj",
+      "projectPath": "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\Server\\obj\\",
+      "outputPath": "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

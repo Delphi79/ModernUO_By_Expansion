@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oDb/g48t2AhJttHzn2/h5FU9RHsm7w/ogNGvVkrzAHGmgQ2dmEcZgDhJRdNVpBz1vOp2+ybYvInfnQnrk3YrJg==",
+  "dgSpecHash": "zv4QV6yUm9rYrVVwbsnwpsTI0YxL/zuUSit1O74yFGxs2dg/5Lgtr4+Rrmqc340DqUvTWgXiV5xfWGzlEGNj+w==",
   "success": true,
-  "projectFilePath": "E:\\Servers\\ModernUO\\Development Servers\\Servers By Expansion\\None\\modernuo\\Projects\\UOContent\\UOContent.csproj",
+  "projectFilePath": "E:\\Github Repositories\\ModernUO_By_Expansion\\None\\Projects\\UOContent\\UOContent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\argon2.bindings\\1.14.4\\argon2.bindings.1.14.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\mailkit\\3.4.3\\mailkit.3.4.3.nupkg.sha512",

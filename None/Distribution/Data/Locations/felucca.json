@@ -218,7 +218,10 @@
           ]
         }
       ],
-      "locations": [{ "name": "Green Acres", "location": [5445, 1153, 0] }]
+      "locations": [
+	    { "name": "Green Acres", "location": [5445, 1153, 0] },
+		{ "name": "Secret Test Location UODEMO Server", "location": [5974, 1512, 0] }
+	  ]
     },
     {
       "name": "Shrines",
@@ -244,6 +247,8 @@
             { "name": "Blackthorn Entrance", "location": [1523, 1456, 15] },
             { "name": "British Castle", "location": [1323, 1624, 55] },
             { "name": "British Entrance", "location": [1401, 1625, 28] },
+			{ "name": "West Bank", "location": [1433, 1700, 5] },
+			{ "name": "East Bank", "location": [1658, 1613, 20] },
             { "name": "Cemetery", "location": [1384, 1497, 10] },
             { "name": "Center", "location": [1475, 1645, 20] },
             { "name": "Farmlands", "location": [1228, 1705, 0] },

@@ -17,3 +17,22 @@ E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Proje
 E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\obj\Release\net7.0\win-x64\ModernUO.pdb
 E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\obj\Release\net7.0\win-x64\Server.genruntimeconfig.cache
 E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\obj\Release\net7.0\win-x64\ref\ModernUO.dll
+E:\Github Repositories\ModernUO_By_Expansion\None\Distribution\ModernUO.exe
+E:\Github Repositories\ModernUO_By_Expansion\None\Distribution\ModernUO.dll.config
+E:\Github Repositories\ModernUO_By_Expansion\None\Distribution\ModernUO.deps.json
+E:\Github Repositories\ModernUO_By_Expansion\None\Distribution\ModernUO.runtimeconfig.json
+E:\Github Repositories\ModernUO_By_Expansion\None\Distribution\ModernUO.dll
+E:\Github Repositories\ModernUO_By_Expansion\None\Distribution\ModernUO.pdb
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\obj\Release\net7.0\win-x64\Server.csproj.AssemblyReference.cache
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\obj\Release\net7.0\win-x64\Server.csproj.SuggestedBindingRedirects.cache
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\obj\Release\net7.0\win-x64\ModernUO.dll.config
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\obj\Release\net7.0\win-x64\Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\obj\Release\net7.0\win-x64\Server.AssemblyInfoInputs.cache
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\obj\Release\net7.0\win-x64\Server.AssemblyInfo.cs
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\obj\Release\net7.0\win-x64\Server.csproj.CoreCompileInputs.cache
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\obj\Release\net7.0\win-x64\Server.csproj.CopyComplete
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\obj\Release\net7.0\win-x64\ModernUO.dll
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\obj\Release\net7.0\win-x64\refint\ModernUO.dll
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\obj\Release\net7.0\win-x64\ModernUO.pdb
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\obj\Release\net7.0\win-x64\Server.genruntimeconfig.cache
+E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\obj\Release\net7.0\win-x64\ref\ModernUO.dll
