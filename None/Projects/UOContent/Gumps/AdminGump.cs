@@ -252,14 +252,16 @@ namespace Server.Gumps
                     {
                         AddHtml(10, 125, 400, 20, Color(Center("Generating"), LabelColor32));
 
-                        AddButtonLabeled(20, 175, GetButtonID(3, 101), "Teleporters");
-                        AddButtonLabeled(220, 175, GetButtonID(3, 102), "Moongates");
-
-                        AddButtonLabeled(20, 200, GetButtonID(3, 103), "Generate Spawns");
+                        //AddButtonLabeled(20, 175, GetButtonID(3, 101), "Teleporters");
+                        //AddButtonLabeled(220, 175, GetButtonID(3, 102), "Moongates");
+						AddButtonLabeled(220, 175, GetButtonID(3, 101), "Teleporters");
+                        AddButtonLabeled( 260, 400, GetButtonID( 3, 102 ), "Clear All Facets" );
+                        //AddButtonLabeled(20, 200, GetButtonID(3, 103), "Generate Spawns");
+						AddButtonLabeled(220, 225, GetButtonID(3, 103), "Generate Spawns");
                         AddButtonLabeled(220, 200, GetButtonID(3, 106), "Decoration");
 
-                        AddButtonLabeled(20, 225, GetButtonID(3, 104), "Doors");
-                        AddButtonLabeled(220, 225, GetButtonID(3, 105), "Signs");
+                        //AddButtonLabeled(20, 225, GetButtonID(3, 104), "Doors");
+                        //AddButtonLabeled(220, 225, GetButtonID(3, 105), "Signs");
 
                         goto case AdminGumpPage.Administer;
                     }
@@ -2106,8 +2108,10 @@ namespace Server.Gumps
                                 }
                             case 102:
                                 {
-                                    InvokeCommand("MoonGen");
-                                    notice = "Moongates have been generated.";
+                                    //InvokeCommand("MoonGen");
+									InvokeCommand("Clearall");
+                                    //notice = "Moongates have been generated.";
+									notice = "All facets have been cleared.";
                                     break;
                                 }
                             case 104:
@@ -2139,7 +2143,7 @@ namespace Server.Gumps
                                             InvokeCommand("GenerateSpawners Data/Spawns/uoml/ilshenar/*.json");
                                         }
 
-                                        InvokeCommand("GenerateSpawners Data/Spawns/uoml/trammel/*.json");
+                                        //InvokeCommand("GenerateSpawners Data/Spawns/uoml/trammel/*.json");
                                         InvokeCommand("GenerateSpawners Data/Spawns/uoml/felucca/*.json");
                                     }
 

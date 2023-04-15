@@ -31,6 +31,7 @@ namespace Server.Mobiles
         private readonly List<IShopSellInfo> _sellInfo = new();
 
         private static bool EnableVendorBuyOPL;
+		private static bool IsVendorInvulnerable;
 
         public static void Configure()
         {
@@ -39,6 +40,7 @@ namespace Server.Mobiles
             // Also items may require a string description for their name to show up properly.
             // See SBAnimalTrainer for an example
             EnableVendorBuyOPL = ServerConfiguration.GetSetting("opl.enableForVendorBuy", true);
+			IsVendorInvulnerable = ServerConfiguration.GetSetting("baseVendor.isInvulnerable", false); // Changed the name
         }
 
         public static void Initialize()
@@ -90,7 +92,8 @@ namespace Server.Mobiles
 
         public virtual NpcGuild NpcGuild => NpcGuild.None;
 
-        public override bool IsInvulnerable => true;
+        //public override bool IsInvulnerable => false;
+		public override bool IsInvulnerable => IsVendorInvulnerable; // Use the renamed static variable
 
         public virtual DateTime NextTrickOrTreat { get; set; }
 

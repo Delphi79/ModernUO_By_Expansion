@@ -31,12 +31,13 @@ namespace Server.Commands
 
             NetState.FlushAll();
 
+            Generate("Data/Decoration/Britannia", Map.Felucca);
+			/* Generate("Data/Decoration/Felucca", Map.Felucca);
             Generate("Data/Decoration/Britannia", Map.Trammel, Map.Felucca);
             Generate("Data/Decoration/Trammel", Map.Trammel);
-            Generate("Data/Decoration/Felucca", Map.Felucca);
             Generate("Data/Decoration/Ilshenar", Map.Ilshenar);
             Generate("Data/Decoration/Malas", Map.Malas);
-            Generate("Data/Decoration/Tokuno", Map.Tokuno);
+            Generate("Data/Decoration/Tokuno", Map.Tokuno); */
 
             m_Mobile.SendMessage($"World generating complete. {m_Count} items were generated.");
         }

@@ -1,5 +1,10 @@
 using ModernUO.Serialization;
 using Server.Engines.Craft;
+using Server.Menus.ItemLists; // Add this line to reference the BlacksmithMenuGumpGump
+using Server;
+using Server.Items;
+using Server.Network;
+using Server.Gumps;
 
 namespace Server.Items;
 
@@ -22,4 +27,5 @@ public partial class SmithHammer : BaseTool
     }
 
     public override CraftSystem CraftSystem => DefBlacksmithy.CraftSystem;
+	
 }

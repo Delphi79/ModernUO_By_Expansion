@@ -7,7 +7,8 @@ namespace Server.Gumps
 {
     public class GoGump : Gump
     {
-        private static LocationTree Felucca;
+        public static LocationTree FeluccaTree => Felucca;
+		private static LocationTree Felucca;
         private static LocationTree Trammel;
         private static LocationTree Ilshenar;
         private static LocationTree Malas;

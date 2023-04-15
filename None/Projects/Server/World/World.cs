@@ -559,7 +559,7 @@ public static class World
 
         m_DiskWriteHandle.Reset();
 
-        Broadcast(0x35, true, "The world is saving, please wait.");
+        Broadcast(0x120, true, "The world is saving, please wait.");
 
         logger.Information("Saving world");
 
@@ -586,11 +586,11 @@ public static class World
             var duration = watch.Elapsed.TotalSeconds;
             logger.Information("Saving world {Status} ({Duration:F2} seconds)", "done", duration);
 
-            // Only broadcast if it took at least 150ms
+            /* // Only broadcast if it took at least 150ms
             if (duration >= 0.15)
-            {
-                Broadcast(0x35, true, $"World Save completed in {duration:F2} seconds.");
-            }
+            { */
+                Broadcast(0x120, true, $"World Save completed in {duration:F2} seconds.");
+            /* } */
         }
         else
         {
@@ -601,6 +601,8 @@ public static class World
         }
 
         ThreadPool.QueueUserWorkItem(WriteFiles);
+		
+		/* Broadcast(0x35, true, $"World Save completed in {0:F2} seconds."); */
     }
 
     [MethodImpl(MethodImplOptions.AggressiveInlining)]

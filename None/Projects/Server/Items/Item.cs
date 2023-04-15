@@ -3370,7 +3370,8 @@ public class Item : IHued, IComparable<Item>, ISpawnable, IObjectPropertyListEnt
         }
     }
 
-    public virtual void OnAfterDuped(Item newItem)
+	
+	public virtual void OnAfterDuped(Item newItem)
     {
     }
 

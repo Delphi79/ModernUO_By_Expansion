@@ -196,9 +196,12 @@ public static class CharacterCreation
             newChar.BankBox.DropItem(ticket);
         }
 
-        var city = GetStartLocation(args, young);
+        //var city = GetStartLocation(args, young);
+		//CityInfo city = new CityInfo( "Britain", "Sweet Dreams Inn", 1496, 1628, 10, Map.Felucca );
+		CityInfo city = args.City;
 
-        newChar.MoveToWorld(city.Location, city.Map);
+        //newChar.MoveToWorld(city.Location, city.Map);
+		newChar.MoveToWorld(city.Location, Map.Felucca);
 
         logger.Information(
             "Login: {0}: New character being created (account={1}, character={2}, serial={3}, started.city={4}, started.location={5}, started.map={6})",

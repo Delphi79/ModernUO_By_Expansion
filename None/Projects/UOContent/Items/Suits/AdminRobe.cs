@@ -5,6 +5,7 @@ namespace Server.Items
         [Constructible]
         public AdminRobe() : base(AccessLevel.Administrator, 0x0, 0x204F) // Blank hue
         {
+			//Hue = 1150;
         }
 
         public AdminRobe(Serial serial) : base(serial)
