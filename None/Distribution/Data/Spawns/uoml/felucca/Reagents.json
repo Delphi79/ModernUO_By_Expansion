@@ -12,14 +12,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -35,14 +35,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -58,14 +58,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -81,14 +81,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -104,14 +104,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -127,14 +127,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -150,14 +150,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -173,14 +173,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -196,14 +196,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -219,14 +219,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -242,14 +242,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -265,14 +265,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -288,14 +288,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -311,14 +311,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -334,14 +334,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -357,14 +357,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -380,14 +380,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -403,14 +403,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -426,14 +426,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -449,14 +449,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -472,14 +472,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -495,14 +495,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -518,14 +518,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -541,14 +541,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -564,14 +564,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -587,14 +587,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -610,14 +610,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -633,14 +633,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -656,14 +656,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -679,14 +679,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -702,14 +702,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -725,14 +725,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -748,14 +748,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -771,14 +771,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -794,14 +794,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -817,14 +817,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -840,14 +840,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -863,14 +863,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -886,14 +886,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -909,14 +909,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -932,14 +932,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -955,14 +955,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -978,14 +978,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1001,14 +1001,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1024,14 +1024,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1047,14 +1047,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1070,14 +1070,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1093,14 +1093,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1116,14 +1116,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1139,14 +1139,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1162,14 +1162,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1185,14 +1185,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1208,14 +1208,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1231,14 +1231,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1254,14 +1254,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1277,14 +1277,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1300,14 +1300,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1323,14 +1323,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1346,14 +1346,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   },
   {
@@ -1369,14 +1369,14 @@
     "homeRange": 200,
     "walkingRange": 200,
     "entries": [
-      { "name": "BlackPearl", "maxCount": 160, "probability": 100 },
-      { "name": "Bloodmoss", "maxCount": 160, "probability": 100 },
-      { "name": "SpidersSilk", "maxCount": 160, "probability": 100 },
-      { "name": "SulfurousAsh", "maxCount": 160, "probability": 100 },
-      { "name": "Garlic", "maxCount": 160, "probability": 100 },
-      { "name": "Ginseng", "maxCount": 160, "probability": 100 },
-      { "name": "Nightshade", "maxCount": 160, "probability": 100 },
-      { "name": "MandrakeRoot", "maxCount": 160, "probability": 100 }
+      { "name": "BlackPearl", "maxCount": 160, "probability": 12 },
+      { "name": "Bloodmoss", "maxCount": 160, "probability": 13 },
+      { "name": "SpidersSilk", "maxCount": 160, "probability": 12 },
+      { "name": "SulfurousAsh", "maxCount": 160, "probability": 13 },
+      { "name": "Garlic", "maxCount": 160, "probability": 12 },
+      { "name": "Ginseng", "maxCount": 160, "probability": 13 },
+      { "name": "Nightshade", "maxCount": 160, "probability": 12 },
+      { "name": "MandrakeRoot", "maxCount": 160, "probability": 13 }
     ]
   }
 ]
