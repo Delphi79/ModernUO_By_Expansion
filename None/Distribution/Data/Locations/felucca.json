@@ -220,7 +220,7 @@
       ],
       "locations": [
 	    { "name": "Green Acres", "location": [5445, 1153, 0] },
-		{ "name": "Secret Test Location UODEMO Server", "location": [5974, 1512, 0] }
+		{ "name": "Test UODEMO Server", "location": [5974, 1512, 0] }
 	  ]
     },
     {

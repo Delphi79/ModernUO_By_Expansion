@@ -11,8 +11,8 @@
 #pragma warning disable CA2243
 
 [assembly: System.Reflection.AssemblyVersionAttribute("0.9.0.0")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("0.9.6.154")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.9.6.154+5ce657a842")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("0.9.6.155")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.9.6.155+fea7aef95f")]
 #if NETSTANDARD || NETFRAMEWORK || NETCOREAPP
 [System.CodeDom.Compiler.GeneratedCode("Nerdbank.GitVersioning.Tasks","3.5.119.9565")]
 #endif
@@ -21,13 +21,13 @@
 #endif
 internal static partial class ThisAssembly {
     internal const string AssemblyConfiguration = "Debug";
-    internal const string AssemblyFileVersion = "0.9.6.154";
-    internal const string AssemblyInformationalVersion = "0.9.6.154+5ce657a842";
+    internal const string AssemblyFileVersion = "0.9.6.155";
+    internal const string AssemblyInformationalVersion = "0.9.6.155+fea7aef95f";
     internal const string AssemblyName = "UOContent.Tests";
     internal const string AssemblyTitle = "UOContent.Tests";
     internal const string AssemblyVersion = "0.9.0.0";
-    internal static readonly System.DateTime GitCommitDate = new System.DateTime(638163085040000000L, System.DateTimeKind.Utc);
-    internal const string GitCommitId = "5ce657a842254ff3adb9b2f3f72349fd623de13e";
+    internal static readonly System.DateTime GitCommitDate = new System.DateTime(638170513890000000L, System.DateTimeKind.Utc);
+    internal const string GitCommitId = "fea7aef95f65a64e34c3068a544b4f7079f7dda0";
     internal const bool IsPrerelease = false;
     internal const bool IsPublicRelease = true;
     internal const string RootNamespace = "UOContent.Tests";

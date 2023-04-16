@@ -40,11 +40,6 @@
     "back": true
   },
   {
-    "src": { "map": "Felucca", "loc": [588, 1637, 0] },
-    "dst": { "map": "Felucca", "loc": [6472, 868, 26] },
-    "back": true
-  },
-  {
     "src": { "map": "Felucca", "loc": [766, 1645, 0] },
     "dst": { "map": "Felucca", "loc": [6174, 21, 0] },
     "back": false
@@ -57,16 +52,6 @@
   {
     "src": { "map": "Felucca", "loc": [766, 1647, 0] },
     "dst": { "map": "Felucca", "loc": [6174, 23, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [1013, 1433, 0] },
-    "dst": { "map": "Felucca", "loc": [5138, 2016, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [1013, 1434, 0] },
-    "dst": { "map": "Felucca", "loc": [5138, 2016, 0] },
     "back": false
   },
   {
@@ -110,16 +95,6 @@
     "back": false
   },
   {
-    "src": { "map": "Felucca", "loc": [1491, 1640, 24] },
-    "dst": { "map": "Felucca", "loc": [6032, 1499, 31] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [1491, 1642, 24] },
-    "dst": { "map": "Felucca", "loc": [6032, 1501, 31] },
-    "back": false
-  },
-  {
     "src": { "map": "Felucca", "loc": [1593, 2488, 17] },
     "dst": { "map": "Felucca", "loc": [1600, 2489, 12] },
     "back": false
@@ -150,26 +125,6 @@
     "back": false
   },
   {
-    "src": { "map": "Felucca", "loc": [1714, 2996, 0] },
-    "dst": { "map": "Felucca", "loc": [6308, 892, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [1714, 2996, 0] },
-    "dst": { "map": "Felucca", "loc": [6309, 891, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [1714, 2997, 0] },
-    "dst": { "map": "Felucca", "loc": [6308, 892, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [1714, 2997, 0] },
-    "dst": { "map": "Felucca", "loc": [6309, 892, 0] },
-    "back": false
-  },
-  {
     "src": { "map": "Felucca", "loc": [1987, 2062, -40] },
     "dst": { "map": "Felucca", "loc": [5826, 464, 0] },
     "back": false
@@ -182,11 +137,6 @@
   {
     "src": { "map": "Felucca", "loc": [1989, 2062, -40] },
     "dst": { "map": "Felucca", "loc": [5828, 464, -1] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [1997, 81, 7] },
-    "dst": { "map": "Felucca", "loc": [5881, 242, 0] },
     "back": false
   },
   {
@@ -335,11 +285,6 @@
     "back": false
   },
   {
-    "src": { "map": "Felucca", "loc": [2923, 3405, 6] },
-    "dst": { "map": "Felucca", "loc": [5687, 1423, 39] },
-    "back": false
-  },
-  {
     "src": { "map": "Felucca", "loc": [2985, 2890, 35] },
     "dst": { "map": "Felucca", "loc": [5974, 2697, 35] },
     "back": false
@@ -450,11 +395,6 @@
     "back": false
   },
   {
-    "src": { "map": "Felucca", "loc": [5132, 1946, 0] },
-    "dst": { "map": "Felucca", "loc": [5332, 1379, 0] },
-    "back": false
-  },
-  {
     "src": { "map": "Felucca", "loc": [5133, 984, 22] },
     "dst": { "map": "Felucca", "loc": [5152, 808, -19] },
     "back": false
@@ -475,21 +415,6 @@
     "back": false
   },
   {
-    "src": { "map": "Felucca", "loc": [5133, 1946, 0] },
-    "dst": { "map": "Felucca", "loc": [5332, 1379, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5134, 1946, 0] },
-    "dst": { "map": "Felucca", "loc": [5332, 1379, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5135, 1946, 0] },
-    "dst": { "map": "Felucca", "loc": [5332, 1379, 0] },
-    "back": false
-  },
-  {
     "src": { "map": "Felucca", "loc": [5137, 3664, 27] },
     "dst": { "map": "Felucca", "loc": [6025, 1344, -26] },
     "back": false
@@ -500,28 +425,8 @@
     "back": false
   },
   {
-    "src": { "map": "Felucca", "loc": [5139, 2015, 0] },
-    "dst": { "map": "Felucca", "loc": [1014, 1434, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5139, 2016, 0] },
-    "dst": { "map": "Felucca", "loc": [1014, 1434, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5139, 2017, 0] },
-    "dst": { "map": "Felucca", "loc": [1014, 1434, 0] },
-    "back": false
-  },
-  {
     "src": { "map": "Felucca", "loc": [5140, 973, 0] },
     "dst": { "map": "Felucca", "loc": [5331, 707, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5140, 1773, 0] },
-    "dst": { "map": "Felucca", "loc": [5171, 1586, 0] },
     "back": false
   },
   {
@@ -580,11 +485,6 @@
     "back": false
   },
   {
-    "src": { "map": "Felucca", "loc": [5172, 1589, -2] },
-    "dst": { "map": "Felucca", "loc": [5143, 1774, 0] },
-    "back": false
-  },
-  {
     "src": { "map": "Felucca", "loc": [5186, 639, 0] },
     "dst": { "map": "Felucca", "loc": [4110, 430, 5] },
     "back": false
@@ -612,16 +512,6 @@
   {
     "src": { "map": "Felucca", "loc": [5200, 71, 17] },
     "dst": { "map": "Felucca", "loc": [5211, 22, 15] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5203, 2327, 27] },
-    "dst": { "map": "Felucca", "loc": [5876, 147, 25] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5207, 2322, 27] },
-    "dst": { "map": "Felucca", "loc": [5877, 147, 25] },
     "back": false
   },
   {
@@ -727,36 +617,6 @@
   {
     "src": { "map": "Felucca", "loc": [5306, 650, 12] },
     "dst": { "map": "Felucca", "loc": [5219, 760, -23] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5329, 1381, 10] },
-    "dst": { "map": "Felucca", "loc": [5134, 1947, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5330, 1381, 10] },
-    "dst": { "map": "Felucca", "loc": [5134, 1947, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5331, 1381, 10] },
-    "dst": { "map": "Felucca", "loc": [5134, 1947, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5332, 1381, 10] },
-    "dst": { "map": "Felucca", "loc": [5134, 1947, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5333, 1381, 10] },
-    "dst": { "map": "Felucca", "loc": [5134, 1947, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5334, 1381, 10] },
-    "dst": { "map": "Felucca", "loc": [5134, 1947, 0] },
     "back": false
   },
   {
@@ -1085,11 +945,6 @@
     "back": false
   },
   {
-    "src": { "map": "Felucca", "loc": [5687, 1424, 38] },
-    "dst": { "map": "Felucca", "loc": [2923, 3406, 8] },
-    "back": false
-  },
-  {
     "src": { "map": "Felucca", "loc": [5690, 569, 25] },
     "dst": { "map": "Felucca", "loc": [5829, 595, 0] },
     "back": false
@@ -1115,43 +970,8 @@
     "back": false
   },
   {
-    "src": { "map": "Felucca", "loc": [5701, 1320, 16] },
-    "dst": { "map": "Felucca", "loc": [5786, 1336, -8] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5702, 1320, 16] },
-    "dst": { "map": "Felucca", "loc": [5787, 1336, -8] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5703, 1320, 16] },
-    "dst": { "map": "Felucca", "loc": [5788, 1336, -8] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5705, 146, -45] },
-    "dst": { "map": "Felucca", "loc": [5705, 305, 7] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5705, 147, -45] },
-    "dst": { "map": "Felucca", "loc": [5705, 306, 7] },
-    "back": false
-  },
-  {
     "src": { "map": "Felucca", "loc": [5705, 625, 0] },
     "dst": { "map": "Felucca", "loc": [5703, 639, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5706, 305, 12] },
-    "dst": { "map": "Felucca", "loc": [5705, 146, -45] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5706, 306, 12] },
-    "dst": { "map": "Felucca", "loc": [5705, 147, -45] },
     "back": false
   },
   {
@@ -1195,21 +1015,6 @@
     "back": false
   },
   {
-    "src": { "map": "Felucca", "loc": [5757, 2907, 15] },
-    "dst": { "map": "Felucca", "loc": [5791, 1415, 38] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5757, 2908, 14] },
-    "dst": { "map": "Felucca", "loc": [5791, 1416, 38] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5757, 2909, 15] },
-    "dst": { "map": "Felucca", "loc": [5791, 1417, 40] },
-    "back": false
-  },
-  {
     "src": { "map": "Felucca", "loc": [5786, 1335, -13] },
     "dst": { "map": "Felucca", "loc": [5701, 1319, 13] },
     "back": false
@@ -1222,21 +1027,6 @@
   {
     "src": { "map": "Felucca", "loc": [5788, 1335, -13] },
     "dst": { "map": "Felucca", "loc": [5703, 1319, 13] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5792, 1415, 41] },
-    "dst": { "map": "Felucca", "loc": [5758, 2907, 15] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5792, 1416, 41] },
-    "dst": { "map": "Felucca", "loc": [5758, 2908, 15] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5792, 1417, 41] },
-    "dst": { "map": "Felucca", "loc": [5758, 2909, 15] },
     "back": false
   },
   {
@@ -1277,31 +1067,6 @@
   {
     "src": { "map": "Felucca", "loc": [5829, 593, 0] },
     "dst": { "map": "Felucca", "loc": [5690, 569, 25] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5831, 323, 34] },
-    "dst": { "map": "Felucca", "loc": [5849, 238, -25] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5832, 323, 34] },
-    "dst": { "map": "Felucca", "loc": [5850, 238, -25] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5833, 323, 33] },
-    "dst": { "map": "Felucca", "loc": [5851, 238, -25] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5834, 323, 33] },
-    "dst": { "map": "Felucca", "loc": [5852, 238, -25] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5835, 323, 33] },
-    "dst": { "map": "Felucca", "loc": [5853, 238, -23] },
     "back": false
   },
   {
@@ -1390,29 +1155,9 @@
     "back": false
   },
   {
-    "src": { "map": "Felucca", "loc": [5874, 146, 27] },
-    "dst": { "map": "Felucca", "loc": [5208, 2323, 31] },
-    "back": false
-  },
-  {
     "src": { "map": "Felucca", "loc": [5875, 19, -5] },
     "dst": { "map": "Felucca", "loc": [5507, 162, 5] },
     "back": true
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5875, 146, 27] },
-    "dst": { "map": "Felucca", "loc": [5208, 2322, 32] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5876, 146, 27] },
-    "dst": { "map": "Felucca", "loc": [5208, 2322, 32] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5877, 146, 27] },
-    "dst": { "map": "Felucca", "loc": [5208, 2322, 32] },
-    "back": false
   },
   {
     "src": { "map": "Felucca", "loc": [5878, 3817, -2] },
@@ -1422,21 +1167,6 @@
   {
     "src": { "map": "Felucca", "loc": [5878, 3818, -2] },
     "dst": { "map": "Felucca", "loc": [5399, 1290, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5882, 241, 0] },
-    "dst": { "map": "Felucca", "loc": [1998, 81, 5] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5882, 242, 0] },
-    "dst": { "map": "Felucca", "loc": [1998, 81, 5] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [5882, 243, 0] },
-    "dst": { "map": "Felucca", "loc": [1998, 81, 5] },
     "back": false
   },
   {
@@ -1705,16 +1435,6 @@
     "back": false
   },
   {
-    "src": { "map": "Felucca", "loc": [6031, 1499, 42] },
-    "dst": { "map": "Felucca", "loc": [1491, 1640, 24] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [6031, 1501, 42] },
-    "dst": { "map": "Felucca", "loc": [1491, 1642, 24] },
-    "back": false
-  },
-  {
     "src": { "map": "Felucca", "loc": [6039, 204, 22] },
     "dst": { "map": "Felucca", "loc": [6050, 227, 44] },
     "back": false
@@ -1742,11 +1462,6 @@
   {
     "src": { "map": "Felucca", "loc": [6053, 2407, 27] },
     "dst": { "map": "Felucca", "loc": [5958, 2345, 25] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [6075, 3332, 4] },
-    "dst": { "map": "Felucca", "loc": [6126, 1410, 15] },
     "back": false
   },
   {
@@ -1782,41 +1497,6 @@
   {
     "src": { "map": "Felucca", "loc": [6115, 176, 0] },
     "dst": { "map": "Felucca", "loc": [6107, 176, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [6125, 1411, 15] },
-    "dst": { "map": "Felucca", "loc": [6075, 3332, 4] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [6126, 1411, 15] },
-    "dst": { "map": "Felucca", "loc": [6075, 3332, 4] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [6127, 1411, 15] },
-    "dst": { "map": "Felucca", "loc": [6075, 3332, 4] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [6137, 1409, 2] },
-    "dst": { "map": "Felucca", "loc": [6140, 1432, 4] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [6138, 1409, 2] },
-    "dst": { "map": "Felucca", "loc": [6140, 1432, 4] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [6140, 1431, 4] },
-    "dst": { "map": "Felucca", "loc": [6137, 1408, 2] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [6141, 1431, 4] },
-    "dst": { "map": "Felucca", "loc": [6138, 1408, 2] },
     "back": false
   },
   {
@@ -2075,11 +1755,6 @@
     "back": false
   },
   {
-    "src": { "map": "Felucca", "loc": [6477, 860, 9] },
-    "dst": { "map": "Felucca", "loc": [6574, 889, 0] },
-    "back": false
-  },
-  {
     "src": { "map": "Felucca", "loc": [6577, 159, 13] },
     "dst": { "map": "Felucca", "loc": [6577, 177, 30] },
     "back": false
@@ -2097,11 +1772,6 @@
   {
     "src": { "map": "Felucca", "loc": [6582, 109, 0] },
     "dst": { "map": "Felucca", "loc": [6553, 142, 0] },
-    "back": false
-  },
-  {
-    "src": { "map": "Felucca", "loc": [6588, 867, 0] },
-    "dst": { "map": "Felucca", "loc": [6488, 849, 40] },
     "back": false
   },
   {
