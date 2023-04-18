@@ -1,0 +1,305 @@
+0x491, floor tile, Background, Surface, NoShoot, ArticleA
+0x492, floor tile, Background, Surface, NoShoot, ArticleA
+0x493, floor tile, Background, Surface, NoShoot, ArticleA
+0x494, floor tile, Background, Surface, NoShoot, ArticleA
+0x495, marble floor, Background, Surface, NoShoot, ArticleA
+0x496, marble floor, Background, Surface, NoShoot, ArticleA
+0x497, marble floor, Background, Surface, NoShoot, ArticleA
+0x498, marble floor, Background, Surface, NoShoot, ArticleA
+0x49B, floor tile, Background, Surface, NoShoot, ArticleA
+0x50D, marble floor, Background, Surface, NoShoot
+0x50F, marble floor, Background, Surface, NoShoot
+0x510, marble floor, Background, Surface, NoShoot, Unknown3
+0x511, marble floor, Background, Surface, NoShoot
+0x512, marble floor, Background, Surface, NoShoot
+0x513, marble floor, Background, Surface, NoShoot
+0x514, marble floor, Background, Surface, NoShoot
+0x525, sandstone floor, Background, Surface, NoShoot, Unknown3
+0x526, sandstone floor, Background, Surface, NoShoot, Unknown3
+0x527, sandstone floor, Background, Surface, NoShoot, Unknown3
+0x528, sandstone floor, Background, Surface, NoShoot, Unknown3
+0x529, sandstone floor, Background, Surface, NoShoot, Unknown3
+0x52A, sandstone floor, Background, Surface, NoShoot, Unknown3
+0x52B, sandstone floor, Background, Surface, NoShoot
+0x52C, sandstone floor, Background, Surface, NoShoot
+0x52F, sandstone floor, Background, Surface, NoShoot
+0x530, sandstone floor, Background, Surface, NoShoot
+0x531, sandstone floor, Background, Surface, NoShoot
+0x532, sandstone floor, Background, Surface, NoShoot
+0x533, sandstone floor, Background, Surface, NoShoot
+0x534, sandstone floor, Background, Surface, NoShoot
+0x535, sandstone floor, Background, Surface, NoShoot
+0x536, sandstone floor, Background, Surface, NoShoot
+0x53B, cave floor, Background, Surface, NoShoot
+0x53C, cave floor, Background, Surface, NoShoot
+0x53D, cave floor, Background, Surface, NoShoot
+0x53E, cave floor, Background, Surface, NoShoot
+0x53F, cave floor, Background, Surface, NoShoot
+0x540, cave floor, Background, Surface, NoShoot, Unknown3, StairRight
+0x541, cave floor, Background, Surface, NoShoot, Unknown3
+0x542, cave floor, Background, Surface, NoShoot, Unknown3
+0x543, cave floor, Background, Surface, NoShoot, Unknown3
+0x544, cave floor, Background, Surface, NoShoot, Unknown3
+0x545, cave floor, Background, Surface, NoShoot, Unknown3
+0x546, cave floor, Background, Surface, NoShoot, Unknown3
+0x547, cave floor, Background, Surface, NoShoot, Unknown3
+0x548, cave floor, Background, Surface, NoShoot, Unknown3
+0x549, cave floor, Background, Surface, NoShoot, Unknown3
+0x54A, cave floor, Background, Surface, NoShoot, Unknown3
+0x54B, cave floor, Background, Surface, NoShoot, Unknown3
+0x54C, cave floor, Background, Surface, NoShoot
+0x54D, cave floor, Background, Surface, NoShoot
+0x54E, cave floor, Background, Surface, NoShoot
+0x54F, cave floor, Background, Surface, NoShoot
+0x551, cave floor, Background, Surface, NoShoot, Unknown3
+0x552, cave floor, Background, Surface, NoShoot
+0x553, cave floor, Background, Surface, NoShoot
+0x56A, cave floor, Background, Surface, NoShoot, Unknown3
+0x81D, sandstone floor, Background, Surface, NoShoot
+0x119A, floor spikes, Unknown3
+0x119B, floor spikes, Animation
+0x119C, floor spikes, Animation
+0x119D, floor spikes, Damaging, Animation
+0x119E, floor spikes, Damaging, Animation
+0x119F, floor spikes, Damaging, Impassable, Animation
+0x11A0, floor spikes, None
+0x11A1, floor spikes, Animation
+0x11A2, floor spikes, Animation
+0x11A3, floor spikes, Damaging, Animation
+0x11A4, floor spikes, Damaging, Animation
+0x11A5, floor spikes, Damaging, Impassable, Animation
+0x11AC, floor saw, ArticleA
+0x11AD, floor saw, ArticleA, Animation
+0x11AE, floor saw, Damaging, ArticleA, Animation
+0x11AF, floor saw, Damaging, Impassable, ArticleA, Animation
+0x11B0, floor saw, Damaging, Impassable, ArticleA, Animation
+0x11B1, floor saw, ArticleA
+0x11B2, floor saw, ArticleA, Animation
+0x11B3, floor saw, Damaging, ArticleA, Animation
+0x11B4, floor saw, Damaging, Impassable, ArticleA, Animation
+0x11B5, floor saw, Damaging, Impassable, ArticleA, Animation
+0x11C0, crumbling floor, Surface, Unknown3
+0x11C1, crumbling floor, Surface, Animation
+0x11C2, crumbling floor, Surface, Animation
+0x11C3, crumbling floor, Surface, Animation
+0x11C4, crumbling floor, Surface, Animation
+0x11C5, crumbling floor, Surface, Animation
+0x1B01, floor cracks, Surface
+0x1B02, floor cracks, Surface
+0x1B03, floor cracks, Surface
+0x1B04, floor cracks, Surface
+0x1B05, floor cracks, Surface
+0x1B06, floor cracks, Surface
+0x1B07, floor cracks, Surface
+0x1B08, floor cracks, Surface
+0x2425, wood floor, Background, Surface, ArticleA
+0x2426, wood floor, Background, Surface, ArticleA
+0x2427, wood floor, Background, Surface, ArticleA
+0x2428, wood floor, Background, Surface, ArticleA
+0x2429, wood floor, Background, Surface, ArticleA
+0x242A, wood floor, Background, Surface, ArticleA
+0x242B, wood floor, Background, Surface, ArticleA
+0x242C, wood floor, Background, Surface, ArticleA
+0x242D, wood floor, Background, Surface, ArticleA
+0x242E, wood floor, Background, Surface, ArticleA
+0x242F, wood floor, Background, Surface, ArticleA
+0x2430, wood floor, Background, Surface, ArticleA
+0x2431, wood floor, Background, Surface, ArticleA
+0x2432, wood floor, Background, Surface, ArticleA
+0x2433, wood floor, Background, Surface, ArticleA
+0x2434, wood floor, Background, Surface, ArticleA
+0x2435, wood floor, Background, Surface, ArticleA
+0x2436, wood floor, Background, Surface, ArticleA
+0x2437, wood floor, Background, Surface, ArticleA
+0x2438, wood floor, Background, Surface, ArticleA
+0x2439, wood floor, Surface, ArticleA
+0x243A, wood floor, Surface, ArticleA
+0x243B, wood floor, Background, Surface, ArticleA
+0x243C, wood floor, Background, Surface, ArticleA
+0x243D, wood floor, Background, Surface, ArticleA
+0x243E, wood floor, Background, Surface, ArticleA
+0x243F, wood floor, Background, Surface, ArticleA
+0x2440, wood floor, Background, Surface, ArticleA
+0x2441, wood floor, Background, Surface, ArticleA
+0x2442, wood floor, Background, Surface, ArticleA
+0x2443, wood floor, Background, Surface, ArticleA
+0x2444, wood floor, Background, Surface, ArticleA
+0x2445, wood floor, Background, Surface, ArticleA
+0x2446, wood floor, Background, Surface, ArticleA
+0x2447, wood floor, Background, Surface, ArticleA
+0x2448, wood floor, Background, Surface, ArticleA
+0x2449, wood floor, Background, Surface, ArticleA
+0x244A, wood floor, Background, Surface, ArticleA
+0x244B, wood floor, Background, Surface, ArticleA
+0x244C, wood floor, Background, Surface, ArticleA
+0x244D, wood floor, Background, Surface, ArticleA
+0x244E, wood floor, Background, Surface, ArticleA
+0x244F, wood floor, Background, Surface, ArticleA
+0x2450, wood floor, Background, Surface, ArticleA
+0x2451, wood floor, Background, Surface, ArticleA
+0x2452, wood floor, Background, Surface, ArticleA
+0x2720, wood floor, Wall, Surface, NoShoot, ArticleA
+0x2721, wood floor, Wall, Surface, NoShoot, ArticleA
+0x2722, wood floor, Background, Surface, ArticleA
+0x2723, wood floor, Background, Surface, ArticleA
+0x2724, wood floor, Background, Surface, ArticleA
+0x2725, wood floor, Background, Surface, ArticleA
+0x2726, wood floor, Background, Surface, ArticleA
+0x2727, wood floor, Background, Surface, ArticleA
+0x2728, wood floor, Background, Surface, ArticleA
+0x2729, wood floor, Background, Surface, ArticleA
+0x272A, wood floor, Background, Surface, ArticleA
+0x272B, wood floor, Background, Surface, ArticleA
+0x272C, wood floor, Background, Surface, ArticleA
+0x272D, wood floor, Background, Surface, ArticleA
+0x272E, wood floor, Background, Surface, ArticleA
+0x272F, wood floor, Background, Surface, ArticleA
+0x2730, wood floor, Background, Surface, ArticleA
+0x2731, wood floor, Background, Surface, ArticleA
+0x2732, wood floor, Background, Surface, ArticleA
+0x2733, wood floor, Background, Surface, ArticleA
+0x2734, wood floor, Background, Surface, ArticleA
+0x2735, wood floor, Background, Surface, ArticleA
+0x2736, wood floor, Background, Surface, ArticleA
+0x2737, wood floor, Background, Surface, ArticleA
+0x2738, wood floor, Background, Surface, ArticleA
+0x2739, wood floor, Background, Surface, ArticleA
+0x273A, wood floor, Background, Surface, ArticleA
+0x273B, wood floor, Background, Surface, ArticleA
+0x273C, wood floor, Background, Surface, ArticleA
+0x273D, wood floor, Background, Surface, ArticleA
+0x273E, wood floor, Background, Surface, ArticleA
+0x273F, wood floor, Background, Surface, ArticleA
+0x2740, wood floor, Background, Surface, ArticleA
+0x2741, wood floor, Background, Surface, ArticleA
+0x2742, wood floor, Background, Surface, ArticleA
+0x2743, wood floor, Background, Surface, ArticleA
+0x2744, wood floor, Background, Surface, ArticleA
+0x2745, wood floor, Background, Surface, ArticleA
+0x2746, wood floor, Background, Surface, ArticleA
+0x2747, wood floor, Background, Surface, ArticleA
+0x2748, wood floor, Background, Surface, ArticleA
+0x2749, wood floor, Background, Surface, ArticleA
+0x274A, wood floor, Background, Surface, ArticleA
+0x274B, wood floor, Background, Surface, ArticleA
+0x274C, wood floor, Background, Surface, ArticleA
+0x274D, wood floor, Background, Surface, ArticleA
+0x274E, wood floor, Background, Surface, ArticleA
+0x274F, wood floor, Background, Surface, ArticleA
+0x2750, wood floor, Background, Surface, ArticleA
+0x2751, wood floor, Background, Surface, ArticleA
+0x286E, wooden floor, Background, Surface, ArticleA
+0x286F, wooden floor, Background, Surface, ArticleA
+0x2870, wooden floor, Background, Surface, ArticleA
+0x2871, wooden floor, Background, Surface, ArticleA
+0x2872, wooden floor, Background, Surface, ArticleA
+0x2873, wooden floor, Background, Surface, ArticleA
+0x2874, wooden floor, Background, Surface, ArticleA
+0x2875, wooden floor, Background, Surface, ArticleA
+0x2876, wooden floor, Background, Surface, ArticleA
+0x2877, wooden floor, Background, Surface, ArticleA
+0x2878, wooden floor, Background, Surface, ArticleA
+0x2879, wooden floor, Background, Surface, ArticleA
+0x287A, wooden floor, Background, Surface, ArticleA
+0x287B, wooden floor, Background, Surface, ArticleA
+0x287C, wooden floor, Background, Surface, ArticleA
+0x287D, wooden floor, Background, Surface, ArticleA
+0x287E, wooden floor, Background, Surface, ArticleA
+0x287F, wooden floor, Background, Surface, ArticleA
+0x2880, wooden floor, Background, Surface, ArticleA
+0x2881, wooden floor, Background, Surface, ArticleA
+0x2882, wooden floor, Background, Surface, ArticleA
+0x2883, wooden floor, Background, Surface, ArticleA
+0x2884, wooden floor, Background, Surface, ArticleA
+0x2885, wooden floor, Background, Surface, ArticleA
+0x2960, wooden floor, Background, Surface, ArticleA
+0x2961, wooden floor, Background, Surface, ArticleA
+0x2962, wooden floor, Background, Surface, ArticleA
+0x2963, wooden floor, Background, Surface, ArticleA
+0x2964, wooden floor, Background, Surface, ArticleA
+0x2965, wooden floor, Background, Surface, ArticleA
+0x2966, wooden floor, Background, Surface, ArticleA
+0x2967, wooden floor, Background, Surface, ArticleA
+0x2968, wooden floor, Background, Surface, ArticleA
+0x2969, wooden floor, Background, Surface, ArticleA
+0x296A, wooden floor, Background, Surface, ArticleA
+0x296B, wooden floor, Background, Surface, ArticleA
+0x296C, wooden floor, Background, Surface, ArticleA
+0x296D, wooden floor, Background, Surface, ArticleA
+0x296E, wooden floor, Background, Surface, ArticleA
+0x296F, wooden floor, Background, Surface, ArticleA
+0x2970, wooden floor, Background, Surface, ArticleA
+0x2971, wooden floor, Background, Surface, ArticleA
+0x2972, wooden floor, Background, Surface, ArticleA
+0x2973, wooden floor, Background, Surface, ArticleA
+0x2974, wooden floor, Background, Surface, ArticleA
+0x2975, wooden floor, Background, Surface, ArticleA
+0x2976, wooden floor, Background, Surface, ArticleA
+0x2977, wooden floor, Background, Surface, ArticleA
+0x2978, wooden floor, Background, Surface, ArticleA
+0x2979, wooden floor, Background, Surface, ArticleA
+0x297A, wooden floor, Background, Surface, ArticleA
+0x297B, wooden floor, Background, Surface, ArticleA
+0x297C, wooden floor, Background, Surface, ArticleA
+0x297D, wooden floor, Background, Surface, ArticleA
+0x297E, wooden floor, Background, Surface, ArticleA
+0x297F, wooden floor, Background, Surface, ArticleA
+0x2980, wooden floor, Background, Surface, ArticleA
+0x2981, wooden floor, Background, Surface, ArticleA
+0x2982, wooden floor, Background, Surface, ArticleA
+0x2983, wooden floor, Background, Surface, ArticleA
+0x2984, wooden floor, Background, Surface, ArticleA
+0x2985, wooden floor, Background, Surface, ArticleA
+0x2986, wooden floor, Background, Surface, ArticleA
+0x2987, wooden floor, Background, Surface, ArticleA
+0x2988, wooden floor, Background, Surface, ArticleA
+0x2989, wooden floor, Background, Surface, ArticleA
+0x298A, wooden floor, Background, Surface, ArticleA
+0x298B, wooden floor, Background, Surface, ArticleA
+0x298C, wooden floor, Background, Surface, ArticleA
+0x298D, wooden floor, Background, Surface, ArticleA
+0x298E, wooden floor, Background, Surface, ArticleA
+0x298F, wooden floor, Background, Surface, ArticleA
+0x2BB5, ornate floortile, Background, Surface, NoShoot, Unknown3
+0x2BB6, ornate floortile, Background, Surface, NoShoot, Unknown3
+0x2BB7, ornate floortile, Background, Surface, NoShoot, Unknown3
+0x2BB8, ornate floortile, Background, Surface, NoShoot, Unknown3
+0x2BCF, simple floortile, Background, Surface, NoShoot, Unknown3
+0x2CEC, simple floor tile, Background, Surface, NoShoot, Unknown3
+0x2CED, simple floor tile, Background, Surface, NoShoot, Unknown3
+0x2CEE, simple floor tile, Background, Surface, NoShoot, Unknown3
+0x2D38, wooden floor, Background, Surface, NoShoot, Unknown3
+0x2D39, wooden floor, Background, Surface, NoShoot, Unknown3
+0x2D3A, wooden floor, Background, Surface, NoShoot, Unknown3
+0x2D3B, wooden floor, Background, Surface, NoShoot, Unknown3
+0x2DCB, wooden floor tile, Background, Surface, NoShoot, Unknown3
+0x2DCC, wooden floor tile, Background, Surface, NoShoot, Unknown3
+0x2DCD, wooden floor tile, Background, Surface, NoShoot, Unknown3
+0x2DCE, wooden floor tile, Background, Surface, NoShoot, Unknown3
+0x2DD1, pain half floor, Wall, Impassable, NoShoot, ArticleA, Unknown3
+0x2E01, thorn floor y_, Background, Surface, Unknown3
+0x3004, floor tile  CMI, Background, Surface, NoShoot, ArticleA
+0x3005, floor tile  CMI, Background, Surface, NoShoot, ArticleA
+0x3006, floor tile  CMI, Background, Surface, NoShoot, ArticleA
+0x3007, floor tile  CMI, Background, Surface, NoShoot, ArticleA
+0x35B2, crystal floor, Background, Surface, NoShoot
+0x35B3, crystal floor, Background, Surface, NoShoot
+0x35B4, crystal floor, Background, Surface, NoShoot
+0x35B5, crystal floor, Background, Surface, NoShoot
+0x35B6, crystal floor, Background, Surface, NoShoot
+0x35B7, crystal floor, Background, Surface, NoShoot
+0x35B8, crystal floor, Background, Surface, NoShoot
+0x35B9, crystal floor, Background, Surface, NoShoot
+0x35BA, crystal floor, Background, Surface, NoShoot
+0x35BB, crystal floor, Background, Surface, NoShoot
+0x35BC, crystal floor, Background, Surface, NoShoot
+0x35BD, crystal floor, Background, Surface, NoShoot
+0x361A, shadow floor, Background, Surface, NoShoot
+0x361B, shadow floor, Background, Surface, NoShoot
+0x361C, shadow floor, Background, Surface, NoShoot
+0x361D, shadow floor, Background, Surface, NoShoot
+0x361E, shadow floor, Background, Surface, NoShoot
+0x361F, shadow floor, Background, Surface, NoShoot
+0x3620, shadow floor, Background, Surface, NoShoot
+0x3621, shadow floor, Background, Surface, NoShoot
+0x3622, shadow floor, Background, Surface, NoShoot

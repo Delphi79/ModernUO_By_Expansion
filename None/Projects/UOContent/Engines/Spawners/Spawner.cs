@@ -91,6 +91,8 @@ namespace Server.Engines.Spawners
         }
         */
 
+        private Point3D[] validLocations;
+
         public override Point3D GetSpawnPosition(ISpawnable spawned, Map map)
         {
             if (map == null || map == Map.Internal)
@@ -111,11 +113,13 @@ namespace Server.Engines.Spawners
                 waterOnlyMob = false;
             }
 
-            // Try 10 times to find a valid location.
-            for (var i = 0; i < 10; i++)
+            var rangeDouble = HomeRange * 2 + 1;
+            var maxTries = Math.Min(50, rangeDouble);
+
+            for (var i = 0; i < maxTries; i++)
             {
-                var x = Location.X + (Utility.Random(HomeRange * 2 + 1) - HomeRange);
-                var y = Location.Y + (Utility.Random(HomeRange * 2 + 1) - HomeRange);
+                var x = Location.X + (Utility.Random(rangeDouble) - HomeRange);
+                var y = Location.Y + (Utility.Random(rangeDouble) - HomeRange);
 
                 var mapZ = map.GetAverageZ(x, y);
 
@@ -126,7 +130,7 @@ namespace Server.Engines.Spawners
                         return new Point3D(x, y, Z);
                     }
 
-                    if (IsValidWater(map, x, y, mapZ))
+                    if (mapZ != Z && IsValidWater(map, x, y, mapZ))
                     {
                         return new Point3D(x, y, mapZ);
                     }
@@ -136,17 +140,42 @@ namespace Server.Engines.Spawners
                 {
                     if (map.CanSpawnMobile(x, y, Z))
                     {
-                        return new Point3D(x, y, Z);
+                        return AddValidLocation(new Point3D(x, y, Z));
                     }
 
-                    if (map.CanSpawnMobile(x, y, mapZ))
+                    if (mapZ != Z && map.CanSpawnMobile(x, y, mapZ))
                     {
-                        return new Point3D(x, y, mapZ);
+                        return AddValidLocation(new Point3D(x, y, mapZ));
                     }
                 }
             }
 
-            return HomeLocation;
+            return validLocations?.Length > 0 ? validLocations.RandomElement() : HomeLocation;
+        }
+
+        private Point3D AddValidLocation(Point3D newLoc)
+        {
+            // Don't bother adding home location. It's the last fallback anyways
+            if (newLoc == HomeLocation)
+            {
+                return newLoc;
+            }
+
+            validLocations ??= new Point3D[10];
+            var setLoc = true;
+
+            for (var i = 0; i < validLocations.Length; i++)
+            {
+                var loc = validLocations[i];
+
+                if (!Map.CanSpawnMobile(loc.X, loc.Y, loc.Z))
+                {
+                    validLocations[i] = setLoc ? loc : default;
+                    setLoc = false;
+                }
+            }
+
+            return newLoc;
         }
 
         public override void Deserialize(IGenericReader reader)

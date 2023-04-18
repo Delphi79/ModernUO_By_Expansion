@@ -1,0 +1,14 @@
+0x519, stone pavers, Background, Surface, NoShoot
+0x51A, stone pavers, Background, Surface, NoShoot
+0x51B, stone pavers, Background, Surface, NoShoot
+0x51C, stone pavers, Background, Surface, NoShoot
+0x51D, stone pavers, Background, Surface, NoShoot
+0x51E, stone pavers, Background, Surface, NoShoot, Unknown3
+0x51F, stone pavers, Background, Surface, NoShoot
+0x520, stone pavers, Background, Surface, NoShoot, Unknown3
+0x521, stone pavers, Background, Surface, NoShoot
+0x522, stone pavers, Background, Surface, NoShoot, Unknown3
+0x523, stone pavers, Background, Surface, NoShoot, Unknown3
+0x524, stone pavers, Background, Surface, NoShoot, Unknown3
+
+0x519, 0x51A, 0x51B, 0x51C, 0x51D, 0x51E, 0x51F, 0x520, 0x521, 0x522, 0x523, 0x524

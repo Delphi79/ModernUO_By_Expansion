@@ -211,3 +211,54 @@ System.NullReferenceException: Object reference not set to an instance of an obj
    at Server.Network.NetState.HandleReceive() in E:\Servers\ModernUO\Development Servers\Servers By Expansion\None\modernuo\Projects\Server\Network\NetState\NetState.cs:line 736
 
 
+# 4/17/2023 5:45:12 PM
+System.ArgumentOutOfRangeException: Non-negative number required. (Parameter 'value')
+   at System.IO.FileStream.SetLength(Int64 value)
+   at Server.Commands.ItemSearchCommand.SearchItems(Mobile from, String searchTerm) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\Custom\SearchItem.cs:line 74
+   at Server.Commands.ItemSearchCommand.SearchItems_OnCommand(CommandEventArgs e) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\Custom\SearchItem.cs:line 26
+   at Server.CommandSystem.Handle(Mobile from, String text, MessageType type) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\Commands.cs:line 207
+   at Server.Mobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\Mobiles\Mobile.cs:line 5453
+   at Server.Mobiles.PlayerMobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\Mobiles\PlayerMobile.cs:line 2769
+   at Server.Network.IncomingMessagePackets.UnicodeSpeech(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\Network\Packets\IncomingMessagePackets.cs:line 138
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\Network\NetState\NetState.cs:line 736
+
+
+# 4/18/2023 3:45:40 AM
+System.IO.FileNotFoundException: Could not find file 'E:\Github Repositories\ModernUO_By_Expansion\None\Distribution\input_coordinates.txt'.
+File name: 'E:\Github Repositories\ModernUO_By_Expansion\None\Distribution\input_coordinates.txt'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at Server.Custom.GetRectCommand.ReadInputCoordinatesFile(String path) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\Custom\GetRect.cs:line 64
+   at Server.Custom.GetRectCommand.GetRect_OnCommand(CommandEventArgs e) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\Custom\GetRect.cs:line 36
+   at Server.CommandSystem.Handle(Mobile from, String text, MessageType type) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\Commands.cs:line 226
+   at Server.Mobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\Mobiles\Mobile.cs:line 5453
+   at Server.Mobiles.PlayerMobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\Mobiles\PlayerMobile.cs:line 2769
+   at Server.Network.IncomingMessagePackets.UnicodeSpeech(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\Network\Packets\IncomingMessagePackets.cs:line 138
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\Network\NetState\NetState.cs:line 736
+
+
+# 4/18/2023 3:50:58 AM
+System.IO.FileNotFoundException: Could not find file 'E:\Github Repositories\ModernUO_By_Expansion\None\Distribution\City_Shops.txt'.
+File name: 'E:\Github Repositories\ModernUO_By_Expansion\None\Distribution\City_Shops.txt'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at Server.Custom.GetRectCommand.ReadInputCoordinatesFile(String path) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\Custom\GetRect.cs:line 64
+   at Server.Custom.GetRectCommand.GetRect_OnCommand(CommandEventArgs e) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\Custom\GetRect.cs:line 36
+   at Server.CommandSystem.Handle(Mobile from, String text, MessageType type) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\Commands.cs:line 226
+   at Server.Mobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\Mobiles\Mobile.cs:line 5453
+   at Server.Mobiles.PlayerMobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\Mobiles\PlayerMobile.cs:line 2769
+   at Server.Network.IncomingMessagePackets.UnicodeSpeech(NetState state, CircularBufferReader reader, Int32 packetLength) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\UOContent\Network\Packets\IncomingMessagePackets.cs:line 138
+   at Server.Network.NetState.HandlePacket(CircularBufferReader packetReader, Byte packetId, Int32& packetLength) in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\Network\NetState\NetState.cs:line 754
+   at Server.Network.NetState.HandleReceive() in E:\Github Repositories\ModernUO_By_Expansion\None\Projects\Server\Network\NetState\NetState.cs:line 705
+
+

@@ -1,0 +1,749 @@
+0x20D, acid proof rope, None
+0x550, stone roof, Background, Surface, NoShoot
+0x554, stone roof, Background, Surface, NoShoot
+0x555, stone roof, Background, Surface, NoShoot
+0x556, stone roof, Background, Surface, NoShoot
+0x557, stone roof, Background, Surface, NoShoot
+0x558, stone roof, Background, Surface, NoShoot
+0x559, stone roof, Background, Surface, NoShoot
+0x55A, stone roof, Background, Surface, NoShoot
+0x55B, stone roof, Background, Surface, NoShoot
+0x55C, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x55D, stone roof, Background, Surface, NoShoot, ArticleA
+0x55E, stone roof, Background, Surface, NoShoot, ArticleA
+0x55F, stone roof, Background, Surface, NoShoot, ArticleA
+0x560, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x561, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x562, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x563, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x564, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x565, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x566, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x567, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x568, stone roof, Background, Surface, NoShoot, Unknown3
+0x569, stone roof, Background, Surface, NoShoot, Unknown3
+0x56B, stone roof, Background, Surface, NoShoot, ArticleA
+0x56C, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x56D, stone roof, Background, Surface, NoShoot, ArticleA
+0x56E, stone roof, Background, Surface, NoShoot, ArticleA
+0x56F, stone roof, Background, Surface, NoShoot, ArticleA
+0x570, stone roof, Background, Surface, NoShoot, ArticleA
+0x571, stone roof, Background, Surface, NoShoot, ArticleA
+0x572, stone roof, Background, Surface, NoShoot, ArticleA
+0x573, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x574, stone roof, Background, Surface, NoShoot, ArticleA
+0x575, stone roof, Background, Surface, NoShoot, ArticleA
+0x576, stone roof, Background, Surface, NoShoot, ArticleA
+0x577, stone roof, Background, Surface, NoShoot, ArticleA
+0x578, stone roof, Background, Surface, NoShoot, ArticleA
+0x579, stone roof, Background, Surface, NoShoot, ArticleA
+0x57A, stone roof, Background, Surface, NoShoot, ArticleA
+0x57B, stone roof, Background, Surface, NoShoot, ArticleA
+0x57C, stone roof, Background, Surface, NoShoot, ArticleA
+0x57D, stone roof, Background, Surface, NoShoot, ArticleA
+0x57E, stone roof, Background, Surface, NoShoot, ArticleA
+0x57F, slate roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x580, slate roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x581, slate roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x582, slate roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x583, slate roof, Background, Surface, NoShoot, ArticleA
+0x584, slate roof, Background, Surface, NoShoot, ArticleA
+0x585, slate roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x586, palm frond roof, NoShoot, Roof
+0x587, palm fronds, NoShoot, Roof
+0x588, palm fronds, NoShoot, Roof
+0x589, palm fronds, NoShoot, Roof
+0x58A, palm fronds, NoShoot, Roof
+0x58B, palm fronds, NoShoot, Roof
+0x58C, palm fronds, NoShoot, Roof
+0x58D, palm fronds, NoShoot, Roof
+0x58E, palm fronds, NoShoot, Roof
+0x58F, palm fronds, NoShoot, Roof
+0x590, palm fronds, NoShoot, Roof
+0x591, palm fronds, NoShoot, Roof
+0x592, palm fronds, NoShoot, Roof
+0x593, palm fronds, NoShoot, Roof
+0x594, palm fronds, NoShoot, Roof
+0x595, slate roof, NoShoot, ArticleA, Roof
+0x596, slate roof, NoShoot, ArticleA, Roof
+0x597, slate roof, NoShoot, ArticleA, Roof
+0x598, slate roof, NoShoot, ArticleA, Roof
+0x599, slate roof, NoShoot, ArticleA, Roof
+0x59A, slate roof, NoShoot, ArticleA, Roof
+0x59B, slate roof, NoShoot, ArticleA, Roof
+0x59C, slate roof, NoShoot, ArticleA, Roof
+0x59D, slate roof, NoShoot, ArticleA, Roof
+0x59E, slate roof, NoShoot, ArticleA, Roof
+0x59F, slate roof, NoShoot, ArticleA, Roof
+0x5A0, slate roof, NoShoot, ArticleA, Unknown3, Roof
+0x5A1, slate roof, NoShoot, ArticleA, Unknown3, Roof
+0x5A2, slate roof, NoShoot, ArticleA, Unknown3, Roof
+0x5A3, slate roof, NoShoot, ArticleA, Unknown3, Roof
+0x5A4, thatch roof, NoShoot, ArticleA, Unknown3, Roof
+0x5A5, thatch roof, NoShoot, ArticleA, Unknown3, Roof
+0x5A6, thatch roof, NoShoot, ArticleA, Unknown3, Roof
+0x5A7, thatch roof, NoShoot, ArticleA, Unknown3, Roof
+0x5A8, thatch roof, NoShoot, ArticleA, Unknown3, Roof
+0x5A9, thatch roof, NoShoot, ArticleA, Unknown3, Roof
+0x5AA, thatch roof, NoShoot, ArticleA, Unknown3, Roof
+0x5AB, thatch roof, NoShoot, ArticleA, Roof
+0x5AC, thatch roof, NoShoot, ArticleA, Roof
+0x5AD, thatch roof, NoShoot, ArticleA, Roof
+0x5AE, thatch roof, NoShoot, ArticleA, Roof
+0x5AF, thatch roof, NoShoot, ArticleA, Roof
+0x5B0, thatch roof, NoShoot, ArticleA, Roof
+0x5B1, thatch roof, NoShoot, ArticleA, Roof
+0x5B2, thatch roof, NoShoot, ArticleA, Roof
+0x5B3, tile roof, NoShoot, ArticleA, Roof
+0x5B4, tile roof, NoShoot, ArticleA, Roof
+0x5B5, tile roof, NoShoot, ArticleA, Roof
+0x5B6, tile roof, NoShoot, ArticleA, Roof
+0x5B7, tile roof, NoShoot, ArticleA, Roof
+0x5B8, tile roof, NoShoot, ArticleA, Roof
+0x5B9, tile roof, NoShoot, ArticleA, Roof
+0x5BA, tile roof, NoShoot, ArticleA, Roof
+0x5BB, tile roof, NoShoot, ArticleA, Roof
+0x5BC, tile roof, NoShoot, ArticleA, Roof
+0x5BD, tile roof, NoShoot, ArticleA, Roof
+0x5BE, tile roof, NoShoot, ArticleA, Roof
+0x5BF, tile roof, NoShoot, ArticleA, Roof
+0x5C0, tile roof, NoShoot, ArticleA, Unknown3, Roof
+0x5C1, tile roof, NoShoot, ArticleA, Unknown3, Roof
+0x5C2, wooden shingle, NoShoot, Roof
+0x5C3, wooden shingles, NoShoot, Unknown3, Roof
+0x5C4, wooden shingles, NoShoot, Unknown3, Roof
+0x5C5, wooden shingles, NoShoot, Unknown3, Roof
+0x5C6, wooden shingles, NoShoot, Unknown3, Roof
+0x5C7, wooden shingles, NoShoot, Unknown3, Roof
+0x5C8, wooden shingles, NoShoot, Roof
+0x5C9, wooden shingles, NoShoot, Roof
+0x5CA, wooden shingles, NoShoot, Roof
+0x5CB, wooden shingles, NoShoot, Roof
+0x5CC, wooden shingles, NoShoot, Roof
+0x5CD, wooden shingles, NoShoot, Roof
+0x5CE, wooden shingles, NoShoot, Roof
+0x5CF, wooden shingles, NoShoot, Roof
+0x5D0, wooden shingles, NoShoot, ArticleA, Unknown3, Roof
+0x5D1, palm frond roof, NoShoot, ArticleA, Roof
+0x5D2, palm frond roof, NoShoot, ArticleA, Roof
+0x5D3, palm frond roof, NoShoot, ArticleA, Roof
+0x5D4, palm frond roof, NoShoot, ArticleA, Roof
+0x5D6, palm frond roof, NoShoot, ArticleA, Roof
+0x5D7, palm frond roof, NoShoot, ArticleA, Roof
+0x5D8, palm frond roof, NoShoot, ArticleA, Roof
+0x5D9, palm frond roof, NoShoot, ArticleA, Roof
+0x5DA, palm frond roof, NoShoot, ArticleA, Roof
+0x5DB, palm frond roof, NoShoot, ArticleA, Roof
+0x5DC, palm frond roof, NoShoot, ArticleA, Roof
+0x5DD, palm frond roof, NoShoot, ArticleA, Roof
+0x5DE, palm frond roof, NoShoot, ArticleA, Roof
+0x5DF, palm frond roof, NoShoot, ArticleA, Roof
+0x5E0, palm frond roof, NoShoot, ArticleA, Roof
+0x5E1, palm frond roof, NoShoot, ArticleA, Roof
+0x5E2, palm frond roof, NoShoot, ArticleA, Roof
+0x5E3, palm frond roof, NoShoot, ArticleA, Roof
+0x5E4, palm frond roof, NoShoot, ArticleA, Roof
+0x5E5, palm frond roof, NoShoot, ArticleA, Roof
+0x5E6, palm frond roof, NoShoot, ArticleA, Roof
+0x5E7, palm frond roof, NoShoot, ArticleA, Roof
+0x5E8, palm frond roof, NoShoot, ArticleA, Roof
+0x5E9, palm frond roof, NoShoot, ArticleA, Roof
+0x5EA, palm frond roof, NoShoot, ArticleA, Roof
+0x5EB, palm frond roof, NoShoot, ArticleA, Roof
+0x5EC, palm frond roof, NoShoot, ArticleA, Roof
+0x5EF, stone roof, Background, Surface, NoShoot, ArticleA
+0x5F0, log roof, NoShoot, ArticleA, Roof
+0x5F1, log roof, NoShoot, ArticleA, Unknown3, Roof
+0x5F2, log roof, NoShoot, ArticleA, Unknown3, Roof
+0x5F3, log roof, NoShoot, ArticleA, Unknown3, Roof
+0x5F4, log roof, NoShoot, ArticleA, Roof
+0x5F5, log roof, NoShoot, ArticleA, Roof
+0x5F6, log roof, NoShoot, ArticleA, Roof
+0x5F7, log roof, NoShoot, ArticleA, Roof
+0x5F8, log roof, NoShoot, ArticleA, Roof
+0x5F9, log roof, NoShoot, ArticleA, Roof
+0x5FA, log roof, NoShoot, ArticleA, Roof
+0x5FB, log roof, NoShoot, ArticleA, Roof
+0x5FC, log roof, NoShoot, ArticleA, Roof
+0x5FD, log roof, NoShoot, ArticleA, Roof
+0x5FE, log roof, NoShoot, ArticleA, Roof
+0x5FF, tent roof, NoShoot, ArticleA, Roof
+0x600, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x601, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x602, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x603, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x604, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x605, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x606, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x607, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x608, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x609, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x60A, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x60B, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x60C, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x60D, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x60E, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x60F, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x610, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x611, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x612, tent roof, NoShoot, ArticleA, Roof
+0x613, tent roof, NoShoot, ArticleA, Roof
+0x614, tent roof, NoShoot, ArticleA, Roof
+0x615, tent roof, NoShoot, ArticleA, Roof
+0x616, tent roof, NoShoot, ArticleA, Roof
+0x617, tent roof, NoShoot, ArticleA, Roof
+0x618, tent roof, NoShoot, ArticleA, Roof
+0x619, tent roof, NoShoot, ArticleA, Roof
+0x61A, tent roof, NoShoot, ArticleA, Roof
+0x61B, tent roof, NoShoot, ArticleA, Roof
+0x61C, tent roof, NoShoot, ArticleA, Roof
+0x61D, tent roof, NoShoot, ArticleA, Roof
+0x61E, tent roof, NoShoot, ArticleA, Roof
+0x61F, tent roof, NoShoot, ArticleA, Roof
+0x620, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x621, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x622, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x623, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x624, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x625, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x626, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x627, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x628, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x629, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x62A, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x62B, stone roof, Background, Surface, NoShoot, ArticleA
+0x62C, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x62D, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x62E, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x62F, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x630, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x631, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x632, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x633, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x634, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x635, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x636, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x637, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x638, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x639, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x63A, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x63B, marble roof, Background, Surface, ArticleA, Unknown3
+0x63C, marble roof, Background, Surface, ArticleA, Unknown3
+0x63D, marble roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x63E, marble roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x648, tent roof, NoShoot, ArticleA, PartialHue, Unknown3
+0x649, tent roof, NoShoot, ArticleA, PartialHue, Unknown3
+0x64A, tent roof, NoShoot, ArticleA, PartialHue, Unknown3
+0x64B, tent roof, NoShoot, ArticleA, PartialHue, Unknown3, Roof
+0x64C, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x64D, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x64E, tent roof, NoShoot, Unknown3, Roof
+0x64F, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x650, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x651, tent roof, NoShoot, ArticleA, Unknown3, Roof
+0x652, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x653, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x654, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x655, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x656, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x657, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x658, slate roof, Background, Surface, NoShoot, ArticleA
+0x659, slate roof, Background, Surface, NoShoot, ArticleA
+0x65A, stone roof, Background, Surface, NoShoot, ArticleA
+0x65B, stone roof, Background, Surface, NoShoot, ArticleA
+0x65C, stone roof, Background, Surface, NoShoot, ArticleA, Unknown3
+0x65D, stone roof, Background, Surface, NoShoot, ArticleA
+0x65E, tent roof, NoShoot, ArticleA, PartialHue, Unknown3, Roof
+0x65F, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x660, tent roof, NoShoot, ArticleA, PartialHue, Unknown3, Roof
+0x661, tent roof, NoShoot, ArticleA, PartialHue, Unknown3, Roof
+0x662, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x663, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x664, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x665, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x666, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x667, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x668, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x669, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x66A, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x66B, tent roof, NoShoot, ArticleA, PartialHue, Unknown3, Roof
+0x66C, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x66D, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x66E, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x66F, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x670, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x671, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x672, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x673, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x674, tent roof, NoShoot, ArticleA, PartialHue, Roof
+0x6FD, tile roof, NoShoot, ArticleA, Roof
+0x6FE, tile roof, NoShoot, ArticleA, Roof
+0x6FF, tile roof, NoShoot, ArticleA, Roof
+0x700, tile roof, NoShoot, ArticleA, Roof
+0x8D5, chimney, Wall, Impassable, NoShoot, ArticleA, Roof
+0x1939, roof tile, ArticleAn, Roof
+0x193A, roof tile, ArticleA, Roof
+0x193B, roof tile, ArticleA, Roof
+0x193C, roof tile, ArticleA, Roof
+0x193D, roof tile, ArticleA, Roof
+0x193E, roof tile, ArticleA, Roof
+0x2148, thatch roof, NoShoot, ArticleA, Roof
+0x2149, thatch roof, NoShoot, ArticleA, Roof
+0x214A, thatch roof, NoShoot, ArticleA, Roof
+0x214B, thatch roof, NoShoot, ArticleA, Roof
+0x214C, thatch roof, NoShoot, ArticleA, Roof
+0x214D, thatch roof, NoShoot, ArticleA, Roof
+0x214E, thatch roof, NoShoot, ArticleA, Roof
+0x214F, thatch roof, NoShoot, ArticleA, Roof
+0x2170, wooden shingle, NoShoot, ArticleA, Unknown3, Roof
+0x2171, wooden shingle, NoShoot, ArticleA, Roof
+0x2172, wooden shingle, NoShoot, ArticleA, Roof
+0x2173, wooden shingle, NoShoot, ArticleA, Roof
+0x2174, wooden shingle, NoShoot, ArticleA, Roof
+0x2175, wooden shingle, NoShoot, ArticleA, Roof
+0x2176, wooden shingle, NoShoot, ArticleA, Roof
+0x2177, wooden shingle, NoShoot, ArticleA, Roof
+0x2178, slate roof, NoShoot, ArticleA, Roof
+0x2179, slate roof, NoShoot, ArticleA, Roof
+0x217A, slate roof, NoShoot, ArticleA, Roof
+0x217B, slate roof, NoShoot, ArticleA, Roof
+0x217C, slate roof, NoShoot, ArticleA, Roof
+0x217D, slate roof, NoShoot, ArticleA, Roof
+0x217E, slate roof, NoShoot, ArticleA, Roof
+0x217F, slate roof, NoShoot, ArticleA, Roof
+0x2180, palm fronds, NoShoot, Unknown3, Roof
+0x2181, palm fronds, NoShoot, Roof
+0x2182, palm fronds, NoShoot, Roof
+0x2183, palm fronds, NoShoot, Roof
+0x2184, palm fronds, NoShoot, Roof
+0x2185, palm fronds, NoShoot, Roof
+0x2186, palm fronds, NoShoot, Roof
+0x2187, palm fronds, NoShoot, Roof
+0x21E9, tile roof, NoShoot, ArticleA, Roof
+0x21EA, tile roof, NoShoot, ArticleA, Roof
+0x21EB, tile roof, NoShoot, ArticleA, Roof
+0x21EC, tile roof, NoShoot, ArticleA, Roof
+0x21ED, tile roof, NoShoot, ArticleA, Unknown3, Roof
+0x21EE, tile roof, NoShoot, ArticleA, Unknown3, Roof
+0x21EF, tile roof, NoShoot, ArticleA, Unknown3, Roof
+0x21F0, tile roof, NoShoot, ArticleA, Unknown3, Roof
+0x23BE, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23BF, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23C0, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23C1, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23C2, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23C3, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23C4, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23C5, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23C6, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23C7, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23C8, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23C9, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23CA, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23CB, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23CC, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23CD, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23CE, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23CF, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23D0, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23D1, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23D2, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23D3, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23D4, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23D5, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23D6, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23D7, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23D8, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23D9, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23DA, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23DB, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23DC, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23DD, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23DE, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23DF, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23E0, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23E1, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23E2, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23E3, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23E4, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23E5, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23E6, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23E7, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23E8, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23E9, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23EA, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23EB, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23EC, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23ED, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23EE, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23EF, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23F0, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23F1, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23F2, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23F3, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23F4, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23F5, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23F6, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23F7, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23F8, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23F9, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23FA, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23FB, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23FC, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23FD, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23FE, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x23FF, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x26DA, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26DB, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26DC, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26DD, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26DE, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26DF, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26E0, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26E1, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26E2, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26E3, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26E4, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26E5, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26E6, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26E7, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26E8, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26E9, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26EA, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26EB, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26EC, hay roof, Impassable, NoShoot, ArticleA, Roof
+0x26F8, bark roofing, Impassable, NoShoot, Roof
+0x26F9, bark roofing, Impassable, NoShoot, Roof
+0x26FA, bark roofing, Impassable, NoShoot, Roof
+0x26FB, bark roofing, Impassable, NoShoot, Roof
+0x26FC, bark roofing, Impassable, NoShoot, Roof
+0x26FD, bark roofing, Impassable, NoShoot, Roof
+0x26FE, bark roofing, Impassable, NoShoot, Roof
+0x26FF, bark roofing, Impassable, NoShoot, Roof
+0x2701, bark roofing, Impassable, NoShoot, Roof
+0x2702, bark roofing, Impassable, NoShoot, Roof
+0x2703, bark roofing, Impassable, NoShoot, Roof
+0x2704, bark roofing, Impassable, NoShoot, Roof
+0x2705, bark roofing, Impassable, NoShoot, Roof
+0x2706, bark roofing, Impassable, NoShoot, Roof
+0x2707, bark roofing, Impassable, NoShoot, Roof
+0x2708, bark roofing, Impassable, NoShoot, Roof
+0x2709, bark roofing, Impassable, NoShoot, Roof
+0x270A, bark roofing, Impassable, NoShoot, Roof
+0x270B, bark roofing, Impassable, NoShoot, Roof
+0x270C, bark roofing, Impassable, NoShoot, Roof
+0x28B0, stone roofing, Impassable, NoShoot, Roof
+0x28B1, stone roofing, Impassable, NoShoot, Roof
+0x28B2, stone roofing, Impassable, NoShoot, Roof
+0x28B3, stone roofing, Impassable, NoShoot, Roof
+0x28B4, stone roofing, Impassable, NoShoot, Roof
+0x28B5, stone roofing, Impassable, NoShoot, Roof
+0x28B6, stone roofing, Impassable, NoShoot, Roof
+0x28B7, stone roofing, Impassable, NoShoot, Roof
+0x28B8, stone roofing, Impassable, NoShoot, Roof
+0x28B9, stone roofing, Impassable, NoShoot, Roof
+0x28BA, stone roofing, Impassable, NoShoot, Roof
+0x28BB, stone roofing, Impassable, NoShoot, Roof
+0x28BC, stone roofing, Impassable, NoShoot, Roof
+0x28BD, stone roofing, Impassable, NoShoot, Roof
+0x28BE, stone roofing, Impassable, NoShoot, Roof
+0x28BF, stone roofing, Impassable, NoShoot, Roof
+0x28C0, stone roofing, Impassable, NoShoot, Roof
+0x28C1, stone roofing, Impassable, NoShoot, Roof
+0x28C2, stone roofing, Impassable, NoShoot, Roof
+0x28C3, stone roofing, Impassable, NoShoot, Roof
+0x28C4, stone roofing, Impassable, NoShoot, Roof
+0x28C5, stone roofing, Impassable, NoShoot, Roof
+0x28C6, wood slat roofing, Impassable, NoShoot, Roof
+0x28C7, wood slat roofing, Impassable, NoShoot, Roof
+0x28C8, wood slat roofing, Impassable, NoShoot, Roof
+0x28C9, wood slat roofing, Impassable, NoShoot, Roof
+0x28CA, wood slat roofing, Impassable, NoShoot, Roof
+0x28CB, wood slat roofing, Impassable, NoShoot, Roof
+0x28CC, wood slat roofing, Impassable, NoShoot, Roof
+0x28CD, wood slat roofing, Impassable, NoShoot, Roof
+0x28CE, wood slat roofing, Impassable, NoShoot, Roof
+0x28CF, wood slat roofing, Impassable, NoShoot, Roof
+0x28D0, wood slat roofing, Impassable, NoShoot, Roof
+0x28D1, wood slat roofing, Impassable, NoShoot, Roof
+0x28D2, wood slat roofing, Impassable, NoShoot, Roof
+0x28D3, wood slat roofing, Impassable, NoShoot, Roof
+0x28D4, wood slat roofing, Impassable, NoShoot, Roof
+0x28D5, wood slat roofing, Impassable, NoShoot, Roof
+0x28D6, wood slat roofing, Impassable, NoShoot, Roof
+0x28D7, wood slat roofing, Impassable, NoShoot, Roof
+0x28D8, wood slat roofing, Impassable, NoShoot, Roof
+0x28D9, wood slat roofing, Impassable, NoShoot, Roof
+0x28DA, wood slat roofing, Impassable, NoShoot, Roof
+0x28DB, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28E4, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28E5, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28E6, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28E7, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28E8, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28E9, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28EA, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28EB, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28EC, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28ED, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28EE, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28EF, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28F0, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28F1, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28F2, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28F3, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28F4, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28F5, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28F6, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28F7, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28F8, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28F9, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28FA, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28FB, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28FC, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28FD, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28FE, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x28FF, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2900, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2901, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2902, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2903, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2904, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2905, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2906, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2907, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2908, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2909, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x290A, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x290B, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x290C, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x290D, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x290E, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x290F, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2910, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2911, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2912, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2913, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2914, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2915, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2916, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2917, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2918, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2919, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x291A, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x291B, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2920, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2921, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2922, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2923, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2924, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2925, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2926, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2927, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2928, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2929, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x292A, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x292B, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x292C, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x292D, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x292E, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x292F, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2930, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2931, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2932, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2933, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2934, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2935, ceramic roof, Impassable, NoShoot, ArticleA, Roof
+0x2A2B, roof, Impassable, NoShoot, Roof
+0x2A2C, roof, Impassable, NoShoot, Roof
+0x2A2D, , Impassable, NoShoot, Roof
+0x2A2E, roof, Impassable, NoShoot, Roof
+0x2B81, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B82, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B83, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B84, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B85, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B86, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B87, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B88, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B89, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B8A, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B8B, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B8C, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B8D, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B8E, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B8F, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B90, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B91, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B92, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B93, diamond roof shingl, Impassable, NoShoot, ArticleA, Roof
+0x2B94, leafed roof _01, Impassable, NoShoot, ArticleA, Roof
+0x2B95, leafed roof _02, Impassable, NoShoot, ArticleA, Roof
+0x2B96, leafed roof _03, Impassable, NoShoot, ArticleA, Roof
+0x2B97, leafed roof _04, Impassable, NoShoot, ArticleA, Roof
+0x2B98, leafed roof _05, Impassable, NoShoot, ArticleA, Roof
+0x2B99, leafed roof _06, Impassable, NoShoot, ArticleA, Roof
+0x2B9A, leafed roof _07, Impassable, NoShoot, ArticleA, Roof
+0x2B9B, leafed roof _08, Impassable, NoShoot, ArticleA, Roof
+0x2B9C, leafed roof _09, Impassable, NoShoot, ArticleA, Roof
+0x2B9D, leafed roof _10, Impassable, NoShoot, ArticleA, Roof
+0x2B9E, leafed roof _11, Impassable, NoShoot, ArticleA, Roof
+0x2B9F, leafed roof _12, Impassable, NoShoot, ArticleA, Roof
+0x2BA0, leafed roof _13, Impassable, NoShoot, ArticleA, Roof
+0x2BA1, leafed roof _14, Impassable, NoShoot, ArticleA, Roof
+0x2BA2, leafed roof _15, Impassable, NoShoot, ArticleA, Roof
+0x2BA3, leafed roof _16, Impassable, NoShoot, ArticleA, Roof
+0x2BA4, leafed roof _17, Impassable, NoShoot, ArticleA, Roof
+0x2BA5, leafed roof _18, Impassable, NoShoot, ArticleA, Roof
+0x2BA6, leafed roof _19, Impassable, NoShoot, ArticleA, Roof
+0x2BA7, roof bark ic_LE, Impassable, NoShoot, ArticleA, Roof
+0x2BA8, roof bark ic_RE, Impassable, NoShoot, ArticleA, Roof
+0x2C24, tile roof, Impassable, NoShoot, ArticleA, Roof
+0x2C25, tile roof, Impassable, NoShoot, ArticleA, Roof
+0x2C26, tile roof, Impassable, NoShoot, ArticleA, Roof
+0x2C27, tile roof, Impassable, NoShoot, ArticleA, Roof
+0x2C28, tile roof, Impassable, NoShoot, ArticleA, Roof
+0x2C29, tile roof, Impassable, NoShoot, ArticleA, Roof
+0x2C2A, tile roof, Impassable, NoShoot, ArticleA, Roof
+0x2C2B, tile roof, Impassable, NoShoot, ArticleA, Roof
+0x2C2C, tile roof, Impassable, NoShoot, ArticleA, Roof
+0x2C2D, tile roof, Impassable, NoShoot, ArticleA, Roof
+0x2C2E, tile roof, Impassable, NoShoot, ArticleA, Roof
+0x2C2F, tile roof, Impassable, NoShoot, ArticleA, Roof
+0x2C30, tile roof, Impassable, NoShoot, ArticleA, Roof
+0x2C31, tile roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C32, tile roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C33, wooden shingle, Impassable, NoShoot, Roof
+0x2C34, wooden shingles, Impassable, NoShoot, Unknown3, Roof
+0x2C35, wooden shingles, Impassable, NoShoot, Unknown3, Roof
+0x2C36, wooden shingles, Impassable, NoShoot, Unknown3, Roof
+0x2C37, wooden shingles, Impassable, NoShoot, Unknown3, Roof
+0x2C38, wooden shingles, Impassable, NoShoot, Unknown3, Roof
+0x2C39, wooden shingles, Impassable, NoShoot, Roof
+0x2C3A, wooden shingles, Impassable, NoShoot, Roof
+0x2C3B, wooden shingles, Impassable, NoShoot, Roof
+0x2C3C, wooden shingles, Impassable, NoShoot, Roof
+0x2C3D, wooden shingles, Impassable, NoShoot, Roof
+0x2C3E, wooden shingles, Impassable, NoShoot, Roof
+0x2C3F, wooden shingles, Impassable, NoShoot, Roof
+0x2C40, wooden shingles, Impassable, NoShoot, Roof
+0x2C41, wooden shingles, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C42, log roof, Impassable, NoShoot, ArticleA, Roof
+0x2C43, log roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C44, log roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C45, log roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C46, log roof, Impassable, NoShoot, ArticleA, Roof
+0x2C47, log roof, Impassable, NoShoot, ArticleA, Roof
+0x2C48, log roof, Impassable, NoShoot, ArticleA, Roof
+0x2C49, log roof, Impassable, NoShoot, ArticleA, Roof
+0x2C4A, log roof, Impassable, NoShoot, ArticleA, Roof
+0x2C4B, log roof, Impassable, NoShoot, ArticleA, Roof
+0x2C4C, log roof, Impassable, NoShoot, ArticleA, Roof
+0x2C4D, log roof, Impassable, NoShoot, ArticleA, Roof
+0x2C4E, log roof, Impassable, NoShoot, ArticleA, Roof
+0x2C4F, log roof, Impassable, NoShoot, ArticleA, Roof
+0x2C50, log roof, Impassable, NoShoot, ArticleA, Roof
+0x2C51, thatch roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C52, thatch roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C53, thatch roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C54, thatch roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C55, thatch roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C56, thatch roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C57, thatch roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C58, thatch roof, Impassable, NoShoot, ArticleA, Roof
+0x2C59, thatch roof, Impassable, NoShoot, ArticleA, Roof
+0x2C5A, thatch roof, Impassable, NoShoot, ArticleA, Roof
+0x2C5B, thatch roof, Impassable, NoShoot, ArticleA, Roof
+0x2C5C, thatch roof, Impassable, NoShoot, ArticleA, Roof
+0x2C5D, thatch roof, Impassable, NoShoot, ArticleA, Roof
+0x2C5E, thatch roof, Impassable, NoShoot, ArticleA, Roof
+0x2C5F, thatch roof, Impassable, NoShoot, ArticleA, Roof
+0x2C60, palm frond roof, Impassable, NoShoot, Roof
+0x2C61, palm fronds, Impassable, NoShoot, Roof
+0x2C62, palm fronds, Impassable, NoShoot, Roof
+0x2C63, palm fronds, Impassable, NoShoot, Roof
+0x2C64, palm fronds, Impassable, NoShoot, Roof
+0x2C65, palm fronds, Impassable, NoShoot, Roof
+0x2C66, palm fronds, Impassable, NoShoot, Roof
+0x2C67, palm fronds, Impassable, NoShoot, Roof
+0x2C68, palm fronds, Impassable, NoShoot, Roof
+0x2C69, palm fronds, Impassable, NoShoot, Roof
+0x2C6A, palm fronds, Impassable, NoShoot, Roof
+0x2C6B, palm fronds, Impassable, NoShoot, Roof
+0x2C6C, palm fronds, Impassable, NoShoot, Roof
+0x2C6D, palm fronds, Impassable, NoShoot, Roof
+0x2C6E, palm fronds, Impassable, NoShoot, Roof
+0x2C6F, slate roof, Impassable, NoShoot, ArticleA, Roof
+0x2C70, slate roof, Impassable, NoShoot, ArticleA, Roof
+0x2C71, slate roof, Impassable, NoShoot, ArticleA, Roof
+0x2C72, slate roof, Impassable, NoShoot, ArticleA, Roof
+0x2C73, slate roof, Impassable, NoShoot, ArticleA, Roof
+0x2C74, slate roof, Impassable, NoShoot, ArticleA, Roof
+0x2C75, slate roof, Impassable, NoShoot, ArticleA, Roof
+0x2C76, slate roof, Impassable, NoShoot, ArticleA, Roof
+0x2C77, slate roof, Impassable, NoShoot, ArticleA, Roof
+0x2C78, slate roof, Impassable, NoShoot, ArticleA, Roof
+0x2C79, slate roof, Impassable, NoShoot, ArticleA, Roof
+0x2C7A, slate roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C7B, slate roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C7C, slate roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2C7D, slate roof, Impassable, NoShoot, ArticleA, Unknown3, Roof
+0x2F1F, diamond Roof Shing, Impassable, NoShoot, ArticleA, Roof
+0x2F20, diamond Roof Shing, Impassable, NoShoot, ArticleA, Roof
+0x2F21, diamond Roof Shing, Impassable, NoShoot, ArticleA, Roof
+0x2F22, diamond Roof Shing, Impassable, NoShoot, ArticleA, Roof
+0x2F23, diamond Roof Shing, Impassable, NoShoot, ArticleA, Roof
+0x2F24, leafed roof, Impassable, NoShoot, ArticleA, Roof
+0x2F25, leafed roof, Impassable, NoShoot, ArticleA, Roof
+0x2F26, leafed roof, Impassable, NoShoot, ArticleA, Roof
+0x2F27, leafed roof, Impassable, NoShoot, ArticleA, Roof
+0x2F28, leafed roof, Impassable, NoShoot, ArticleA, Roof
+0x35BE, crystal roof, Impassable, NoShoot, Roof
+0x35BF, crystal roof, Impassable, NoShoot, Roof
+0x35C0, crystal roof, Impassable, NoShoot, Roof
+0x35C1, crystal roof, Impassable, NoShoot, Roof
+0x35C2, crystal roof, Impassable, NoShoot, Roof
+0x35C3, crystal roof, Impassable, NoShoot, Roof
+0x35C4, crystal roof, Impassable, NoShoot, Roof
+0x35C5, crystal roof, Impassable, NoShoot, Roof
+0x35C6, crystal roof, Impassable, NoShoot, Roof
+0x35C7, crystal roof, Impassable, NoShoot, Roof
+0x35C8, crystal roof, Impassable, NoShoot, Roof
+0x35C9, crystal roof, Impassable, NoShoot, Roof
+0x35CA, crystal roof, Impassable, NoShoot, Roof
+0x35CB, crystal roof, Impassable, NoShoot, Roof
+0x35CC, crystal roof, Impassable, NoShoot, Roof
+0x35CD, crystal roof, Impassable, NoShoot, Roof
+0x35CE, crystal roof, Impassable, NoShoot, Roof
+0x35CF, crystal roof, Impassable, NoShoot, Roof
+0x35D0, crystal roof, Impassable, NoShoot, Roof
+0x35D1, crystal roof, Impassable, NoShoot, Roof
+0x3623, shadow roof, Impassable, NoShoot, Roof
+0x3624, shadow roof, Impassable, NoShoot, Roof
+0x3625, shadow roof, Impassable, NoShoot, Roof
+0x3626, shadow roof, Impassable, NoShoot, Roof
+0x3627, shadow roof, Impassable, NoShoot, Roof
+0x3628, shadow roof, Impassable, NoShoot, Roof
+0x3629, shadow roof, Impassable, NoShoot, Roof
+0x362A, shadow roof, Impassable, NoShoot, Roof
+0x362B, shadow roof, Impassable, NoShoot, Roof
+0x362C, shadow roof, Impassable, NoShoot, Roof
+0x362D, shadow roof, Impassable, NoShoot, Roof
+0x362E, shadow roof, Impassable, NoShoot, Roof
+0x362F, shadow roof, Impassable, NoShoot, Roof
+0x3630, shadow roof, Impassable, NoShoot, Roof
+0x3631, shadow roof, Impassable, NoShoot, Roof
+0x3632, shadow roof, Impassable, NoShoot, Roof
+0x3633, shadow roof, Impassable, NoShoot, Roof
+0x3634, shadow roof, Impassable, NoShoot, Roof
+0x3635, shadow roof, Impassable, NoShoot, Roof
+0x3637, shadow roof, Wall, Impassable
+0x3638, shadow roof, Wall, Impassable
+0x3639, shadow roof, Wall, Impassable
+0x363A, shadow roof, Wall, Impassable, NoShoot
+0x363B, shadow roof, Wall, Impassable, NoShoot
+0x363C, shadow roof, Wall, Impassable, Window, NoShoot, LightSource
+0x363D, shadow roof, Wall, Impassable, Window, NoShoot, LightSource
+0x363E, shadow roof, Wall, Impassable, Window, NoShoot, LightSource
+0x363F, shadow roof, Wall, Impassable, Window, NoShoot, LightSource
+0x3FF7, , Roof

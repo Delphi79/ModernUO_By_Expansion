@@ -1,0 +1,2162 @@
+ID: 0x006 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x007 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x008 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x009 - Name: wooden post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x00A - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x00B - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x00C - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x00D - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x00E - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x00F - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x010 - Name: wooden wall - Flags: Wall, Impassable, ArticleA
+ID: 0x011 - Name: wooden wall - Flags: Wall, Impassable, ArticleA
+ID: 0x012 - Name: wooden wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x013 - Name: wooden post - Flags: Wall, Impassable, ArticleA
+ID: 0x014 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x015 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x016 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x017 - Name: wooden post - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x018 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x019 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x01A - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x01B - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x01C - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x01D - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x01E - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x01F - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x020 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x021 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x022 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x023 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource, Unknown3
+ID: 0x024 - Name: stone wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x025 - Name: stone wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x026 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x027 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x028 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x029 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x02A - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x02B - Name: stone arch - Flags: Wall, ArticleA
+ID: 0x02C - Name: stone arch - Flags: Wall, ArticleA
+ID: 0x02D - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x02E - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x02F - Name: stone wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x030 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x031 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x032 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x033 - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x034 - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x035 - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x036 - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x037 - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x038 - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x039 - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x03A - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x03B - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x03C - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x03D - Name: brick wall - Flags: Wall, Impassable, ArticleA
+ID: 0x03E - Name: brick wall - Flags: Wall, Impassable, ArticleA
+ID: 0x03F - Name: brick wall - Flags: Wall, Impassable, ArticleA
+ID: 0x040 - Name: brick wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x041 - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x042 - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x043 - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x044 - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x045 - Name: brick arch - Flags: Wall, Impassable, Window, ArticleAn, Unknown3
+ID: 0x046 - Name: brick arch - Flags: Wall, Impassable, Window, ArticleAn
+ID: 0x047 - Name: brick arch - Flags: Wall, Window, ArticleAn
+ID: 0x048 - Name: brick arch - Flags: Wall, Impassable, Window, ArticleAn
+ID: 0x049 - Name: brick arch - Flags: Wall, Window, ArticleAn, Unknown3
+ID: 0x04A - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x04B - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x04C - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x04D - Name: brick wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x04E - Name: brick wall - Flags: Wall, Impassable, ArticleA
+ID: 0x04F - Name: brick wall - Flags: Wall, Impassable, ArticleA
+ID: 0x050 - Name: brick wall - Flags: Wall, Impassable, ArticleA
+ID: 0x051 - Name: brick wall - Flags: Wall, Impassable, ArticleA
+ID: 0x052 - Name: brick wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x053 - Name: brick wall - Flags: Wall, Impassable, ArticleA
+ID: 0x054 - Name: brick wall - Flags: Wall, Impassable, ArticleA
+ID: 0x055 - Name: brick wall - Flags: Wall, Impassable, ArticleA
+ID: 0x056 - Name: brick wall - Flags: Wall, Impassable, ArticleA
+ID: 0x057 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x058 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x059 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x05A - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x05B - Name: arrow loop - Flags: Wall, Impassable, Window, ArticleAn, LightSource
+ID: 0x05C - Name: arrow loop - Flags: Wall, Impassable, Window, ArticleAn, LightSource, Unknown3
+ID: 0x05D - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x05E - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource, Unknown3
+ID: 0x05F - Name: stone wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x060 - Name: stone wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x061 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x062 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x063 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x064 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x065 - Name: stone wall Shirt2_M - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x066 - Name: stone wall n booksh - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x067 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x068 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x069 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x06A - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x06B - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x06C - Name: stone wall yage Scr - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x06D - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x06E - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x06F - Name: stone arch - Flags: Wall, ArticleA
+ID: 0x070 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x071 - Name: stone arch - Flags: Wall, ArticleA
+ID: 0x072 - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x073 - Name: battlement rmor_Glo - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x074 - Name: battlement rmor_Gor - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x075 - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x077 - Name: stone column - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x078 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x079 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x07A - Name: stone arch - Flags: Wall, ArticleA
+ID: 0x07B - Name: stone arch - Flags: Wall, ArticleA
+ID: 0x07C - Name: stone arch - Flags: Wall, ArticleA
+ID: 0x07D - Name: stone arch - Flags: Wall, ArticleA
+ID: 0x07E - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x07F - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x080 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x081 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x082 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x083 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource, Unknown3
+ID: 0x084 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x085 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource, Unknown3
+ID: 0x086 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x087 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x088 - Name: stone wall - Flags: Wall, ArticleA
+ID: 0x089 - Name: stone wall - Flags: Wall, ArticleA
+ID: 0x08A - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x08B - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x08C - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x08D - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x08E - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x08F - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x090 - Name: log wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x091 - Name: log wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x092 - Name: log wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x093 - Name: log post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x094 - Name: log wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x095 - Name: log wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x096 - Name: log wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x097 - Name: log wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x098 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x099 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x09A - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x09B - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x09C - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x09D - Name: log post - Flags: Wall, Impassable, ArticleA
+ID: 0x09E - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x09F - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x0A0 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x0A1 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x0A2 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x0A3 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x0A4 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x0A5 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x0A6 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0A7 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0A8 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0A9 - Name: wooden post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0AA - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0AB - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0AC - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0AD - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0AE - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0AF - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0B0 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0B1 - Name: wooden post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0B2 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0B3 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0B4 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0B5 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x0B6 - Name: wooden wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x0B7 - Name: wooden wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x0B8 - Name: wooden wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x0B9 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x0BA - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x0BB - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x0BC - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x0BD - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0BE - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0BF - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0C0 - Name: wooden post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0C1 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x0C2 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x0C5 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0C6 - Name: stone arch - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x0C7 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0C8 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0C9 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0CA - Name: arrow loop - Flags: Wall, Impassable, Window, ArticleAn, LightSource
+ID: 0x0CB - Name: arrow loop - Flags: Wall, Impassable, Window, ArticleAn, LightSource
+ID: 0x0CC - Name: stone post - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x0CD - Name: stone arch - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0CE - Name: stone arch - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x0CF - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x0D0 - Name: stone arch - Flags: Wall, ArticleA, Unknown3
+ID: 0x0D1 - Name: stone arch - Flags: Wall, ArticleA
+ID: 0x0D2 - Name: stone buttress - Flags: Wall, Impassable, ArticleA
+ID: 0x0D3 - Name: stone buttress - Flags: Wall, Impassable, ArticleA
+ID: 0x0D4 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x0D5 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x0D6 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x0D7 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x0D8 - Name: stone arch - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x0D9 - Name: stone arch - Flags: Wall, ArticleA
+ID: 0x0DA - Name: stone arch - Flags: Wall, ArticleA
+ID: 0x0DB - Name: stone pillar - Flags: Wall, Impassable, ArticleA
+ID: 0x0DC - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x0DD - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x0DE - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x0DF - Name: stone post - Flags: Wall, Impassable, ArticleA
+ID: 0x0E0 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x0E1 - Name: stone arch - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x0E2 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x0E3 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x0E4 - Name: stone arch - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x0E5 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x0E6 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x0E7 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x0E8 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x0E9 - Name: secret door - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x0EA - Name: stone wall - Flags: Wall, Impassable, ArticleA, Unknown3, Door
+ID: 0x0EB - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x0EC - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x0ED - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x0EE - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x0EF - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x0F0 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x0F1 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x0F2 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x0F3 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x0F4 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x0F5 - Name: secret door - Flags: Wall, ArticleA, Unknown3, Door
+ID: 0x0F6 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x0F7 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x0F8 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0F9 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0FA - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0FB - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x0FC - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x0FD - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x0FE - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x0FF - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x100 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x101 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x102 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x103 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource, Unknown3
+ID: 0x104 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x105 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x106 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x107 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x108 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x109 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x10A - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x10B - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x10C - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x10D - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x10E - Name: marble wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x10F - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x110 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x111 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x112 - Name: marble arch - Flags: Wall, Impassable, ArticleA
+ID: 0x113 - Name: marble arch - Flags: Wall, Impassable, ArticleA
+ID: 0x114 - Name: marble arch - Flags: Wall, ArticleA
+ID: 0x115 - Name: marble arch - Flags: Wall, Impassable, ArticleA
+ID: 0x116 - Name: marble arch - Flags: Wall, ArticleA
+ID: 0x117 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x118 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x119 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x11A - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x11B - Name: marble column - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x11C - Name: marble column - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x11D - Name: marble column - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x11E - Name: marble column - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x11F - Name: marble column - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x120 - Name: marble column - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x121 - Name: marble arch - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x122 - Name: marble arch - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x123 - Name: marble arch - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x124 - Name: marble arch - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x125 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x126 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x127 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x128 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x129 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x12A - Name: wooden post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x12B - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x12C - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x12D - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x12E - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x12F - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x130 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x131 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x132 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x133 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x134 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x135 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x136 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x137 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x138 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x139 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x13A - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x13B - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x13C - Name: archway - Flags: Wall, Impassable, ArticleAn
+ID: 0x13D - Name: archway - Flags: Wall, Impassable, ArticleAn, Unknown3
+ID: 0x13E - Name: archway - Flags: Wall, ArticleAn
+ID: 0x13F - Name: archway - Flags: Wall, Impassable, ArticleAn
+ID: 0x140 - Name: archway - Flags: Wall, ArticleAn, Unknown3
+ID: 0x141 - Name: wooden beam - Flags: Wall, Impassable, ArticleA
+ID: 0x142 - Name: wooden beam - Flags: Wall, Impassable, ArticleA
+ID: 0x143 - Name: wooden beam - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x144 - Name: wooden beam - Flags: Wall, Impassable, ArticleA
+ID: 0x149 - Name:  - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x14A - Name: plaster wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x14B - Name: plaster wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x14C - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x14D - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x14E - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x14F - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x150 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x151 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x152 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x153 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x154 - Name: window - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x155 - Name: window - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x156 - Name: window - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x157 - Name: window - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x158 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x159 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x15A - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x15B - Name: sandstone post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x15C - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x15D - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x15E - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x15F - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x160 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x161 - Name: sandstone post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x162 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x163 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x164 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x165 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x166 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x167 - Name: sandstone post - Flags: Wall, Impassable, ArticleA
+ID: 0x168 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x169 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x16A - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x16B - Name: sandstone post - Flags: Wall, Impassable, ArticleA
+ID: 0x16C - Name: sandstone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x16D - Name: sandstone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x16E - Name: sandstone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x16F - Name: sandstone arch - Flags: Wall, ArticleA
+ID: 0x170 - Name: sandstone arch - Flags: Wall, ArticleA, Unknown3
+ID: 0x171 - Name: sandstone wall - Flags: Wall, ArticleA
+ID: 0x172 - Name: sandstone wall - Flags: Wall, ArticleA
+ID: 0x173 - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x174 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x175 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x176 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x177 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x178 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x179 - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x17A - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x17B - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x17C - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x17D - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x17E - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x17F - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x180 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x181 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x182 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x183 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x184 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x185 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x186 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x187 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x188 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x189 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x18A - Name: sandstone arch - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x18B - Name: sandstone arch - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x18C - Name: sandstone arch - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x18D - Name: sandstone arch - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x18E - Name: sandstone arch - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x18F - Name: sandstone arch - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x190 - Name: sandstone arch - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x191 - Name: sandstone arch - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x192 - Name: sandstone arch - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x193 - Name: sandstone arch - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x194 - Name: sandstone column - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x195 - Name: sandstone column - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x196 - Name: sandstone column - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x197 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x198 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x199 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x19A - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x19B - Name: wood post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x19C - Name: wood supports - Flags: Wall, Impassable, Unknown3
+ID: 0x19D - Name: wood supports - Flags: Wall, Impassable, Unknown3
+ID: 0x19E - Name: wood supports - Flags: Wall, Impassable, Unknown3
+ID: 0x19F - Name: wood supports - Flags: Wall, Impassable, Unknown3
+ID: 0x1A0 - Name: wood supports - Flags: Wall, Impassable, Unknown3
+ID: 0x1A1 - Name: wood supports - Flags: Wall, Impassable, Unknown3
+ID: 0x1A2 - Name: wood supports - Flags: Wall, Impassable, Unknown3
+ID: 0x1A3 - Name: wood post - Flags: Wall, Impassable, ArticleA
+ID: 0x1A4 - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1A5 - Name: rattan wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1A6 - Name: rattan wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x1A7 - Name: rattan wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1A8 - Name: wood post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1A9 - Name: rattan wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1AA - Name: rattan wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1AB - Name: rattan wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1AC - Name: rattan wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x1AD - Name: window - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x1AE - Name: window - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x1AF - Name: window - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x1B0 - Name: window - Flags: Wall, Impassable, Window, ArticleA, Unknown3
+ID: 0x1B1 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x1B2 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x1B3 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x1B4 - Name: sandstone wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x1B5 - Name: wood post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1B6 - Name: hide wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1B7 - Name: hide wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x1B8 - Name: hide wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x1B9 - Name: wood post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1BA - Name: hide wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1BB - Name: hide wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1BC - Name: hide wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1BD - Name: hide wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1BE - Name: hide wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1BF - Name: hide wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1C0 - Name: hide wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x1C1 - Name: hide wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1C2 - Name: hide wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1C3 - Name: hide wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1C4 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource, Unknown3
+ID: 0x1C5 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource, Unknown3
+ID: 0x1C6 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x1C7 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x1C8 - Name: hide wall - Flags: Wall, Impassable, ArticleA
+ID: 0x1C9 - Name: hide wall - Flags: Wall, Impassable, ArticleA
+ID: 0x1CA - Name: sandstone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x1CB - Name: dock pole - Flags: Wall, Impassable, ArticleA
+ID: 0x1CC - Name: dock pole - Flags: Wall, Impassable, ArticleA
+ID: 0x1CD - Name: dock pole - Flags: Wall, Impassable, ArticleA
+ID: 0x1CE - Name: dock pole - Flags: Wall, Impassable, ArticleA
+ID: 0x1CF - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1D0 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1D1 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1D2 - Name: stone post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1D3 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x1D4 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x1D5 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x1D6 - Name: stone arch - Flags: Wall, ArticleA
+ID: 0x1D7 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x1D8 - Name: stone arch - Flags: Wall, ArticleA
+ID: 0x1D9 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x1DA - Name: stone pillar - Flags: Wall, Impassable, ArticleA
+ID: 0x1DB - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x1DC - Name: stone arch - Flags: Wall, ArticleA
+ID: 0x1DD - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x1DE - Name: stone arch - Flags: Wall, ArticleA
+ID: 0x1DF - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x1E0 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x1E1 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x1E2 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x1E3 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x1E4 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x1E5 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x1E6 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x1E7 - Name: stone arch - Flags: Wall, Impassable, ArticleA
+ID: 0x1E8 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x1E9 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x1EA - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x1EB - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x1EC - Name: wall - Flags: Surface, Bridge, ArticleA
+ID: 0x1ED - Name: wall - Flags: Surface, Bridge, ArticleA
+ID: 0x1EE - Name: wall - Flags: Wall, Impassable, ArticleA
+ID: 0x1EF - Name: wall - Flags: Wall, Impassable, ArticleA
+ID: 0x1F0 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1F1 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1F2 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1F3 - Name: wooden pole - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1F4 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1F5 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1F6 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1F7 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1F8 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x1F9 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1FF - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x200 - Name: plaster wall ragme - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x201 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x202 - Name: sandstone post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x203 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x204 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x205 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x206 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x207 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x208 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x209 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x20A - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x20B - Name: plaster wall - Flags: Wall, Impassable, ArticleA
+ID: 0x20C - Name: plaster wall - Flags: Wall, Impassable, ArticleA
+ID: 0x20F - Name: bamboo wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x210 - Name: bamboo wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x211 - Name: bamboo wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x212 - Name: bamboo wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x213 - Name: bamboo wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x214 - Name: bamboo wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x215 - Name: bamboo wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x216 - Name: bamboo wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x217 - Name: bamboo wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x218 - Name: bamboo wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x219 - Name: bamboo wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21A - Name: bamboo wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21D - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x21E - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x21F - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x220 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA, Unknown3
+ID: 0x221 - Name: palisade - Flags: Wall, Damaging, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x222 - Name: palisade - Flags: Wall, Damaging, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x223 - Name: palisade - Flags: Wall, Damaging, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x226 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x227 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x228 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x229 - Name: wooden post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x22A - Name: wooden wall - Flags: Wall, Impassable, ArticleA
+ID: 0x22B - Name: wooden wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x22C - Name: door - Flags: Wall, Impassable, NoShoot
+ID: 0x22D - Name: door - Flags: Wall, Window, ArticleA
+ID: 0x22E - Name: door - Flags: Wall, Window, ArticleA
+ID: 0x22F - Name: door - Flags: Wall, NoShoot, ArticleA
+ID: 0x230 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x231 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x232 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x233 - Name: wooden pole - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x234 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x235 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x236 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x237 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x238 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x239 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x241 - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x242 - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x243 - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x244 - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x245 - Name: dungeon arch - Flags: Wall, ArticleA, Unknown3
+ID: 0x246 - Name: dungeon arch - Flags: Wall, ArticleA, Unknown3
+ID: 0x247 - Name: dungeon arch - Flags: Wall, ArticleA, Unknown3
+ID: 0x248 - Name: dungeon arch - Flags: Wall, ArticleA
+ID: 0x249 - Name: dungeon arch - Flags: Wall, Impassable, ArticleA
+ID: 0x24A - Name: dungeon arch - Flags: Wall, Impassable, ArticleA
+ID: 0x24C - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24D - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24E - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x24F - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x250 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x251 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x252 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x253 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x254 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x255 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA, PartialHue, Unknown3
+ID: 0x256 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA, PartialHue
+ID: 0x257 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA, PartialHue
+ID: 0x258 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x259 - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x25A - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x25B - Name: sandstone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x25C - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x25D - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x25E - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x25F - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x260 - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x261 - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x262 - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x263 - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x264 - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x265 - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x266 - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x267 - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x268 - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x269 - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x26A - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x26B - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x26C - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x26D - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x26E - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x26F - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x270 - Name: cave wall - Flags: Wall, ArticleA
+ID: 0x271 - Name: cave wall - Flags: Wall, ArticleA
+ID: 0x272 - Name: cave wall - Flags: Wall, ArticleA
+ID: 0x273 - Name: cave wall - Flags: Wall, ArticleA
+ID: 0x274 - Name: cave wall - Flags: Wall, ArticleA
+ID: 0x275 - Name: cave wall - Flags: Wall, ArticleA
+ID: 0x276 - Name: cave wall - Flags: Wall, ArticleA
+ID: 0x277 - Name: ruined wall - Flags: Wall, Impassable, ArticleA
+ID: 0x278 - Name: ruined wall - Flags: Wall, Impassable, ArticleA
+ID: 0x279 - Name: ruined wall - Flags: Wall, Impassable, ArticleA
+ID: 0x27A - Name: ruined wall - Flags: Wall, Impassable, ArticleA
+ID: 0x27B - Name: ruined wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x27C - Name: ruined wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x27D - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x27E - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x27F - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x280 - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x281 - Name: ruined wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x282 - Name: ruined wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x291 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x292 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x293 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x294 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x295 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x296 - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x297 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x298 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x299 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29A - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29B - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29C - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29D - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29E - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29F - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2A0 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2A1 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2A2 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2A3 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2A4 - Name: marble wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2A5 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2A6 - Name: marble wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x2A7 - Name: marble column - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2A8 - Name: marble column - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2A9 - Name: marble column - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2AA - Name: marble column - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2AB - Name: marble column - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2AC - Name: marble column - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2AD - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x2AE - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x2B0 - Name: marble arch - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2B1 - Name: marble arch - Flags: Wall, Impassable, ArticleA
+ID: 0x2B2 - Name: marble arch - Flags: Wall, ArticleA, Unknown3
+ID: 0x2B3 - Name: marble arch - Flags: Wall, Impassable, ArticleA
+ID: 0x2B4 - Name: marble arch - Flags: Wall, ArticleA
+ID: 0x2B5 - Name: marble wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x2B6 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2B7 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2B8 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2B9 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2BA - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2BB - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2BC - Name: marble wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x2BD - Name: marble arch - Flags: Wall, NoShoot, ArticleA
+ID: 0x2BE - Name: marble arch - Flags: Wall, NoShoot, ArticleA
+ID: 0x2BF - Name: marble arch - Flags: Wall, NoShoot, ArticleA
+ID: 0x2C0 - Name: marble arch - Flags: Wall, ArticleA, Unknown3
+ID: 0x2C7 - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2C8 - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2C9 - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2CA - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2CB - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2CC - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2CD - Name: battlement - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2CE - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2CF - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2D0 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2D1 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2D2 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2D3 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2D4 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2D5 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2D6 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2D7 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2D8 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2D9 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2DE - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2DF - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2E0 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2E1 - Name: wood pole - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2E2 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2E3 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2E4 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2E5 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2E6 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2E7 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2E8 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2E9 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2EA - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2EB - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2EC - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2F9 - Name: dungeon wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2FA - Name: dungeon wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2FB - Name: dungeon wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2FC - Name: dungeon wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2FD - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2FE - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2FF - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x300 - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x314 - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x315 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x316 - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x317 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x318 - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x319 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x31A - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31B - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x31C - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31D - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x31E - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31F - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x320 - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x321 - Name: secret door - Flags: Wall, ArticleA, Door
+ID: 0x322 - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x323 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x324 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x325 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x326 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x327 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x328 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x32A - Name: stone wall - Flags: Impassable, NoShoot, ArticleA, Door
+ID: 0x32B - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x32C - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x32D - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x32E - Name: stone wall - Flags: Impassable, NoShoot, ArticleA, Door
+ID: 0x330 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x331 - Name: secret door - Flags: Wall, ArticleA, Unknown3, Door
+ID: 0x332 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x333 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x334 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x335 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x336 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x337 - Name: secret door - Flags: Wall, Impassable, ArticleA, Unknown3, Door
+ID: 0x338 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x339 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x33A - Name: wooden wall - Flags: Impassable, NoShoot, ArticleA, Door
+ID: 0x33C - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x33D - Name: secret door - Flags: Wall, ArticleA, Door
+ID: 0x33E - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x33F - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x340 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x341 - Name: secret door - Flags: Wall, ArticleA, Unknown3, Door
+ID: 0x342 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x343 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x344 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x345 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x346 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x347 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x348 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x349 - Name: secret door - Flags: Wall, Impassable, ArticleA, Unknown3, Door
+ID: 0x34A - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x34B - Name: secret door - Flags: Wall, Impassable, ArticleA, Unknown3, Door
+ID: 0x34C - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x34D - Name: secret door - Flags: Wall, Impassable, ArticleA, Unknown3, Door
+ID: 0x34E - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x34F - Name: secret door - Flags: Wall, Impassable, ArticleA, Unknown3, Door
+ID: 0x350 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x351 - Name: secret door - Flags: Wall, ArticleA, Door
+ID: 0x352 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x353 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x354 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x355 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x356 - Name: stone wall - Flags: Wall, Impassable, NoShoot, Door
+ID: 0x357 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x358 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x359 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x35A - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x35B - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x35C - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x35D - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x35E - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x35F - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x360 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x361 - Name: secret door - Flags: Wall, ArticleA, Door
+ID: 0x362 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x363 - Name: secret door - Flags: Wall, Impassable, ArticleA, Door
+ID: 0x364 - Name: stone wall - Flags: Wall, NoShoot, ArticleA
+ID: 0x365 - Name: stone wall - Flags: Wall, NoShoot, ArticleA
+ID: 0x368 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA, PartialHue
+ID: 0x369 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA, PartialHue
+ID: 0x36A - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA, PartialHue
+ID: 0x36B - Name: tent pole - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x36C - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA, PartialHue
+ID: 0x36D - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA, PartialHue
+ID: 0x36E - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA, PartialHue
+ID: 0x36F - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA, PartialHue
+ID: 0x370 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA, PartialHue
+ID: 0x371 - Name: tent wall - Flags: Wall, Impassable, NoShoot, ArticleA, PartialHue, Unknown3
+ID: 0x37F - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x380 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x381 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x382 - Name: wooden post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x383 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x384 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x385 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x386 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x387 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x388 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x389 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x38A - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x38B - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x38C - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x38D - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x38E - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x38F - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x390 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x391 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x392 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x393 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x394 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x395 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x396 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x397 - Name: archway - Flags: Wall, Impassable, ArticleAn
+ID: 0x398 - Name: archway - Flags: Wall, Impassable, ArticleAn
+ID: 0x399 - Name: archway - Flags: Wall, ArticleAn
+ID: 0x39A - Name: archway - Flags: Wall, Impassable, ArticleAn
+ID: 0x39B - Name: archway - Flags: Wall, ArticleAn, NoDiagonal
+ID: 0x39C - Name: wooden beam - Flags: Wall, ArticleA
+ID: 0x39D - Name: wooden beam - Flags: Wall, ArticleA
+ID: 0x39E - Name: wooden beam - Flags: Wall, ArticleA
+ID: 0x39F - Name: wooden beam - Flags: Wall, ArticleA
+ID: 0x3B3 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x3B4 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x3B5 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x3B6 - Name: wooden post - Flags: Wall, Impassable, ArticleA
+ID: 0x3B7 - Name: stone ruins - Flags: Wall, Impassable
+ID: 0x3B8 - Name: stone ruins - Flags: Wall, Impassable
+ID: 0x3B9 - Name: stone ruins - Flags: Wall, Impassable
+ID: 0x3BA - Name: stone ruins - Flags: Wall, Impassable
+ID: 0x3BB - Name: stone ruins - Flags: Wall, Impassable
+ID: 0x3BC - Name: stone ruins - Flags: Wall, Impassable, Unknown3
+ID: 0x3BD - Name: stone ruins - Flags: Wall, Impassable
+ID: 0x3BE - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x3BF - Name: stone ruins - Flags: Wall, Impassable
+ID: 0x3C0 - Name: stone wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x3C1 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x3C2 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x3C3 - Name: stone ruins - Flags: Wall, Impassable, Unknown3
+ID: 0x3C4 - Name: stone ruins - Flags: Wall, Impassable
+ID: 0x3C5 - Name: stone ruins - Flags: Wall, Impassable
+ID: 0x3C6 - Name: stone ruins - Flags: Wall, Impassable
+ID: 0x3C7 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3C8 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3C9 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3CA - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3CB - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3CC - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3CD - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3CE - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3CF - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x3D0 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x3D1 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x3D2 - Name: stone wall - Flags: Wall, Impassable, ArticleA
+ID: 0x3D3 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3D4 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3D5 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3D6 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3D7 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3D8 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3D9 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3DA - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3DB - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3DC - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3DD - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x3DE - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x3DF - Name: window - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x3E0 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3E1 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3E2 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x421 - Name: palisade - Flags: Wall, Damaging, Impassable, NoShoot, ArticleA
+ID: 0x422 - Name: palisade - Flags: Wall, Damaging, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x423 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x424 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x425 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x430 - Name: palisade - Flags: Wall, Damaging, Impassable, NoShoot, ArticleA
+ID: 0x431 - Name: palisade - Flags: Wall, Damaging, Impassable, NoShoot, ArticleA
+ID: 0x432 - Name: curtain - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x435 - Name: curtain - Flags: Wall, Impassable, Window, Unknown3
+ID: 0x438 - Name: marble arch - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x439 - Name: marble arch - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x43A - Name: marble arch - Flags: Wall, ArticleA
+ID: 0x43B - Name: marble arch - Flags: Wall, Impassable, ArticleA
+ID: 0x43C - Name: marble arch - Flags: Wall, ArticleA
+ID: 0x43D - Name: marble arch - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x43E - Name: marble arch - Flags: Wall, Impassable, ArticleA
+ID: 0x43F - Name: marble arch - Flags: Wall, ArticleA
+ID: 0x440 - Name: marble arch - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x441 - Name: marble arch - Flags: Wall, ArticleA, Unknown3
+ID: 0x442 - Name: marble wall - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x443 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x444 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x445 - Name: marble wall - Flags: Wall, Impassable, ArticleA
+ID: 0x446 - Name: arch - Flags: Wall, Impassable, ArticleAn
+ID: 0x447 - Name: arch - Flags: Wall, Impassable, ArticleAn
+ID: 0x448 - Name: arch - Flags: Wall, ArticleAn
+ID: 0x449 - Name: arch - Flags: Wall, Impassable, ArticleAn
+ID: 0x44A - Name: arch - Flags: Wall, ArticleAn, Unknown3
+ID: 0x44B - Name: arch - Flags: Wall, Impassable, ArticleAn, Unknown3
+ID: 0x44C - Name: arch - Flags: Wall, Impassable, ArticleAn, Unknown3
+ID: 0x44D - Name: arch - Flags: Wall, ArticleAn
+ID: 0x44E - Name: arch - Flags: Wall, Impassable, ArticleAn
+ID: 0x44F - Name: arch - Flags: Wall, ArticleAn
+ID: 0x450 - Name: wall - Flags: Wall, Impassable, ArticleA
+ID: 0x451 - Name: wall - Flags: Wall, Impassable, ArticleA
+ID: 0x452 - Name: wall - Flags: Wall, Impassable, ArticleA
+ID: 0x453 - Name: wall - Flags: Wall, Impassable, ArticleA
+ID: 0x45D - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x45E - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x45F - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x460 - Name: stone fireplace - Flags: Wall, Impassable, NoShoot
+ID: 0x461 - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn
+ID: 0x462 - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn, LightSource, Animation
+ID: 0x463 - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn, LightSource, Animation
+ID: 0x464 - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn, LightSource
+ID: 0x465 - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn, Unknown3
+ID: 0x466 - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn
+ID: 0x46A - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn
+ID: 0x46B - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn, LightSource
+ID: 0x46C - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn, Animation
+ID: 0x46D - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn, LightSource
+ID: 0x46E - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn, LightSource
+ID: 0x46F - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn
+ID: 0x475 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource, Animation, Unknown3
+ID: 0x476 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource, Unknown3
+ID: 0x477 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x478 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x479 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x47A - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x47B - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource, Animation
+ID: 0x47C - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x47D - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x47E - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x47F - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x480 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x482 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, Animation
+ID: 0x483 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x484 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x485 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x486 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x487 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x489 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, Animation
+ID: 0x48A - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x48B - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x48C - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x48D - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x48E - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x675 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x676 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x677 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x678 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x679 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x67A - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x67B - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x67C - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x67D - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x67E - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x67F - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x680 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x681 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x682 - Name: metal door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x683 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x684 - Name: metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x685 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x686 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Unknown3, Door
+ID: 0x687 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Unknown3, Door
+ID: 0x688 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x689 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x68A - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x68B - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x68C - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x68D - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x68E - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x68F - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x690 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x691 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x692 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x693 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x694 - Name: barred metal door - Flags: Wall, Window, ArticleA, Door
+ID: 0x695 - Name: rattan door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x696 - Name: rattan door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x697 - Name: rattan door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x698 - Name: rattan door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x699 - Name: rattan door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x69A - Name: rattan door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x69B - Name: rattan door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x69C - Name: rattan door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x69D - Name: rattan door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x69E - Name: rattan door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x69F - Name: rattan door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6A0 - Name: rattan door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6A1 - Name: rattan door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6A2 - Name: rattan door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x6A3 - Name: rattan door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6A4 - Name: rattan door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6A5 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6A6 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6A7 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x6A8 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6A9 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6AA - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6AB - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6AC - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6AD - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6AE - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6AF - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6B0 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6B1 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6B2 - Name: wooden door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x6B3 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6B4 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6B5 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6B6 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6B7 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6B8 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x6B9 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6BA - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6BB - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6BC - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6BD - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6BE - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6BF - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6C0 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x6C1 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6C2 - Name: wooden door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x6C3 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6C4 - Name: wooden door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x6C5 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6C6 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6C7 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6C8 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6C9 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6CA - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6CB - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6CC - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x6CD - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6CE - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6CF - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6D0 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6D1 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6D2 - Name: metal door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x6D3 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6D4 - Name: metal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6D5 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6D6 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6D7 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6D8 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6D9 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6DA - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6DB - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6DC - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6DD - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6DE - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6DF - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6E0 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x6E1 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6E2 - Name: wooden door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x6E3 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6E4 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x6E5 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6E6 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6E7 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6E8 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6E9 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6EA - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6EB - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6EC - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6ED - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6EE - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6EF - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6F0 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6F1 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6F2 - Name: wooden door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x6F3 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6F4 - Name: wooden door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x6F5 - Name: portcullis - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x6F6 - Name: portcullis - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x7D6 - Name: stone post - Flags: Wall, Impassable, Unknown3
+ID: 0x7D7 - Name: railing - Flags: Wall, Impassable
+ID: 0x7D8 - Name: railing - Flags: Wall, Impassable
+ID: 0x7D9 - Name: stone column - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x821 - Name: iron fence - Flags: Wall, Impassable, ArticleAn
+ID: 0x822 - Name: iron fence - Flags: Wall, Impassable, ArticleAn
+ID: 0x823 - Name: iron fence - Flags: Wall, Impassable, ArticleAn
+ID: 0x835 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x836 - Name: wooden fence - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x837 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x838 - Name: wooden post - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x849 - Name: iron fence - Flags: Wall, Impassable, ArticleAn
+ID: 0x84A - Name: iron fence - Flags: Wall, Impassable, ArticleAn
+ID: 0x84B - Name: iron fence - Flags: Wall, Impassable, ArticleAn
+ID: 0x85C - Name: wooden fence - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x85D - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x85E - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x85F - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x860 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x861 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x862 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x863 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x864 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x865 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x877 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x878 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x88A - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x88B - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x8CF - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x8D0 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x8D1 - Name: chimney - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x8D2 - Name: chimney - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x8D3 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x8D4 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x8D5 - Name: chimney - Flags: Wall, Impassable, NoShoot, ArticleA, Roof
+ID: 0x8D6 - Name: chimney - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x8D7 - Name: chimney - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x8D8 - Name: chimney - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x8D9 - Name: chimney - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x8DA - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x8DB - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x8DC - Name: chimney - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x8DD - Name: chimney - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x8DE - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x8DF - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x8EB - Name: stone rail - Flags: Wall, Impassable, ArticleA
+ID: 0x8EC - Name: stone rail - Flags: Wall, Impassable, ArticleA
+ID: 0x8ED - Name: stone rail - Flags: Wall, Impassable, ArticleA
+ID: 0x8EE - Name: stone rail - Flags: Wall, Impassable, ArticleA
+ID: 0x8EF - Name: stone rail - Flags: Wall, Impassable, ArticleA
+ID: 0x8F1 - Name: stone rail - Flags: Wall, Impassable, ArticleA
+ID: 0x8F2 - Name: stone rail - Flags: Wall, Impassable, ArticleA
+ID: 0x8F3 - Name: sandstone rail - Flags: Wall, Impassable, ArticleA
+ID: 0x8F4 - Name: sandstone rail - Flags: Wall, Impassable, ArticleA
+ID: 0x8F5 - Name: sandstone rail - Flags: Wall, Impassable, ArticleA
+ID: 0x8F6 - Name: sandstone rail - Flags: Wall, Impassable, ArticleA
+ID: 0x8F7 - Name: stone rail - Flags: Wall, Impassable, ArticleA
+ID: 0x8F8 - Name: stone rail - Flags: Wall, Impassable, ArticleA
+ID: 0x8FB - Name: stone rail - Flags: Wall, Impassable, ArticleA
+ID: 0x8FC - Name: stone rail - Flags: Wall, Impassable, ArticleA
+ID: 0x92B - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn, LightSource
+ID: 0x92C - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn, Animation, Unknown3
+ID: 0x92D - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn
+ID: 0x92E - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn
+ID: 0x92F - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn
+ID: 0x930 - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn, LightSource
+ID: 0x931 - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn, Animation
+ID: 0x932 - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn
+ID: 0x933 - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn
+ID: 0x934 - Name: oven - Flags: Wall, Impassable, NoShoot, ArticleAn
+ID: 0x935 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x936 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x937 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource, Animation
+ID: 0x938 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x939 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x93A - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x93B - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x93C - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x93D - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, Animation
+ID: 0x93E - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x93F - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x940 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x941 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x942 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x943 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x944 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x945 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource, Animation
+ID: 0x946 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x947 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x948 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x949 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x94A - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x94B - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, Animation
+ID: 0x94C - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x94D - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x94E - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x94F - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x950 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x951 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x952 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x953 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource, Animation
+ID: 0x954 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x955 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x956 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x957 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x958 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x959 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, Animation
+ID: 0x95A - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x95B - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x95C - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x95D - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x95E - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x95F - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x960 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x961 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource, Animation
+ID: 0x962 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x963 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x964 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x965 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x966 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, LightSource
+ID: 0x967 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA, Animation
+ID: 0x968 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x969 - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x96A - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x96B - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x96C - Name: fireplace - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x9FB - Name: wall sconce - Flags: Transparent, ArticleA, LightSource, Animation, Unknown3
+ID: 0x9FC - Name: wall sconce - Flags: Transparent, ArticleA
+ID: 0x9FD - Name: wall sconce - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0x9FE - Name: wall sconce - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0x9FF - Name: wall sconce - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0xA00 - Name: wall sconce - Flags: Transparent, ArticleA, Animation
+ID: 0xA01 - Name: wall sconce - Flags: Transparent, ArticleA
+ID: 0xA02 - Name: wall sconce - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0xA03 - Name: wall sconce - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0xA04 - Name: wall sconce - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0xA05 - Name: wall torch - Flags: Transparent, ArticleA, Animation
+ID: 0xA07 - Name: wall torch - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0xA08 - Name: wall torch - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0xA09 - Name: wall torch - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0xA0A - Name: wall torch - Flags: Transparent, ArticleA, Animation
+ID: 0xA0C - Name: wall torch - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0xA0D - Name: wall torch - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0xA0E - Name: wall torch - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0xEE7 - Name: portrait - Flags: Wall, ArticleA
+ID: 0x121D - Name: wall carving - Flags: None
+ID: 0x121E - Name: wall carving - Flags: None
+ID: 0x121F - Name: wall carving - Flags: None
+ID: 0x1220 - Name: wall carving - Flags: None
+ID: 0x1221 - Name: wall carving - Flags: None
+ID: 0x1222 - Name: wall carving - Flags: None
+ID: 0x1231 - Name: wall carving - Flags: None
+ID: 0x1232 - Name: wall carving - Flags: None
+ID: 0x1233 - Name: wall carving - Flags: None
+ID: 0x1234 - Name: wall carving - Flags: None
+ID: 0x1235 - Name: wall carving - Flags: None
+ID: 0x1236 - Name: wall carving - Flags: None
+ID: 0x1237 - Name: wall carving - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1238 - Name: wall carving - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1239 - Name: wall carving - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x123A - Name: wall carving - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x123B - Name: wall carving - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x123C - Name: wall carving - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x123D - Name: wall carving - Flags: None
+ID: 0x123E - Name: wall carving - Flags: None
+ID: 0x1240 - Name: wall carving - Flags: None
+ID: 0x1241 - Name: wall carving - Flags: None
+ID: 0x1242 - Name: wall carving - Flags: None
+ID: 0x1243 - Name: wall carving - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1244 - Name: wall carving - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1262 - Name: shackles - Flags: Wall
+ID: 0x1263 - Name: shackles - Flags: Wall
+ID: 0x1265 - Name: wall carving - Flags: None
+ID: 0x1266 - Name: wall carving - Flags: None
+ID: 0x1267 - Name: wall carving - Flags: None
+ID: 0x12CC - Name: wall carving - Flags: ArticleA
+ID: 0x12CD - Name: wall carving - Flags: ArticleA
+ID: 0x12CE - Name: wall carving - Flags: None
+ID: 0x12CF - Name: wall carving - Flags: None
+ID: 0x12D0 - Name: wall carving - Flags: None
+ID: 0x12D1 - Name: wall carving - Flags: None
+ID: 0x12D2 - Name: wall carving - Flags: None
+ID: 0x12D3 - Name: wall carving - Flags: None
+ID: 0x12D4 - Name: wall carving - Flags: None
+ID: 0x14D7 - Name: vat - Flags: Wall, Impassable
+ID: 0x14D8 - Name: vat - Flags: Wall, Impassable
+ID: 0x14DA - Name: vat - Flags: Wall, Impassable
+ID: 0x14DB - Name: vat - Flags: Wall, Impassable
+ID: 0x14DE - Name: vat - Flags: Wall, Impassable
+ID: 0x14DF - Name: vat - Flags: Wall, Impassable
+ID: 0x14E1 - Name: vat with ladder - Flags: Wall, Impassable, Surface, Bridge
+ID: 0x14E2 - Name: vat ladder - Flags: Wall, Impassable, Surface, Bridge
+ID: 0x151E - Name: vat - Flags: Wall, Impassable, ArticleA
+ID: 0x151F - Name: vat - Flags: Wall, Impassable, ArticleA
+ID: 0x1524 - Name: vat - Flags: Wall, Impassable, ArticleA
+ID: 0x1910 - Name: bar - Flags: Wall, Impassable, ArticleA
+ID: 0x1911 - Name: bar - Flags: Wall, Impassable, ArticleA
+ID: 0x1912 - Name: bar - Flags: Wall, Impassable, ArticleA
+ID: 0x1913 - Name: bar - Flags: Wall, Impassable, ArticleA
+ID: 0x1918 - Name: bar - Flags: Wall, Impassable, ArticleA
+ID: 0x1919 - Name: bar - Flags: Wall, Impassable, ArticleA
+ID: 0x191A - Name: bar - Flags: Wall, Impassable, ArticleA
+ID: 0x191B - Name: bar - Flags: Wall, Impassable, ArticleA
+ID: 0x191C - Name: bar - Flags: Wall, Impassable, ArticleA
+ID: 0x191D - Name: bar - Flags: Wall, Impassable, ArticleA
+ID: 0x191E - Name: bar - Flags: Wall, Impassable, ArticleA
+ID: 0x191F - Name: bar - Flags: Wall, Impassable, ArticleA
+ID: 0x1A04 - Name: skeleton - Flags: Wall, Impassable, ArticleA
+ID: 0x1A0B - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x1B6B - Name: wall cracks - Flags: None
+ID: 0x1B6C - Name: wall cracks - Flags: Translucent
+ID: 0x1B6D - Name: wall cracks - Flags: Translucent
+ID: 0x1B6E - Name: wall cracks - Flags: Translucent
+ID: 0x1B6F - Name: wall cracks - Flags: Translucent
+ID: 0x1F44 - Name: Wall of Stone Scro - Flags: Generic, ArticleA
+ID: 0x1FED - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Unknown3, Door
+ID: 0x1FEE - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x1FEF - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x1FF0 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x1FF1 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x1FF2 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x1FF3 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x1FF4 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x1FF5 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x1FF6 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x1FF7 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x1FF8 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x1FF9 - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x1FFA - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x1FFB - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x1FFC - Name: barred metal door - Flags: Wall, Impassable, Window, ArticleA, Door
+ID: 0x2097 - Name: Wall of Stone - Flags: None
+ID: 0x215A - Name: rattan wall - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x215B - Name: rattan wall - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x215C - Name: rattan wall - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2166 - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2167 - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2168 - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2169 - Name: cave wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2188 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x2189 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x218A - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x218B - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x218C - Name: palisade - Flags: Wall, Damaging, Impassable, NoShoot, ArticleA
+ID: 0x218D - Name: palisade - Flags: Wall, Damaging, Impassable, NoShoot, ArticleA
+ID: 0x218E - Name: palisade - Flags: Wall, Damaging, Impassable, NoShoot, ArticleA
+ID: 0x218F - Name: palisade - Flags: Wall, Damaging, Impassable, NoShoot, ArticleA
+ID: 0x2190 - Name: palisade - Flags: Wall, Damaging, Impassable, NoShoot, ArticleA
+ID: 0x2191 - Name: palisade - Flags: Wall, Damaging, Impassable, NoShoot, ArticleA
+ID: 0x2192 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x2193 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x2194 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x2195 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x2196 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x2197 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x21A2 - Name: nodraw - Flags: Wall, NoShoot
+ID: 0x21A3 - Name: nodraw - Flags: Wall, Impassable, NoShoot
+ID: 0x21A5 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x21A6 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x21A7 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x21A8 - Name: palisade - Flags: Wall, Damaging, Impassable, ArticleA
+ID: 0x21A9 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21AA - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21AB - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21AC - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21AD - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21AE - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21AF - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21B0 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21B1 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21B2 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21B3 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21B4 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21B5 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21B6 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21B7 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21B8 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21BD - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21BE - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21BF - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21C0 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21C1 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21C2 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21C3 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21C4 - Name: log wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21C5 - Name: log wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21C6 - Name: log wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21C7 - Name: log wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21C8 - Name: log wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21C9 - Name: log wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21CA - Name: log wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21CB - Name: log wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21CC - Name: log wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21CD - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21CE - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21CF - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21D0 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21D1 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x21D2 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x21D3 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x21D4 - Name: wooden fence - Flags: Wall, Impassable, ArticleA
+ID: 0x21D5 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21D6 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21D7 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21D8 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21D9 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21DA - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21DC - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21DD - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21DE - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21DF - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21E0 - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21E1 - Name: dungeon wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21E2 - Name: dungeon wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21E3 - Name: dungeon wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21E4 - Name: dungeon wall - Flags: Wall, Impassable, ArticleA
+ID: 0x21E5 - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21E6 - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21E7 - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21E8 - Name: dungeon wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x21FD - Name: stone wall - Flags: Impassable
+ID: 0x21FF - Name: skull window - Flags: Wall, Impassable
+ID: 0x2200 - Name: skull window - Flags: Wall, Impassable
+ID: 0x2201 - Name: stone spike - Flags: Wall, Impassable
+ID: 0x2202 - Name: stone spike - Flags: Wall, Impassable
+ID: 0x2204 - Name: skull pole - Flags: Wall, Impassable
+ID: 0x2350 - Name: home hearth - Flags: Wall, Impassable
+ID: 0x2351 - Name: home hearth - Flags: Wall, Impassable
+ID: 0x2352 - Name: home hearth - Flags: Wall, Impassable, LightSource, Animation
+ID: 0x2353 - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x2354 - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x2355 - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x2356 - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x2357 - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x2358 - Name: home hearth - Flags: Wall, Impassable, LightSource, Animation
+ID: 0x2359 - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x235A - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x235B - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x235C - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x235D - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x235E - Name: home hearth - Flags: Wall, Impassable, Animation
+ID: 0x235F - Name: home hearth - Flags: Wall, Impassable
+ID: 0x2360 - Name: home hearth - Flags: Wall, Impassable, LightSource, Animation
+ID: 0x2361 - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x2362 - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x2363 - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x2364 - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x2365 - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x2366 - Name: home hearth - Flags: Wall, Impassable, LightSource, Animation
+ID: 0x2367 - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x2368 - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x2369 - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x236A - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x236B - Name: home hearth - Flags: Wall, Impassable, LightSource
+ID: 0x247F - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2480 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2481 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2482 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2483 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2484 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2485 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2486 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2487 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2488 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2489 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x248A - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x248B - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x248C - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x248D - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x248E - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x248F - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2490 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2491 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2492 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2493 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2494 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2495 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2496 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2497 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2498 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2499 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x249A - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x249B - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x249C - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x249D - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x249E - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x249F - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24A0 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24A1 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24A2 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24A3 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24A4 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24A5 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24A6 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24A7 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24A8 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24A9 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24AA - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24AB - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24AC - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24AD - Name: gate - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24AE - Name: gate - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24AF - Name: gate - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24B0 - Name: gate - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24B1 - Name: gate - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24B2 - Name: gate - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24B3 - Name: gate - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24B4 - Name: gate - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24B5 - Name: gate - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24B6 - Name: gate - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24B7 - Name: gate - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24B8 - Name: gate - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24B9 - Name: gate - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24BA - Name: gate - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x24EA - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x24F4 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x24F5 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x24F6 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x24F7 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x24F8 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x24F9 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x24FA - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x24FB - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x24FC - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x24FD - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x24FE - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x24FF - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2500 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2501 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x2502 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2503 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2504 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2505 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2506 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2507 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2508 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2509 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x250A - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x250B - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x250C - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x250D - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x250E - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x250F - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2510 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2511 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2512 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2513 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x2514 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2515 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2516 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2517 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2518 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2519 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x251A - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x251B - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x251C - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x251D - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x251E - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x251F - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x2520 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2521 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2522 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2523 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2524 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2525 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x2526 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2527 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2528 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2529 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x252A - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x252B - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x252C - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x252D - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x252E - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x252F - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2530 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x2531 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2532 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2533 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2534 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2535 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2536 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2537 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x2538 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x2539 - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x253A - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x253B - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x253C - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA
+ID: 0x253D - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x253E - Name: window shutter - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x253F - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x2540 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x2541 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x2542 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x2543 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x2544 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x2545 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x2546 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x2547 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x2548 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x2549 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x254A - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x254B - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x254C - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x254D - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x254E - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x254F - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x2550 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x2551 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x2552 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x2553 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x26D0 - Name: window shutter - Flags: Wall, Impassable, Window, NoShoot, ArticleA
+ID: 0x26D1 - Name: window shutter - Flags: Wall, Impassable, Window, NoShoot, ArticleA
+ID: 0x26D2 - Name: window shutter - Flags: Wall, Impassable, Window, NoShoot, ArticleA
+ID: 0x26D3 - Name: window shutter - Flags: Wall, Impassable, Window, NoShoot, ArticleA
+ID: 0x26D4 - Name: window shutter - Flags: Wall, Impassable, Window, NoShoot, ArticleA
+ID: 0x26D5 - Name: window shutter - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x26D6 - Name: window shutter - Flags: Wall, Impassable, Window, NoShoot, ArticleA
+ID: 0x26D7 - Name: window shutter - Flags: Wall, Impassable, Window, NoShoot, ArticleA
+ID: 0x26D8 - Name: window shutter - Flags: Wall, Impassable, Window, NoShoot, ArticleA
+ID: 0x26D9 - Name: window shutter - Flags: Wall, Impassable, Window, NoShoot, ArticleA
+ID: 0x2713 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2714 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2715 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2716 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2717 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2718 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2719 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x271A - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x271B - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x271C - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x271D - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x271E - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x271F - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2720 - Name: wood floor - Flags: Wall, Surface, NoShoot, ArticleA
+ID: 0x2721 - Name: wood floor - Flags: Wall, Surface, NoShoot, ArticleA
+ID: 0x2753 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2754 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2755 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2756 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2757 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2758 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2759 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x275A - Name: wood post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x275B - Name: wood post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x275C - Name: wood post - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x275D - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x275E - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x275F - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2760 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2761 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2762 - Name: latticed wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x285F - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2860 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2861 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2862 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2863 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2864 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2865 - Name: wooden wall - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x2866 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2867 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2868 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2869 - Name: wooden wall - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x286A - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x286B - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x286C - Name: wooden wall - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x286D - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2886 - Name: wall painting - Flags: ArticleA
+ID: 0x2887 - Name: wall painting - Flags: ArticleA
+ID: 0x2888 - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2889 - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x288A - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x288B - Name: pole - Flags: Wall, Impassable, ArticleA
+ID: 0x288C - Name: pole - Flags: Wall, Impassable, ArticleA
+ID: 0x288D - Name: pole - Flags: Wall, Impassable, ArticleA
+ID: 0x288E - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x288F - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2890 - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2891 - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2892 - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2893 - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2894 - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2895 - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2896 - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2897 - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2898 - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x2899 - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x289A - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x289B - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x289C - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x289D - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x289E - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x289F - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x28A0 - Name: cloth frame wall - Flags: Wall, Impassable, ArticleA
+ID: 0x28A1 - Name: pole - Flags: Wall, Impassable, ArticleA
+ID: 0x28A2 - Name: pole - Flags: Wall, Impassable, ArticleA
+ID: 0x28A3 - Name: pole - Flags: Wall, Impassable, ArticleA
+ID: 0x2938 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2939 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x293A - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x293B - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x293C - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x293D - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x293E - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x293F - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2940 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2941 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2942 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2943 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2944 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2945 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2946 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2947 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2948 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2949 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x294A - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x294B - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x294C - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x294D - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x294E - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x294F - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2950 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2951 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2952 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2953 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2954 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2955 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2956 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2957 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2958 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2959 - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x295A - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x295B - Name: clay wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2990 - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2991 - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2992 - Name: wooden pole - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2993 - Name: wooden pole - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2994 - Name: wooden pole - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2995 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2996 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2997 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2998 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2999 - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x299A - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x299B - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x299C - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x299D - Name: wooden wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x299E - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x299F - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29A0 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29A1 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29A2 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29A3 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29A4 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29A5 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29A6 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29A7 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29A8 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29A9 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29AA - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29AB - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29AC - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29AD - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29AE - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29AF - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29B0 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29B1 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29B2 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29B3 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29B4 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29B5 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29B6 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29B7 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29B8 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29B9 - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29BA - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29BB - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29BC - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29BD - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29BE - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29BF - Name: stained glass wind - Flags: Wall, Impassable, Window, ArticleA, LightSource
+ID: 0x29DC - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29DD - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29DE - Name: plaster wall - Flags: Wall, NoShoot, ArticleA
+ID: 0x29DF - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29E0 - Name: plaster wall - Flags: Wall, NoShoot, ArticleA
+ID: 0x29E1 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29E2 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29E3 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29E4 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29E5 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29E6 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29E7 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29E8 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29E9 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29EA - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29EB - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29EC - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29ED - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29EE - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29EF - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29F0 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29F1 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29F2 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29F3 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29F4 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29F5 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29F6 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29F7 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29F8 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29F9 - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29FA - Name: plaster wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x29FB - Name: plaster wall - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x29FC - Name: plaster wall - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2A05 - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x2A06 - Name: secret door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x2A07 - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x2A08 - Name: secret door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x2A09 - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x2A0A - Name: secret door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x2A0B - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x2A0C - Name: secret door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x2A0D - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x2A0E - Name: secret door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x2A0F - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x2A10 - Name: secret door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x2A11 - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x2A12 - Name: secret door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x2A13 - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x2A14 - Name: secret door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x2A15 - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x2A16 - Name: secret door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x2A17 - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x2A18 - Name: secret door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x2A19 - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x2A1A - Name: secret door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x2A1B - Name: sliding door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x2A1C - Name: secret door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x2A30 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2A31 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2A32 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2A33 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2A34 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2A35 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2A36 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2A37 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2A38 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2A39 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2A3A - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2A3B - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2B7A - Name: simple half-wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2B7B - Name: simple wall rk - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2B7C - Name: simple wall ght - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2B7D - Name: simple windowed wa - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2B7E - Name: simple windowed wa - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2B7F - Name: simple windowed wa - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2B80 - Name: simple windowed wa - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2BA9 - Name: ornate arch k1 - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x2BAA - Name: ornate short arch - Flags: Wall, ArticleA, Unknown3
+ID: 0x2BAB - Name: ornate short arch - Flags: Wall, ArticleA, Unknown3
+ID: 0x2BAC - Name: ornate arch ht 2 - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x2BAD - Name: short ornate wall 0 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BAE - Name: ornate half wall 40 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BAF - Name: ornate wall ower_80 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BB0 - Name: short ornate post 0 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BB1 - Name: ornate half post 40 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BB2 - Name: ornate post pper_80 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BB3 - Name: archway way_dark - Flags: Wall, ArticleA
+ID: 0x2BB4 - Name: archway way_light - Flags: Wall, ArticleA
+ID: 0x2BB9 - Name: short intricate wal - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BBA - Name: short intricate wal - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BBB - Name: intricate half wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BBC - Name: intricate half wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BBD - Name: intricate wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BBE - Name: intricate wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BBF - Name: windowed wall k - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2BC0 - Name: windowed wall ht - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2BC1 - Name: windowed wall k - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2BC2 - Name: windowed wall ht - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2BC3 - Name: simple arch k - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x2BC4 - Name: simple short arch - Flags: Wall, ArticleA, Unknown3
+ID: 0x2BC5 - Name: simple short arch - Flags: Wall, ArticleA, Unknown3
+ID: 0x2BC6 - Name: simple arch ht - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x2BC7 - Name: simple short wall 0 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BC8 - Name: simple short post 0 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BC9 - Name: simple half wall 40 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BCA - Name: simple half post 40 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BCB - Name: simple corner wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BCC - Name: simple post pper_80 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2BCD - Name: simple archway k - Flags: Wall, ArticleA
+ID: 0x2BCE - Name: simple archway ht - Flags: Wall, ArticleA
+ID: 0x2CEF - Name: simple short wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2CF0 - Name: simple short wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2CF1 - Name: simple half wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2CF2 - Name: simple half wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2CF3 - Name: simple wall rk - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2CF4 - Name: simple wall ght - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2CF5 - Name: simple windowed wa - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2CF6 - Name: simple windowed wa - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2CF7 - Name: simple windowed wa - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2CF8 - Name: simple windowed wa - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2D14 - Name: wooden arch k_1 - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x2D15 - Name: wooden arch k_2 - Flags: Wall, ArticleA, Unknown3
+ID: 0x2D16 - Name: wooden arch ht_1 - Flags: Wall, ArticleA, Unknown3
+ID: 0x2D17 - Name: wooden arch ht_2 - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x2D18 - Name: short wooden wall 0 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2D19 - Name: wooden half wall 40 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2D1A - Name: wooden corner wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2D1B - Name: short wooden post 0 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2D1C - Name: wooden half post 40 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2D1D - Name: wooden post pper_80 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2D36 - Name: archway way_dark - Flags: Wall, ArticleA
+ID: 0x2D37 - Name: archway way_light - Flags: Wall, ArticleA
+ID: 0x2D3C - Name: wooden short wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2D3D - Name: wooden short wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2D3E - Name: wooden half wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2D3F - Name: wooden half wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2D40 - Name: wooden wall dark - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2D41 - Name: wooden wall light - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2D42 - Name: wooded window rk - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2D43 - Name: wooded window ght - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2D44 - Name: wooded window rk - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2D45 - Name: wooded window ght - Flags: Wall, Impassable, Window, NoShoot, ArticleA, LightSource
+ID: 0x2D46 - Name: wooden door closed - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D47 - Name: wooden door opened - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D48 - Name: wooden door closed - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D49 - Name: wooden door opened - Flags: Wall, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D63 - Name: simple door closed - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D64 - Name: simple door open - Flags: Wall, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D65 - Name: simple door closed - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D66 - Name: simple door open - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D67 - Name: ornate door closed - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D68 - Name: ornate door open - Flags: Wall, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D69 - Name: ornate door closed - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D6A - Name: ornate door open - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D6B - Name: plain door closed - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D6C - Name: plain door open - Flags: Wall, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D6D - Name: plain door closed - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D6E - Name: plain door open - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3, Door
+ID: 0x2D73 - Name: elven wall map - Flags: ArticleA
+ID: 0x2D74 - Name: elven wall map - Flags: ArticleA
+ID: 0x2DBF - Name: plain arch rk - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x2DC0 - Name: plain arch rk - Flags: Wall, ArticleA, Unknown3
+ID: 0x2DC1 - Name: plain arch ght - Flags: Wall, ArticleA, Unknown3
+ID: 0x2DC2 - Name: plain arch ght - Flags: Wall, Impassable, ArticleA, Unknown3
+ID: 0x2DC3 - Name: short corner wall 0 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2DC4 - Name: corner half wall 40 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2DC5 - Name: corner wall ower_80 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2DC6 - Name: short post upper_20 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2DC7 - Name: half post _upper_40 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2DC8 - Name: post orner_upper_80 - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2DC9 - Name: archway way_dark - Flags: Wall, ArticleA
+ID: 0x2DCA - Name: archway way_light - Flags: Wall, ArticleA
+ID: 0x2DCF - Name: plain short wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2DD0 - Name: plain short wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2DD1 - Name: pain half floor - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2DDB - Name: elven stove - Flags: Wall, Impassable, ArticleAn
+ID: 0x2DDC - Name: elven stove - Flags: Wall, Impassable, ArticleAn
+ID: 0x2DF7 - Name: grey corner hwall r - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2DF8 - Name: grey corner bit per - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2DF9 - Name: grey half wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2DFA - Name: grey half wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2DFB - Name: wood corner hwall r - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2DFC - Name: wood corner bit per - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2DFD - Name: wood half wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2DFE - Name: wood half wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2DFF - Name: thorn wall nbush - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2E00 - Name: green thorn wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x2EE0 - Name: Invisible Wall Tile - Flags: None
+ID: 0x2F13 - Name: cave wall - Flags: Background, ArticleA
+ID: 0x2F14 - Name: cave wall - Flags: Background, ArticleA
+ID: 0x2F15 - Name: cave wall - Flags: Background, ArticleA
+ID: 0x2F16 - Name: cave wall - Flags: Background, ArticleA
+ID: 0x2F17 - Name: cave wall - Flags: Background, ArticleA
+ID: 0x2F18 - Name: cave wall - Flags: Background, ArticleA
+ID: 0x2F19 - Name: cave wall - Flags: Background, ArticleA
+ID: 0x2F1A - Name: cave wall - Flags: Background, ArticleA
+ID: 0x2F1B - Name: arch - Flags: Wall, Impassable, ArticleA
+ID: 0x2F1C - Name: arch - Flags: Wall, Impassable, ArticleA
+ID: 0x2F1D - Name: arch - Flags: Wall, Impassable, ArticleA
+ID: 0x2F1E - Name: arch - Flags: Wall, Impassable, ArticleA
+ID: 0x2FD4 - Name: crystal pedastal - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2FD5 - Name: crystal pedastal - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x2FE2 - Name: moon door O CMI - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x2FE3 - Name: moon door O CMI - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x2FE4 - Name: moon door O CMI - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x2FE5 - Name: moon door O CMI - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x2FEC - Name: gothic column I - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x2FED - Name: gothic column I - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x2FFB - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x2FFC - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x2FFD - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x2FFE - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x2FFF - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x3000 - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x3001 - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x3008 - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x3009 - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x300A - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x300B - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x300C - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x300D - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x300E - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x300F - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x3010 - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x3011 - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x3012 - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x3013 - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x3014 - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x3015 - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x3016 - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x3017 - Name: wall NED TO CMI - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x3025 - Name: tall tree bark - Flags: Background, Wall, Impassable, NoShoot
+ID: 0x3026 - Name: tall tree bark - Flags: Background, Wall, Impassable, NoShoot
+ID: 0x3027 - Name: tall tree bark - Flags: Background, Wall, Impassable, NoShoot
+ID: 0x3028 - Name: tall tree bark - Flags: Background, Wall, Impassable, NoShoot
+ID: 0x3029 - Name: tall tree bark - Flags: Background, Wall, Impassable, NoShoot
+ID: 0x302A - Name: tall tree bark - Flags: Background, Wall, Impassable, NoShoot
+ID: 0x302B - Name: tall tree bark - Flags: Background, Wall, Impassable, NoShoot
+ID: 0x302C - Name: tall tree bark - Flags: Background, Wall, Impassable, NoShoot
+ID: 0x310B - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x310C - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x310D - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x310E - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x310F - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3110 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3111 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3112 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3113 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3114 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3115 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3116 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3117 - Name: wall - Flags: Wall, Impassable, NoShoot, ArticleA
+ID: 0x3118 - Name: wall - Flags: Background, Wall, NoShoot, ArticleA
+ID: 0x3119 - Name: wall - Flags: Background, Wall, NoShoot, ArticleA
+ID: 0x311A - Name: wall - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x311B - Name: wall - Flags: Background, Wall, NoShoot, ArticleA
+ID: 0x311C - Name: wall - Flags: Background, Wall, NoShoot, ArticleA
+ID: 0x311D - Name: wall - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x311E - Name: wall - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x311F - Name: wall - Flags: Background, Wall, NoShoot, ArticleA
+ID: 0x3120 - Name: wall - Flags: Background, Wall, NoShoot, ArticleA
+ID: 0x3121 - Name: wall - Flags: Background, Wall, Impassable, NoShoot, ArticleA
+ID: 0x3127 - Name: stone wall - Flags: Wall, Impassable, NoShoot, ArticleA, Unknown3
+ID: 0x319C - Name: moon door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x319D - Name: moon door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x319E - Name: moon door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x319F - Name: moon door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31A0 - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31A1 - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31A2 - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31A3 - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31A4 - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31A5 - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31A6 - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31A7 - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31A8 - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31A9 - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31AA - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31AB - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31AC - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31AD - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31AE - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x31AF - Name: door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x35D7 - Name: crystal wall - Flags: Wall, Impassable
+ID: 0x35D8 - Name: crystal wall - Flags: Wall, Impassable
+ID: 0x35D9 - Name: crystal wall - Flags: Wall, Impassable, NoShoot
+ID: 0x35DA - Name: crystal wall - Flags: Wall, Impassable
+ID: 0x35DB - Name: crystal wall - Flags: Wall, Impassable
+ID: 0x35DC - Name: crystal wall - Flags: Wall, Impassable, NoShoot
+ID: 0x35DD - Name: crystal wall - Flags: Wall, Impassable
+ID: 0x35DE - Name: crystal wall - Flags: Wall, Impassable
+ID: 0x35DF - Name: crystal wall - Flags: Wall, Impassable
+ID: 0x35E0 - Name: crystal wall - Flags: Wall, Impassable
+ID: 0x35E1 - Name: crystal wall - Flags: Wall, Impassable, NoShoot
+ID: 0x35E2 - Name: crystal wall - Flags: Wall, Impassable, NoShoot
+ID: 0x35E3 - Name: crystal wall - Flags: Wall, Impassable, NoShoot
+ID: 0x35E4 - Name: crystal wall - Flags: Wall, Impassable, NoShoot
+ID: 0x35E5 - Name: crystal wall - Flags: Wall, Impassable, Window, NoShoot
+ID: 0x35E6 - Name: crystal wall - Flags: Wall, Impassable, Window, NoShoot
+ID: 0x35E7 - Name: crystal wall - Flags: Wall, Impassable, NoShoot, Door
+ID: 0x35E8 - Name: crystal wall - Flags: Wall, Impassable, NoShoot, Door
+ID: 0x360E - Name: shadow arch - Flags: Wall, Impassable, Window, NoShoot
+ID: 0x360F - Name: shadow arch - Flags: Wall, Impassable, Window, NoShoot
+ID: 0x3610 - Name: shadow arch - Flags: Wall, Window
+ID: 0x3611 - Name: shadow arch - Flags: Wall, Window
+ID: 0x3613 - Name: shadow wall - Flags: Wall, Impassable, NoShoot
+ID: 0x3614 - Name: shadow wall - Flags: Wall, Impassable
+ID: 0x3615 - Name: shadow wall - Flags: Wall, Impassable
+ID: 0x3616 - Name: shadow wall - Flags: Wall, Impassable, NoShoot
+ID: 0x3617 - Name: shadow wall - Flags: Wall, Impassable
+ID: 0x3618 - Name: shadow wall - Flags: Wall, Impassable
+ID: 0x3619 - Name: shadow wall - Flags: Wall, Impassable, NoShoot
+ID: 0x3636 - Name: shadow wall - Flags: Wall, Impassable
+ID: 0x3637 - Name: shadow roof - Flags: Wall, Impassable
+ID: 0x3638 - Name: shadow roof - Flags: Wall, Impassable
+ID: 0x3639 - Name: shadow roof - Flags: Wall, Impassable
+ID: 0x363A - Name: shadow roof - Flags: Wall, Impassable, NoShoot
+ID: 0x363B - Name: shadow roof - Flags: Wall, Impassable, NoShoot
+ID: 0x363C - Name: shadow roof - Flags: Wall, Impassable, Window, NoShoot, LightSource
+ID: 0x363D - Name: shadow roof - Flags: Wall, Impassable, Window, NoShoot, LightSource
+ID: 0x363E - Name: shadow roof - Flags: Wall, Impassable, Window, NoShoot, LightSource
+ID: 0x363F - Name: shadow roof - Flags: Wall, Impassable, Window, NoShoot, LightSource
+ID: 0x3640 - Name: shadow door - Flags: Wall, Impassable, NoShoot, Door
+ID: 0x3641 - Name: shadow door - Flags: Wall, Impassable, NoShoot, Door
+ID: 0x3642 - Name: shadow door - Flags: Wall, Impassable, NoShoot, Door
+ID: 0x3643 - Name: shadow door - Flags: Wall, Impassable, NoShoot, Door
+ID: 0x3644 - Name: shadow door - Flags: Wall, Impassable, NoShoot, Door
+ID: 0x3645 - Name: shadow door - Flags: Wall, Impassable, NoShoot, Door
+ID: 0x3646 - Name: shadow door - Flags: Wall, Impassable, NoShoot, Door
+ID: 0x3647 - Name: shadow wall - Flags: Wall, Impassable, NoShoot
+ID: 0x3648 - Name: shadow wall - Flags: Wall, Impassable, NoShoot
+ID: 0x3649 - Name: shadow wall - Flags: Wall, Impassable, NoShoot
+ID: 0x364A - Name: shadow wall - Flags: Wall, Impassable, NoShoot
+ID: 0x3670 - Name: crystal wall - Flags: Wall, Impassable, NoShoot
+ID: 0x3671 - Name: crystal wall - Flags: Wall, Impassable, NoShoot
+ID: 0x3672 - Name: crystal wall - Flags: Wall, Impassable, NoShoot
+ID: 0x3673 - Name: crystal wall - Flags: Wall, Impassable, NoShoot
+ID: 0x3674 - Name: shadow wall - Flags: Wall, Impassable, NoShoot
+ID: 0x3675 - Name: shadow wall - Flags: Wall, Impassable, NoShoot
+ID: 0x3676 - Name: shadow wall - Flags: Wall, Impassable, NoShoot
+ID: 0x3677 - Name: shadow wall - Flags: Wall, Impassable, NoShoot
+ID: 0x367B - Name: crystal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x367C - Name: crystal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x367D - Name: crystal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x367E - Name: crystal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x367F - Name: crystal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3680 - Name: crystal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3681 - Name: crystal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3682 - Name: crystal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3683 - Name: crystal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3684 - Name: crystal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3685 - Name: crystal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3686 - Name: crystal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3687 - Name: crystal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3688 - Name: crystal door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x3689 - Name: crystal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x368A - Name: crystal door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x368B - Name: shadow door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x368C - Name: shadow door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x368D - Name: shadow door - Flags: Wall, Impassable, Door
+ID: 0x368E - Name: shadow door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x368F - Name: shadow door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3690 - Name: shadow door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3691 - Name: shadow door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3692 - Name: shadow door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3693 - Name: shadow door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3694 - Name: shadow door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3695 - Name: shadow door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3696 - Name: shadow door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3697 - Name: shadow door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x3698 - Name: shadow door - Flags: Wall, NoShoot, ArticleA, Door
+ID: 0x3699 - Name: shadow door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x369A - Name: shadow door - Flags: Wall, Impassable, NoShoot, ArticleA, Door
+ID: 0x369F - Name: shadow arch - Flags: Wall, Impassable, Window, NoShoot
+ID: 0x3D94 - Name: wall torch - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0x3D95 - Name: wall torch - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0x3D96 - Name: wall torch - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0x3D97 - Name: wall torch - Flags: Transparent, ArticleA
+ID: 0x3D98 - Name: wall torch - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0x3D99 - Name: wall torch - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0x3D9A - Name: wall torch - Flags: Transparent, ArticleA, LightSource, Animation
+ID: 0x3D9B - Name: wall torch - Flags: Transparent, ArticleA
+ID: 0x3EF2 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3EF3 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3EF4 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3EF5 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3EF6 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3EF7 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3EF8 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3EF9 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3EFA - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3EFB - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3EFC - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3EFD - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3EFE - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3EFF - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3F00 - Name: jungle wall - Flags: Wall, Impassable, Unknown3
+ID: 0x3F01 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3F02 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3F03 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3F04 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3F05 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3F06 - Name: jungle wall - Flags: Wall, Impassable
+ID: 0x3F07 - Name: jungle wall - Flags: Wall, Impassable
